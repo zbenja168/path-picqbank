@@ -1,0 +1,123 @@
+{
+  "categoryId": "cancer-growth-and-metastasis",
+  "categoryName": "Cancer Growth and Metastasis",
+  "questions": [
+    {
+      "id": "papic-102",
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "stem": "These paired breast sections show tumor cells infiltrating in a single-file pattern (left, H&E) and absence of the membranous brown immunostain seen normally (right). The loss of the marker highlighted here most directly impairs which cellular function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actin-based muscle contraction"
+        },
+        {
+          "label": "B",
+          "text": "Cell-to-cell adhesion"
+        },
+        {
+          "label": "C",
+          "text": "Oxygen transport"
+        },
+        {
+          "label": "D",
+          "text": "DNA replication"
+        },
+        {
+          "label": "E",
+          "text": "Apoptosis signaling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The single-file infiltration and loss of membranous staining reflect loss of E-cadherin, a homophilic adhesion molecule; its loss disrupts cell-to-cell adhesion, a hallmark of invasive lobular carcinoma. The other functions are unrelated to E-cadherin.",
+        "whyCorrect": "The single-file infiltration and loss of membranous staining reflect loss of E-cadherin, a homophilic adhesion molecule; its loss disrupts cell-to-cell adhesion, a hallmark of invasive lobular carcinoma. The other functions are unrelated to E-cadherin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-102_pa018_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-103",
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "stem": "This uterine sarcoma shows a rounded nest of neoplastic cells filling and expanding a vascular space. A tumor demonstrating this pattern of spread would be expected to metastasize primarily by which route?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct local extension"
+        },
+        {
+          "label": "B",
+          "text": "Hematogenous spread"
+        },
+        {
+          "label": "C",
+          "text": "Transcoelomic seeding"
+        },
+        {
+          "label": "D",
+          "text": "Lymphatic spread"
+        },
+        {
+          "label": "E",
+          "text": "Perineural spread"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sarcomas of mesenchymal origin invade vessels and characteristically metastasize hematogenously, as shown by tumor filling the vascular lumen. Lymphatic spread is typical of carcinomas, transcoelomic seeding occurs across body cavities, and perineural/direct extension are different routes.",
+        "whyCorrect": "Sarcomas of mesenchymal origin invade vessels and characteristically metastasize hematogenously, as shown by tumor filling the vascular lumen. Lymphatic spread is typical of carcinomas, transcoelomic seeding occurs across body cavities, and perineural/direct extension are different routes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-103_pa018_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-104",
+      "topicId": "cancer-growth-and-metastasis",
+      "topicName": "Cancer Growth and Metastasis",
+      "stem": "This gross specimen shows the omentum diffusely studded and thickened by nodular tumor deposits. By which mechanism of spread did the ovarian carcinoma most likely reach this site?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Perineural spread along nerve sheaths"
+        },
+        {
+          "label": "B",
+          "text": "Transcoelomic (seeding) spread across the peritoneal cavity"
+        },
+        {
+          "label": "C",
+          "text": "Hematogenous spread through the portal vein"
+        },
+        {
+          "label": "D",
+          "text": "Direct invasion through the uterine wall"
+        },
+        {
+          "label": "E",
+          "text": "Lymphatic spread to regional nodes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ovarian carcinoma classically seeds the peritoneal cavity, coating the omentum with tumor (omental caking) via transcoelomic spread. The other routes do not explain diffuse serosal/omental studding.",
+        "whyCorrect": "Ovarian carcinoma classically seeds the peritoneal cavity, coating the omentum with tumor (omental caking) via transcoelomic spread. The other routes do not explain diffuse serosal/omental studding.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-104_pa018_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

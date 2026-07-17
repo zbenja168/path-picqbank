@@ -1,0 +1,321 @@
+{
+  "categoryId": "transplantation",
+  "categoryName": "Transplantation",
+  "questions": [
+    {
+      "id": "papic-009",
+      "topicId": "transplantation",
+      "topicName": "Transplantation",
+      "stem": "This labeled schematic maps a polymorphic gene cluster on the short arm of chromosome 6, organized into class I, class II, and class III regions. The molecules encoded here perform which primary immunologic function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Forming the membrane attack complex of complement"
+        },
+        {
+          "label": "B",
+          "text": "Secreting circulating antibodies against foreign antigens"
+        },
+        {
+          "label": "C",
+          "text": "Displaying self and non-self antigens for T-cell recognition"
+        },
+        {
+          "label": "D",
+          "text": "Producing clotting factors of the coagulation cascade"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The diagram shows the HLA (MHC) gene complex at 6p21. These genes encode cell-surface MHC molecules that present peptide antigens, allowing the immune system to distinguish self from non-self, which is the basis of transplant matching and rejection.",
+        "whyCorrect": "The diagram shows the HLA (MHC) gene complex at 6p21. These genes encode cell-surface MHC molecules that present peptide antigens, allowing the immune system to distinguish self from non-self, which is the basis of transplant matching and rejection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-009_pa013_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-089",
+      "topicId": "transplantation",
+      "topicName": "Transplantation",
+      "stem": "The upper donor liver (A) appears pale, yellow, and greasy compared with the deeper red-brown normal liver below (B). This gross change is caused by accumulation of what substance within hepatocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bile pigment"
+        },
+        {
+          "label": "B",
+          "text": "Triglyceride (fat)"
+        },
+        {
+          "label": "C",
+          "text": "Amyloid protein"
+        },
+        {
+          "label": "D",
+          "text": "Iron (hemosiderin)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pale, yellowed, enlarged appearance is characteristic of hepatic steatosis, in which triglyceride accumulates in hepatocytes. Significant macrovesicular steatosis is a relative or absolute contraindication to using the liver for transplant.",
+        "whyCorrect": "The pale, yellowed, enlarged appearance is characteristic of hepatic steatosis, in which triglyceride accumulates in hepatocytes. Significant macrovesicular steatosis is a relative or absolute contraindication to using the liver for transplant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-089_pa013_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-090",
+      "topicId": "transplantation",
+      "topicName": "Transplantation",
+      "stem": "This H&E-stained donor liver shows numerous large, clear, sharply defined vacuoles that displace hepatocyte nuclei to the cell periphery. What is this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Microvesicular steatosis"
+        },
+        {
+          "label": "B",
+          "text": "Glycogenated nuclei"
+        },
+        {
+          "label": "C",
+          "text": "Macrovesicular steatosis"
+        },
+        {
+          "label": "D",
+          "text": "Hydropic (ballooning) degeneration"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A single large fat droplet pushing the nucleus to the edge of the hepatocyte defines macrovesicular steatosis. Confirmation of greater than 30 percent macrovesicular steatosis is associated with poor early graft function.",
+        "whyCorrect": "A single large fat droplet pushing the nucleus to the edge of the hepatocyte defines macrovesicular steatosis. Confirmation of greater than 30 percent macrovesicular steatosis is associated with poor early graft function.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-090_pa013_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-091",
+      "topicId": "transplantation",
+      "topicName": "Transplantation",
+      "stem": "In the right-hand panel, a special stain highlights blue-staining bands that bridge between adjacent regions of the liver parenchyma. These bands represent excess deposition of what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Collagen (fibrous tissue)"
+        },
+        {
+          "label": "B",
+          "text": "Fibrin"
+        },
+        {
+          "label": "C",
+          "text": "Iron"
+        },
+        {
+          "label": "D",
+          "text": "Fat"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The trichrome stain colors collagen blue, revealing bridging fibrosis. Fibrosis is graded by extent of involvement and is an important determinant of donor organ viability.",
+        "whyCorrect": "The trichrome stain colors collagen blue, revealing bridging fibrosis. Fibrosis is graded by extent of involvement and is an important determinant of donor organ viability.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-091_pa013_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-092",
+      "topicId": "transplantation",
+      "topicName": "Transplantation",
+      "stem": "The arrow points to hepatocytes that are shrunken, deeply eosinophilic, and have lost their nuclei while retaining cellular outlines. What process does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Regenerative hyperplasia"
+        },
+        {
+          "label": "B",
+          "text": "Steatosis"
+        },
+        {
+          "label": "C",
+          "text": "Coagulative necrosis"
+        },
+        {
+          "label": "D",
+          "text": "Apoptosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Loss of nuclear staining with preserved cell outline is coagulative necrosis of hepatocytes. Greater than 10 percent necrosis may disqualify a donor organ from transplantation.",
+        "whyCorrect": "Loss of nuclear staining with preserved cell outline is coagulative necrosis of hepatocytes. Greater than 10 percent necrosis may disqualify a donor organ from transplantation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-092_pa013_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-093",
+      "topicId": "transplantation",
+      "topicName": "Transplantation",
+      "stem": "This frozen section of a donor kidney shows arrows indicating expansion of the space between tubules by scarring together with a mononuclear cell infiltrate. What two chronic changes are demonstrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal vein thrombosis"
+        },
+        {
+          "label": "B",
+          "text": "Crescentic glomerulonephritis"
+        },
+        {
+          "label": "C",
+          "text": "Interstitial fibrosis and inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Acute tubular necrosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Widening of the interstitium by collagen (fibrosis) accompanied by inflammatory cells constitutes interstitial fibrosis and inflammation, a key pathology assessed in donor kidney biopsies.",
+        "whyCorrect": "Widening of the interstitium by collagen (fibrosis) accompanied by inflammatory cells constitutes interstitial fibrosis and inflammation, a key pathology assessed in donor kidney biopsies.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-093_pa013_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-094",
+      "topicId": "transplantation",
+      "topicName": "Transplantation",
+      "stem": "Across these three arterial cross-sections the lumen becomes progressively narrowed. The wall change responsible is thickening of which layer of the vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intima"
+        },
+        {
+          "label": "B",
+          "text": "Adventitia"
+        },
+        {
+          "label": "C",
+          "text": "Media"
+        },
+        {
+          "label": "D",
+          "text": "External elastic lamina"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Arterial sclerosis in the kidney reflects deposition of collagenous matrix and smooth muscle between the endothelium and internal elastic lamina, thickening the intima and narrowing the lumen.",
+        "whyCorrect": "Arterial sclerosis in the kidney reflects deposition of collagenous matrix and smooth muscle between the endothelium and internal elastic lamina, thickening the intima and narrowing the lumen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-094_pa013_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-095",
+      "topicId": "transplantation",
+      "topicName": "Transplantation",
+      "stem": "The wall of this small vessel is thickened by glassy, homogeneous, deeply eosinophilic material with loss of normal wall structure. What is this change called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hyaline arteriolosclerosis"
+        },
+        {
+          "label": "B",
+          "text": "Fibrinoid necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Atherosclerotic plaque"
+        },
+        {
+          "label": "D",
+          "text": "Medial calcification"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Deposition of homogeneous eosinophilic protein material in the arteriolar wall is arteriolar hyalinization (hyaline arteriolosclerosis), commonly associated with hypertension and diabetes in donor kidneys.",
+        "whyCorrect": "Deposition of homogeneous eosinophilic protein material in the arteriolar wall is arteriolar hyalinization (hyaline arteriolosclerosis), commonly associated with hypertension and diabetes in donor kidneys.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-095_pa013_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-096",
+      "topicId": "transplantation",
+      "topicName": "Transplantation",
+      "stem": "Compared with the well-organized capillary tuft on the left, the glomerulus on the right (arrows) has lost its capillary architecture. It has been replaced by what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dense neutrophilic infiltrate"
+        },
+        {
+          "label": "B",
+          "text": "Cellular crescents"
+        },
+        {
+          "label": "C",
+          "text": "Acellular hyalinized scar tissue"
+        },
+        {
+          "label": "D",
+          "text": "Fibrin thrombi"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Global glomerulosclerosis is scarring and hyalinization affecting more than half of the glomerulus, obliterating the capillary loops with acellular hyaline material. The proportion of sclerosed glomeruli helps determine kidney viability.",
+        "whyCorrect": "Global glomerulosclerosis is scarring and hyalinization affecting more than half of the glomerulus, obliterating the capillary loops with acellular hyaline material. The proportion of sclerosed glomeruli helps determine kidney viability.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-096_pa013_f10.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

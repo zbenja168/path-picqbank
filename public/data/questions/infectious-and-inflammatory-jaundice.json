@@ -1,0 +1,240 @@
+{
+  "categoryId": "infectious-and-inflammatory-jaundice",
+  "categoryName": "Infectious and Inflammatory Jaundice",
+  "questions": [
+    {
+      "id": "papic-010",
+      "topicId": "infectious-and-inflammatory-jaundice",
+      "topicName": "Infectious and Inflammatory Jaundice",
+      "stem": "This liver biopsy shows portal lymphoplasmacytic inflammation, the defining histologic feature of chronic viral hepatitis. Which hepatotropic virus most commonly produces this chronic active hepatitis and is used as the prototype in this discussion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatitis E virus"
+        },
+        {
+          "label": "B",
+          "text": "Hepatitis D virus"
+        },
+        {
+          "label": "C",
+          "text": "Hepatitis A virus"
+        },
+        {
+          "label": "D",
+          "text": "Hepatitis B virus"
+        },
+        {
+          "label": "E",
+          "text": "Hepatitis C virus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hepatitis C rarely causes symptomatic acute infection but frequently becomes chronic, marked by portal lymphocytic/lymphoplasmacytic inflammation that can progress to cirrhosis.",
+        "whyCorrect": "Hepatitis C rarely causes symptomatic acute infection but frequently becomes chronic, marked by portal lymphocytic/lymphoplasmacytic inflammation that can progress to cirrhosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-010_pa016_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-011",
+      "topicId": "infectious-and-inflammatory-jaundice",
+      "topicName": "Infectious and Inflammatory Jaundice",
+      "stem": "A special stain applied to this later-stage chronic hepatitis biopsy highlights delicate bridging septa in blue. What tissue component does this blue-staining material represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemosiderin (iron)"
+        },
+        {
+          "label": "B",
+          "text": "Amyloid deposits"
+        },
+        {
+          "label": "C",
+          "text": "Fibrin thrombi"
+        },
+        {
+          "label": "D",
+          "text": "Collagen (fibrosis)"
+        },
+        {
+          "label": "E",
+          "text": "Necrotic hepatocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The trichrome stain colors collagen blue, highlighting the delicate bridging fibrosis that develops later in the course of chronic hepatitis C.",
+        "whyCorrect": "The trichrome stain colors collagen blue, highlighting the delicate bridging fibrosis that develops later in the course of chronic hepatitis C.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-011_pa016_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-039",
+      "topicId": "infectious-and-inflammatory-jaundice",
+      "topicName": "Infectious and Inflammatory Jaundice",
+      "stem": "These MRCP (A) and ERCP (B) studies of the same patient show multifocal strictures alternating with segments of ductal dilation, producing a 'beaded' appearance of the biliary tree. Which diagnosis is most consistent with these imaging findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary sclerosing cholangitis"
+        },
+        {
+          "label": "B",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "C",
+          "text": "Choledocholithiasis"
+        },
+        {
+          "label": "D",
+          "text": "Autoimmune hepatitis"
+        },
+        {
+          "label": "E",
+          "text": "Cholangiocarcinoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Multifocal strictures with intervening dilation ('beading') of the intra- and extrahepatic ducts on MRCP/ERCP is the gold-standard imaging finding of primary sclerosing cholangitis.",
+        "whyCorrect": "Multifocal strictures with intervening dilation ('beading') of the intra- and extrahepatic ducts on MRCP/ERCP is the gold-standard imaging finding of primary sclerosing cholangitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-039_pa016_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-098",
+      "topicId": "infectious-and-inflammatory-jaundice",
+      "topicName": "Infectious and Inflammatory Jaundice",
+      "stem": "This liver biopsy shows a portal tract markedly expanded by lymphocytes and plasma cells surrounding a destructive granulomatous reaction centered on an interlobular bile duct. This 'florid duct lesion' is characteristic of which disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcoholic hepatitis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic hepatitis C"
+        },
+        {
+          "label": "C",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "D",
+          "text": "Autoimmune hepatitis"
+        },
+        {
+          "label": "E",
+          "text": "Primary sclerosing cholangitis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The florid duct lesion, a granulomatous destruction of interlobular bile ducts with surrounding lymphoplasmacytic infiltrate, is the hallmark histologic finding of primary biliary cholangitis.",
+        "whyCorrect": "The florid duct lesion, a granulomatous destruction of interlobular bile ducts with surrounding lymphoplasmacytic infiltrate, is the hallmark histologic finding of primary biliary cholangitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-098_pa016_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-099",
+      "topicId": "infectious-and-inflammatory-jaundice",
+      "topicName": "Infectious and Inflammatory Jaundice",
+      "stem": "This portal tract shows a bile duct entrapped in dense concentric 'onion-skin' periductal fibrosis. Which condition is indicated by this classic lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary sclerosing cholangitis"
+        },
+        {
+          "label": "B",
+          "text": "Ascending cholangitis"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune hepatitis"
+        },
+        {
+          "label": "D",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "E",
+          "text": "Chronic hepatitis C"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Concentric 'onion-skin' periductal fibrosis progressing to obliteration of the bile duct is the characteristic histology of primary sclerosing cholangitis.",
+        "whyCorrect": "Concentric 'onion-skin' periductal fibrosis progressing to obliteration of the bile duct is the characteristic histology of primary sclerosing cholangitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-099_pa016_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-150",
+      "topicId": "infectious-and-inflammatory-jaundice",
+      "topicName": "Infectious and Inflammatory Jaundice",
+      "stem": "This illustration depicts the classic symptom complex (pruritus, jaundice, right upper quadrant pain) of an autoimmune cholestatic liver disease that destroys small and medium intrahepatic bile ducts and has a striking 9:1 female predominance. Which condition is being illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute viral hepatitis A"
+        },
+        {
+          "label": "B",
+          "text": "Chronic hepatitis C"
+        },
+        {
+          "label": "C",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "D",
+          "text": "Primary sclerosing cholangitis"
+        },
+        {
+          "label": "E",
+          "text": "Autoimmune hepatitis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Primary biliary cholangitis presents with fatigue, pruritus, and RUQ pain, with jaundice and splenomegaly in advanced disease; it has a 9:1 female predominance and targets small/medium intrahepatic ducts.",
+        "whyCorrect": "Primary biliary cholangitis presents with fatigue, pruritus, and RUQ pain, with jaundice and splenomegaly in advanced disease; it has a 9:1 female predominance and targets small/medium intrahepatic ducts.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-150_pa016_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "categoryId": "thrombosis-and-its-consequences",
+  "categoryName": "Thrombosis and Its Consequences",
+  "questions": [
+    {
+      "id": "papic-002",
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and Its Consequences",
+      "stem": "This low-power section of a vessel contains an organized thrombus traversed by several new small channels. What is the functional consequence of these channels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fat embolization"
+        },
+        {
+          "label": "B",
+          "text": "Complete vessel occlusion"
+        },
+        {
+          "label": "C",
+          "text": "Vessel wall calcification"
+        },
+        {
+          "label": "D",
+          "text": "Partial restoration of blood flow"
+        },
+        {
+          "label": "E",
+          "text": "Aneurysm formation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "New endothelial-lined lumina forming through an organized thrombus create channels that partially restore blood flow through the previously occluded vessel.",
+        "whyCorrect": "New endothelial-lined lumina forming through an organized thrombus create channels that partially restore blood flow through the previously occluded vessel.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-002_pa004_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-055",
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and Its Consequences",
+      "stem": "This cross-section of a coronary artery shows a dark occlusive mass filling the lumen. What is the most likely acute clinical consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ischemic stroke"
+        },
+        {
+          "label": "B",
+          "text": "Deep vein thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "D",
+          "text": "Myocardial infarction"
+        },
+        {
+          "label": "E",
+          "text": "Aortic dissection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An occlusive thrombus in a coronary artery interrupts blood flow to the myocardium, producing ischemic necrosis (myocardial infarction).",
+        "whyCorrect": "An occlusive thrombus in a coronary artery interrupts blood flow to the myocardium, producing ischemic necrosis (myocardial infarction).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-055_pa004_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-056",
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and Its Consequences",
+      "stem": "This gross specimen shows a large intravascular mass straddling the branch point of a pulmonary artery. What is the most immediate life-threatening consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac tamponade"
+        },
+        {
+          "label": "B",
+          "text": "Left ventricular aneurysm"
+        },
+        {
+          "label": "C",
+          "text": "Aortic rupture"
+        },
+        {
+          "label": "D",
+          "text": "Systemic arterial embolism"
+        },
+        {
+          "label": "E",
+          "text": "Acute right heart failure"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A large embolus obstructing a major pulmonary artery abruptly increases right ventricular afterload, which can precipitate acute right heart failure and sudden death.",
+        "whyCorrect": "A large embolus obstructing a major pulmonary artery abruptly increases right ventricular afterload, which can precipitate acute right heart failure and sudden death.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-056_pa004_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-057",
+      "topicId": "thrombosis-and-its-consequences",
+      "topicName": "Thrombosis and Its Consequences",
+      "stem": "Panel A shows a hemorrhagic (red) infarct and Panel B a pale (white) infarct. Which tissue feature explains the red appearance seen in Panel A?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Venous outflow obstruction alone"
+        },
+        {
+          "label": "B",
+          "text": "Single end-arterial supply"
+        },
+        {
+          "label": "C",
+          "text": "High tissue oxygen demand"
+        },
+        {
+          "label": "D",
+          "text": "Dual (collateral) blood supply"
+        },
+        {
+          "label": "E",
+          "text": "Absence of collateral circulation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Red infarcts occur in tissues with dual or collateral circulation (such as lung), where blood from the unobstructed supply seeps into the necrotic zone; pale infarcts occur in end-arterial organs like spleen.",
+        "whyCorrect": "Red infarcts occur in tissues with dual or collateral circulation (such as lung), where blood from the unobstructed supply seeps into the necrotic zone; pale infarcts occur in end-arterial organs like spleen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-057_pa004_f06.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "categoryId": "wound-healing-and-tissue-repair",
+  "categoryName": "Wound Healing and Tissue Repair",
+  "questions": [
+    {
+      "id": "papic-028",
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "stem": "This schematic depicts the organization of the extracellular matrix. The thin, specialized meshwork of type IV collagen and laminin that lies directly between the epithelial layer and the underlying interstitial connective tissue serves principally which role?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Provides tensile strength and elastic recoil to tendons and ligaments"
+        },
+        {
+          "label": "B",
+          "text": "Conducts action potentials between adjacent epithelial cells"
+        },
+        {
+          "label": "C",
+          "text": "Stores oxygen and slowly releases it to hypoxic tissue"
+        },
+        {
+          "label": "D",
+          "text": "Generates contractile force that pulls wound edges together"
+        },
+        {
+          "label": "E",
+          "text": "Acts as a specialized scaffold that anchors and supports epithelial, endothelial, and smooth muscle cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The layer shown between epithelium and interstitium is the basement membrane, a specialized extracellular matrix rich in type IV collagen and laminin that provides an anchoring, supporting surface for the growth of epithelial, endothelial, and smooth muscle cells.",
+        "whyCorrect": "The layer shown between epithelium and interstitium is the basement membrane, a specialized extracellular matrix rich in type IV collagen and laminin that provides an anchoring, supporting surface for the growth of epithelial, endothelial, and smooth muscle cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-028_pa033_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-138",
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "stem": "These stacked cross-sections illustrate repair of a large, gaping skin wound over successive time points. What mechanism is primarily responsible for closing the defect shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete regeneration of the epidermis without any scar"
+        },
+        {
+          "label": "B",
+          "text": "Surgical apposition of the wound edges with minimal scarring"
+        },
+        {
+          "label": "C",
+          "text": "Filling by granulation tissue followed by myofibroblast-mediated wound contraction"
+        },
+        {
+          "label": "D",
+          "text": "Repair by regeneration of permanent cardiac muscle"
+        },
+        {
+          "label": "E",
+          "text": "Resolution of the wound without any inflammatory phase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Healing by secondary intention occurs with extensive tissue loss: the large defect fills with granulation tissue, and myofibroblasts form a contractile network that pulls the wound together, reducing the defect over weeks.",
+        "whyCorrect": "Healing by secondary intention occurs with extensive tissue loss: the large defect fills with granulation tissue, and myofibroblasts form a contractile network that pulls the wound together, reducing the defect over weeks.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-138_pa033_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-139",
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "stem": "In the clinical image on the right, the raised scar extends beyond the boundaries of the original wound, and the accompanying histology shows thick, brightly eosinophilic collagen fibers arranged haphazardly. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wound dehiscence"
+        },
+        {
+          "label": "B",
+          "text": "Hypertrophic scar"
+        },
+        {
+          "label": "C",
+          "text": "Keloid scar"
+        },
+        {
+          "label": "D",
+          "text": "Wound contracture"
+        },
+        {
+          "label": "E",
+          "text": "Granulation tissue"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A keloid is exuberant scarring that extends beyond the boundaries of the original wound and shows thick, brightly eosinophilic collagen arranged haphazardly; unlike hypertrophic scars, which stay within the original wound and may regress, keloids do not regress on their own.",
+        "whyCorrect": "A keloid is exuberant scarring that extends beyond the boundaries of the original wound and shows thick, brightly eosinophilic collagen arranged haphazardly; unlike hypertrophic scars, which stay within the original wound and may regress, keloids do not regress on their own.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-139_pa033_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-140",
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "stem": "The lower histologic panels of this chronic-wound montage show necrotic surface debris, inflammation, and underlying granulation tissue. Which histologic feature best defines the lesion as an ulcer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neoplastic proliferation of squamous epithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "An encapsulated collection of pus with intact overlying epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Full-thickness regeneration of the epidermis with an intact surface"
+        },
+        {
+          "label": "D",
+          "text": "Loss of the overlying epithelial surface with underlying inflammation and granulation tissue"
+        },
+        {
+          "label": "E",
+          "text": "Hyperplasia of keratinocytes forming a raised nodule"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An ulcer is a wound lacking an intact epithelial surface; histologically it correlates with loss of the overlying epithelium plus surface necrotic debris, inflammation, and underlying granulation tissue, as seen in these venous, arterial, diabetic, and pressure-related chronic wounds.",
+        "whyCorrect": "An ulcer is a wound lacking an intact epithelial surface; histologically it correlates with loss of the overlying epithelium plus surface necrotic debris, inflammation, and underlying granulation tissue, as seen in these venous, arterial, diabetic, and pressure-related chronic wounds.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-140_pa033_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "categoryId": "hemodynamics-and-shock",
+  "categoryName": "Hemodynamics and Shock",
+  "questions": [
+    {
+      "id": "papic-054",
+      "topicId": "hemodynamics-and-shock",
+      "topicName": "Hemodynamics and Shock",
+      "stem": "Comparing the middle vessel panel with the bottom vessel panel, the protein-rich, cell-containing fluid leaking from the middle vessel is best explained by which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased hydrostatic pressure"
+        },
+        {
+          "label": "B",
+          "text": "Lymphatic obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Increased vascular permeability from inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Sodium and water retention"
+        },
+        {
+          "label": "E",
+          "text": "Decreased plasma colloid osmotic pressure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The middle panel depicts an exudate: inflammatory mediators cause vasodilation and increased interendothelial permeability, allowing protein and cells to escape. The bottom panel shows a transudate, a low-protein ultrafiltrate driven by hydrostatic/oncotic imbalance without increased permeability.",
+        "whyCorrect": "The middle panel depicts an exudate: inflammatory mediators cause vasodilation and increased interendothelial permeability, allowing protein and cells to escape. The bottom panel shows a transudate, a low-protein ultrafiltrate driven by hydrostatic/oncotic imbalance without increased permeability.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-054_pa003_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

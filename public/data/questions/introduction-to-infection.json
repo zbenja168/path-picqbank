@@ -1,0 +1,201 @@
+{
+  "categoryId": "introduction-to-infection",
+  "categoryName": "Introduction to Infection",
+  "questions": [
+    {
+      "id": "papic-058",
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "stem": "This four-panel image shows a tan-white membrane seen on endoscopy of the colon, a brown residue after its removal, and histology in which neutrophils appear to \"erupt\" from a crypt like a volcano. Infection by which organism most classically produces this picture?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Entamoeba histolytica"
+        },
+        {
+          "label": "B",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "C",
+          "text": "Salmonella Typhi"
+        },
+        {
+          "label": "D",
+          "text": "Escherichia coli O157:H7"
+        },
+        {
+          "label": "E",
+          "text": "Shigella dysenteriae"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The tan-white pseudomembrane of inflammatory cells and debris, together with the crypt \"volcano\" eruption of neutrophils, is the hallmark of pseudomembranous colitis caused by toxin-producing Clostridioides difficile, typically after antibiotic disruption of gut flora.",
+        "whyCorrect": "The tan-white pseudomembrane of inflammatory cells and debris, together with the crypt \"volcano\" eruption of neutrophils, is the hallmark of pseudomembranous colitis caused by toxin-producing Clostridioides difficile, typically after antibiotic disruption of gut flora.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-058_pa006_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-059",
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "stem": "These gross cardiac specimens show friable, bulky vegetations attached to the leaflets of a mitral valve and a bicuspid aortic valve. What is the underlying pathologic process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nonbacterial thrombotic (marantic) endocarditis"
+        },
+        {
+          "label": "B",
+          "text": "Libman-Sacks (SLE) endocarditis"
+        },
+        {
+          "label": "C",
+          "text": "Infective (bacterial) endocarditis"
+        },
+        {
+          "label": "D",
+          "text": "Calcific degenerative aortic stenosis"
+        },
+        {
+          "label": "E",
+          "text": "Rheumatic valvulitis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Friable, destructive valvular vegetations composed of organisms, fibrin, and inflammatory cells indicate infective endocarditis; Streptococcus viridans classically seeds abnormal or damaged valves while Staphylococcus aureus can attack even previously normal or congenitally bicuspid valves.",
+        "whyCorrect": "Friable, destructive valvular vegetations composed of organisms, fibrin, and inflammatory cells indicate infective endocarditis; Streptococcus viridans classically seeds abnormal or damaged valves while Staphylococcus aureus can attack even previously normal or congenitally bicuspid valves.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-059_pa006_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-074",
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "stem": "This colon shows a thick tan-white membrane on endoscopy, with histology revealing 'volcano-like' eruptions of neutrophils and debris from the crypts. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Shigella dysenteriae"
+        },
+        {
+          "label": "B",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "C",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "D",
+          "text": "Escherichia coli O157:H7"
+        },
+        {
+          "label": "E",
+          "text": "Entamoeba histolytica"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A pseudomembrane of inflammatory cells and debris erupting from colonic crypts ('volcano lesions') is characteristic of C. difficile colitis, typically after antibiotic disruption of normal flora; its toxins A and B damage the mucosa.",
+        "whyCorrect": "A pseudomembrane of inflammatory cells and debris erupting from colonic crypts ('volcano lesions') is characteristic of C. difficile colitis, typically after antibiotic disruption of normal flora; its toxins A and B damage the mucosa.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-074_pa009_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-075",
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "stem": "These heart valves show friable vegetations along the leaflet closure lines. What is the most likely underlying process producing these lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sterile fibrin deposition from a hypercoagulable state"
+        },
+        {
+          "label": "B",
+          "text": "Myxomatous degeneration of the leaflet"
+        },
+        {
+          "label": "C",
+          "text": "Immune-complex deposition (Libman-Sacks endocarditis)"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial colonization of the valve"
+        },
+        {
+          "label": "E",
+          "text": "Dystrophic calcification of the annulus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Friable vegetations on the valve leaflets are the hallmark of infective endocarditis, in which bacteria (e.g., S. viridans on the mitral valve, S. aureus on a congenitally bicuspid valve) seed and proliferate on the valve surface.",
+        "whyCorrect": "Friable vegetations on the valve leaflets are the hallmark of infective endocarditis, in which bacteria (e.g., S. viridans on the mitral valve, S. aureus on a congenitally bicuspid valve) seed and proliferate on the valve surface.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-075_pa009_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-076",
+      "topicId": "introduction-to-infection",
+      "topicName": "Introduction to Infection",
+      "stem": "This pharynx shows a thick gray membrane coating the tonsils and throat that bleeds when scraped away. The toxin of which organism produces this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "C",
+          "text": "Corynebacterium diphtheriae"
+        },
+        {
+          "label": "D",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "E",
+          "text": "Neisseria gonorrhoeae"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Diphtheria toxin from C. diphtheriae produces a tightly adherent gray pseudomembrane of fibrin, dead cells, and inflammatory debris in the pharynx that can obstruct the airway.",
+        "whyCorrect": "Diphtheria toxin from C. diphtheriae produces a tightly adherent gray pseudomembrane of fibrin, dead cells, and inflammatory debris in the pharynx that can obstruct the airway.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-076_pa009_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

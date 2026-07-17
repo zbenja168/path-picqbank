@@ -1,0 +1,396 @@
+{
+  "categoryId": "cell-death-apoptosis-and-necrosis",
+  "categoryName": "Cell Death: Apoptosis and Necrosis",
+  "questions": [
+    {
+      "id": "papic-024",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This high-power field shows a single shrunken, intensely pink (eosinophilic) cell with a condensed nucleus surrounded by intact squamous cells. Which feature confirms this is apoptosis rather than necrosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lack of a surrounding inflammatory infiltrate"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse cellular swelling of the neighboring cells"
+        },
+        {
+          "label": "C",
+          "text": "Extensive dystrophic calcification"
+        },
+        {
+          "label": "D",
+          "text": "Loss of tissue architecture across the field"
+        },
+        {
+          "label": "E",
+          "text": "Abundant neutrophilic exudate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Apoptotic cells shrink, become densely eosinophilic, and show condensed nuclei; because apoptosis is controlled and cells are cleared by phagocytes, there is little or no inflammation. Necrosis, by contrast, spills cell contents and provokes a prominent inflammatory response.",
+        "whyCorrect": "Apoptotic cells shrink, become densely eosinophilic, and show condensed nuclei; because apoptosis is controlled and cells are cleared by phagocytes, there is little or no inflammation. Necrosis, by contrast, spills cell contents and provokes a prominent inflammatory response.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-024_pa029_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-124",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This schematic shows a viable cell kept alive by the anti-apoptotic protein BCL2 at the mitochondrion. Pathologic overexpression of this protein, via a t(14;18) translocation, characteristically drives which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute promyelocytic leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "C",
+          "text": "Mantle cell lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Follicular lymphoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "BCL2 keeps the outer mitochondrial membrane impermeable, blocking cytochrome c release and preventing apoptosis. The t(14;18) translocation places BCL2 under an immunoglobulin promoter, causing overexpression that resists apoptosis and produces follicular lymphoma.",
+        "whyCorrect": "BCL2 keeps the outer mitochondrial membrane impermeable, blocking cytochrome c release and preventing apoptosis. The t(14;18) translocation places BCL2 under an immunoglobulin promoter, causing overexpression that resists apoptosis and produces follicular lymphoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-124_pa029_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-125",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "The left gross panel shows a pale yellow wedge-shaped lesion and the right microscopic panel shows preserved tissue outlines with loss of nuclei. This pattern of necrosis is most typical of which underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune vasculitis"
+        },
+        {
+          "label": "B",
+          "text": "Tuberculous granulomatous infection"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial pyogenic infection"
+        },
+        {
+          "label": "D",
+          "text": "Ischemia (loss of blood supply) outside the CNS"
+        },
+        {
+          "label": "E",
+          "text": "Acute pancreatic enzyme release"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Coagulative necrosis preserves the tissue architecture (ghost outlines) while cells die, and is the hallmark of ischemic infarction in solid organs other than the brain. The wedge-shaped pale infarct and retained cell outlines are classic.",
+        "whyCorrect": "Coagulative necrosis preserves the tissue architecture (ghost outlines) while cells die, and is the hallmark of ischemic infarction in solid organs other than the brain. The wedge-shaped pale infarct and retained cell outlines are classic.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-125_pa029_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-126",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This gross brain specimen shows necrotic tissue that has been converted into a soft, semi-liquid, cavitated mass. What mechanism accounts for this liquefied consistency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Denaturation of structural proteins"
+        },
+        {
+          "label": "B",
+          "text": "Coagulation that preserves cell outlines"
+        },
+        {
+          "label": "C",
+          "text": "Deposition of calcium soaps"
+        },
+        {
+          "label": "D",
+          "text": "Enzymatic (hydrolytic) digestion of the dead tissue"
+        },
+        {
+          "label": "E",
+          "text": "Fibrin and immune-complex deposition"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Liquefactive necrosis results when hydrolytic enzymes digest dead tissue into a viscous liquid. It is the characteristic pattern of central nervous system infarcts and of abscesses. Protein denaturation instead yields coagulative necrosis.",
+        "whyCorrect": "Liquefactive necrosis results when hydrolytic enzymes digest dead tissue into a viscous liquid. It is the characteristic pattern of central nervous system infarcts and of abscesses. Protein denaturation instead yields coagulative necrosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-126_pa029_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-127",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This clinical photograph shows blackened, mummified digits. This descriptive term for necrosis is most commonly applied in the setting of what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune small-vessel vasculitis"
+        },
+        {
+          "label": "B",
+          "text": "Acute pancreatitis"
+        },
+        {
+          "label": "C",
+          "text": "Myocardial infarction"
+        },
+        {
+          "label": "D",
+          "text": "Ischemia of a limb or its digits"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculous lymph node infection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gangrenous necrosis is a clinical term for necrosis of a limb or digits, typically from loss of blood supply. Dry gangrene is largely coagulative; wet gangrene adds superimposed liquefactive necrosis from bacterial infection.",
+        "whyCorrect": "Gangrenous necrosis is a clinical term for necrosis of a limb or digits, typically from loss of blood supply. Dry gangrene is largely coagulative; wet gangrene adds superimposed liquefactive necrosis from bacterial infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-127_pa029_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-128",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This gross specimen shows a soft, friable, cheese-like area of necrosis. This pattern is classically associated with infection by which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Clostridium perfringens"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Caseous necrosis has a friable, cheese-like gross appearance and is classically caused by tuberculosis. Microscopically it shows granulomas with fragmented, granular debris, distinguishing it from other necrosis patterns.",
+        "whyCorrect": "Caseous necrosis has a friable, cheese-like gross appearance and is classically caused by tuberculosis. Microscopically it shows granulomas with fragmented, granular debris, distinguishing it from other necrosis patterns.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-128_pa029_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-129",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This gross specimen shows adipose tissue studded with chalky-white deposits. These deposits form through saponification involving calcium and what other substance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Free fatty acids released from necrotic fat"
+        },
+        {
+          "label": "B",
+          "text": "Melanin pigment"
+        },
+        {
+          "label": "C",
+          "text": "Deposited fibrin"
+        },
+        {
+          "label": "D",
+          "text": "Denatured hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Bacterial exotoxin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In fat necrosis, released lipases (e.g., in acute pancreatitis) break down adipose tissue; the liberated free fatty acids combine with calcium in a saponification reaction to form the chalky-white deposits seen here.",
+        "whyCorrect": "In fat necrosis, released lipases (e.g., in acute pancreatitis) break down adipose tissue; the liberated free fatty acids combine with calcium in a saponification reaction to form the chalky-white deposits seen here.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-129_pa029_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-130",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This histology field shows a blood vessel wall with a bright pink, smudgy deposit and a surrounding inflammatory infiltrate. This pattern of necrosis is most characteristically seen in which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myocardial infarction"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune vasculitis"
+        },
+        {
+          "label": "C",
+          "text": "Acute pancreatitis"
+        },
+        {
+          "label": "D",
+          "text": "Cerebral infarction"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculous lymphadenitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fibrinoid necrosis occurs when immune complexes and plasma proteins (fibrin) deposit in vessel walls, producing a bright pink, smudgy appearance with inflammation. It is characteristic of autoimmune small-vessel vasculitides.",
+        "whyCorrect": "Fibrinoid necrosis occurs when immune complexes and plasma proteins (fibrin) deposit in vessel walls, producing a bright pink, smudgy appearance with inflammation. It is characteristic of autoimmune small-vessel vasculitides.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-130_pa029_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-155",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This flowchart shows how a cell responds as injury increases from adaptation through to cell death by necrosis or apoptosis. What primarily determines whether the injured cell adapts and recovers versus dies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cell's location within the body"
+        },
+        {
+          "label": "B",
+          "text": "The severity and persistence of the injurious stimulus"
+        },
+        {
+          "label": "C",
+          "text": "The cell's embryologic germ-layer origin"
+        },
+        {
+          "label": "D",
+          "text": "Whether the cell contains a nucleus"
+        },
+        {
+          "label": "E",
+          "text": "Whether the cell is haploid or diploid"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The diagram shows a continuum: mild, short-lived injury permits adaptation or reversible injury, whereas severe, prolonged injury exceeds the cell's capacity to recover and drives it to death by necrosis or apoptosis. Thus the intensity and duration of the stimulus is the key determinant.",
+        "whyCorrect": "The diagram shows a continuum: mild, short-lived injury permits adaptation or reversible injury, whereas severe, prolonged injury exceeds the cell's capacity to recover and drives it to death by necrosis or apoptosis. Thus the intensity and duration of the stimulus is the key determinant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-155_pa029_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-156",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This diagram outlines the major biochemical mechanisms of cell injury. A fall in ATP (far left) most directly compromises which cellular process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Formation of the mitotic spindle"
+        },
+        {
+          "label": "B",
+          "text": "Packaging of neurotransmitter vesicles"
+        },
+        {
+          "label": "C",
+          "text": "Ribosomal translation of secreted proteins"
+        },
+        {
+          "label": "D",
+          "text": "Melanin synthesis in melanosomes"
+        },
+        {
+          "label": "E",
+          "text": "Activity of the plasma-membrane Na+/K+ ATPase, causing cell swelling"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ATP is required to run the Na+/K+ ATPase; when ATP falls, the pump fails, sodium and water accumulate intracellularly, and the cell swells. The other mechanisms shown (calcium influx, ROS, membrane damage, DNA damage) act through separate routes.",
+        "whyCorrect": "ATP is required to run the Na+/K+ ATPase; when ATP falls, the pump fails, sodium and water accumulate intracellularly, and the cell swells. The other mechanisms shown (calcium influx, ROS, membrane damage, DNA damage) act through separate routes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-156_pa029_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

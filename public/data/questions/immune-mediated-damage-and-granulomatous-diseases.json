@@ -1,0 +1,552 @@
+{
+  "categoryId": "immune-mediated-damage-and-granulomatous-diseases",
+  "categoryName": "Immune-Mediated Damage and Granulomatous Diseases",
+  "questions": [
+    {
+      "id": "papic-034",
+      "topicId": "immune-mediated-damage-and-granulomatous-diseases",
+      "topicName": "Immune-Mediated Damage and Granulomatous Diseases",
+      "stem": "This paired image shows bright green fluorescent foci (left) and dark-staining intracytoplasmic bodies with iodine (right) within infected cells. What are these structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlamydial intracytoplasmic inclusions"
+        },
+        {
+          "label": "B",
+          "text": "Viral Cowdry inclusion bodies"
+        },
+        {
+          "label": "C",
+          "text": "Fungal yeast forms"
+        },
+        {
+          "label": "D",
+          "text": "Rickettsial morulae"
+        },
+        {
+          "label": "E",
+          "text": "Gonococcal intracellular diplococci"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chlamydia trachomatis is an obligate intracellular pathogen that forms glycogen-rich intracytoplasmic inclusions, demonstrable by immunofluorescent antibodies and iodine staining.",
+        "whyCorrect": "Chlamydia trachomatis is an obligate intracellular pathogen that forms glycogen-rich intracytoplasmic inclusions, demonstrable by immunofluorescent antibodies and iodine staining.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-034_pa008_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-035",
+      "topicId": "immune-mediated-damage-and-granulomatous-diseases",
+      "topicName": "Immune-Mediated Damage and Granulomatous Diseases",
+      "stem": "This Gram stain from purulent genital discharge shows pink (gram-negative) organisms arranged in pairs located inside a neutrophil. What is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "B",
+          "text": "Chlamydia trachomatis"
+        },
+        {
+          "label": "C",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Neisseria gonorrhoeae"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Gram-negative diplococci arranged in pairs within neutrophils are characteristic of Neisseria gonorrhoeae, an intracellular pathogen.",
+        "whyCorrect": "Gram-negative diplococci arranged in pairs within neutrophils are characteristic of Neisseria gonorrhoeae, an intracellular pathogen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-035_pa008_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-036",
+      "topicId": "immune-mediated-damage-and-granulomatous-diseases",
+      "topicName": "Immune-Mediated Damage and Granulomatous Diseases",
+      "stem": "Compared with the normal chest radiograph on the left, the right radiograph shows symmetric enlargement at the roots of both lungs (arrows). What is this classic finding, and in what disease is it seen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Unilateral hilar mass in bronchogenic carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Pleural effusions in tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Widened mediastinum in aortic dissection"
+        },
+        {
+          "label": "D",
+          "text": "Cardiomegaly in congestive heart failure"
+        },
+        {
+          "label": "E",
+          "text": "Bilateral hilar lymphadenopathy in sarcoidosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Symmetric bilateral hilar lymphadenopathy on chest X-ray is a classic radiographic feature of sarcoidosis, correlating with granulomatous involvement of thoracic lymph nodes.",
+        "whyCorrect": "Symmetric bilateral hilar lymphadenopathy on chest X-ray is a classic radiographic feature of sarcoidosis, correlating with granulomatous involvement of thoracic lymph nodes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-036_pa008_f19.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-063",
+      "topicId": "immune-mediated-damage-and-granulomatous-diseases",
+      "topicName": "Immune-Mediated Damage and Granulomatous Diseases",
+      "stem": "These panels show gross irregular nodules along a thickened mitral valve leaflet with corresponding microscopic nodules of lymphocytes and macrophages. What underlying disease process do these findings represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rheumatic heart disease"
+        },
+        {
+          "label": "B",
+          "text": "Myxomatous valve degeneration"
+        },
+        {
+          "label": "C",
+          "text": "Nonbacterial thrombotic endocarditis"
+        },
+        {
+          "label": "D",
+          "text": "Infective bacterial endocarditis"
+        },
+        {
+          "label": "E",
+          "text": "Libman-Sacks endocarditis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Small verrucae along the leaflet line of closure plus Aschoff bodies (nodules of lymphocytes and macrophages) are hallmarks of rheumatic heart disease, an autoimmune sequela of group A streptococcal infection that can progress to fibrosis and mitral stenosis.",
+        "whyCorrect": "Small verrucae along the leaflet line of closure plus Aschoff bodies (nodules of lymphocytes and macrophages) are hallmarks of rheumatic heart disease, an autoimmune sequela of group A streptococcal infection that can progress to fibrosis and mitral stenosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-063_pa008_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-064",
+      "topicId": "immune-mediated-damage-and-granulomatous-diseases",
+      "topicName": "Immune-Mediated Damage and Granulomatous Diseases",
+      "stem": "This skin finding shows red, serpiginous (snake-like) lesions with central clearing appearing during acute rheumatic fever. What is the presumed mechanism producing it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct streptococcal invasion of the dermis"
+        },
+        {
+          "label": "B",
+          "text": "Antibody cross-reaction with keratin (molecular mimicry)"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcal pyrogenic exotoxin superantigen effect"
+        },
+        {
+          "label": "D",
+          "text": "IgE-mediated type I hypersensitivity"
+        },
+        {
+          "label": "E",
+          "text": "Immune complex deposition in dermal vessels"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Erythema marginatum is a nonpruritic, migratory serpiginous rash of acute rheumatic fever attributed to antibody cross-reaction (molecular mimicry) against keratin, not to direct infection of the skin.",
+        "whyCorrect": "Erythema marginatum is a nonpruritic, migratory serpiginous rash of acute rheumatic fever attributed to antibody cross-reaction (molecular mimicry) against keratin, not to direct infection of the skin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-064_pa008_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-065",
+      "topicId": "immune-mediated-damage-and-granulomatous-diseases",
+      "topicName": "Immune-Mediated Damage and Granulomatous Diseases",
+      "stem": "These renal panels compare a normal glomerulus with a hypercellular one, an electron micrograph showing a subepithelial deposit, and immunofluorescence with coarse granular staining. What is the immunologic mechanism of this injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct bacterial invasion of glomeruli"
+        },
+        {
+          "label": "B",
+          "text": "Immune complex deposition"
+        },
+        {
+          "label": "C",
+          "text": "Anti-glomerular basement membrane antibodies"
+        },
+        {
+          "label": "D",
+          "text": "Podocyte foot process effacement without deposits"
+        },
+        {
+          "label": "E",
+          "text": "Pauci-immune ANCA-associated injury"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Poststreptococcal glomerulonephritis shows a proliferative, hypercellular glomerulus with subepithelial 'humps' on EM and coarse granular ('lumpy-bumpy') immunofluorescence for IgG and C3, indicating immune complex-mediated injury.",
+        "whyCorrect": "Poststreptococcal glomerulonephritis shows a proliferative, hypercellular glomerulus with subepithelial 'humps' on EM and coarse granular ('lumpy-bumpy') immunofluorescence for IgG and C3, indicating immune complex-mediated injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-065_pa008_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-066",
+      "topicId": "immune-mediated-damage-and-granulomatous-diseases",
+      "topicName": "Immune-Mediated Damage and Granulomatous Diseases",
+      "stem": "A neonate presents with bilateral eyelid swelling and mucoid ocular discharge acquired during passage through the birth canal. Which pair of organisms most classically causes this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlamydia trachomatis and Neisseria gonorrhoeae"
+        },
+        {
+          "label": "B",
+          "text": "Haemophilus influenzae and Streptococcus pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus and Streptococcus pyogenes"
+        },
+        {
+          "label": "D",
+          "text": "Pseudomonas aeruginosa and Moraxella"
+        },
+        {
+          "label": "E",
+          "text": "Herpes simplex virus and adenovirus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Neonatal conjunctivitis from vertical transmission through the birth canal is classically caused by C. trachomatis and N. gonorrhoeae, making maternal screening important for prevention.",
+        "whyCorrect": "Neonatal conjunctivitis from vertical transmission through the birth canal is classically caused by C. trachomatis and N. gonorrhoeae, making maternal screening important for prevention.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-066_pa008_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-067",
+      "topicId": "immune-mediated-damage-and-granulomatous-diseases",
+      "topicName": "Immune-Mediated Damage and Granulomatous Diseases",
+      "stem": "This histology field shows a nodular collection of epithelioid histiocytes and multinucleated giant cells surrounding a central zone of amorphous necrotic debris. What pattern of inflammation is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Liquefactive necrosis with abscess"
+        },
+        {
+          "label": "B",
+          "text": "Non-necrotizing granulomatous inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Fibrinoid necrosis of vessels"
+        },
+        {
+          "label": "D",
+          "text": "Suppurative (neutrophilic) inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Caseating (necrotizing) granulomatous inflammation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Central necrosis within a granuloma of epithelioid histiocytes and multinucleated giant cells indicates caseating granulomatous inflammation, seen here in a fungal (Histoplasma) infection and typical of many mycobacterial/fungal infections.",
+        "whyCorrect": "Central necrosis within a granuloma of epithelioid histiocytes and multinucleated giant cells indicates caseating granulomatous inflammation, seen here in a fungal (Histoplasma) infection and typical of many mycobacterial/fungal infections.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-067_pa008_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-068",
+      "topicId": "immune-mediated-damage-and-granulomatous-diseases",
+      "topicName": "Immune-Mediated Damage and Granulomatous Diseases",
+      "stem": "These paired fields show necrotizing granulomas with multinucleated giant cells and inflamed vessels in a patient with respiratory tract disease and rapidly progressive glomerulonephritis. Which serologic marker is most associated with this disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-glomerular basement membrane antibody"
+        },
+        {
+          "label": "B",
+          "text": "MPO-ANCA (p-ANCA)"
+        },
+        {
+          "label": "C",
+          "text": "Anti-dsDNA antibody"
+        },
+        {
+          "label": "D",
+          "text": "Anti-topoisomerase (Scl-70) antibody"
+        },
+        {
+          "label": "E",
+          "text": "PR3-ANCA (c-ANCA)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Granulomatosis with polyangiitis features necrotizing granulomas plus vasculitis of the respiratory tract and kidney and is mediated by anti-proteinase 3 antibodies (PR3-ANCA, formerly c-ANCA).",
+        "whyCorrect": "Granulomatosis with polyangiitis features necrotizing granulomas plus vasculitis of the respiratory tract and kidney and is mediated by anti-proteinase 3 antibodies (PR3-ANCA, formerly c-ANCA).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-068_pa008_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-069",
+      "topicId": "immune-mediated-damage-and-granulomatous-diseases",
+      "topicName": "Immune-Mediated Damage and Granulomatous Diseases",
+      "stem": "This glomerulus shows a proliferation of cells filling Bowman space and compressing the tuft. What is this histologic lesion called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse proliferative glomerulonephritis"
+        },
+        {
+          "label": "B",
+          "text": "Membranous nephropathy"
+        },
+        {
+          "label": "C",
+          "text": "Nodular (Kimmelstiel-Wilson) glomerulosclerosis"
+        },
+        {
+          "label": "D",
+          "text": "Crescentic glomerulonephritis"
+        },
+        {
+          "label": "E",
+          "text": "Minimal change disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rapidly progressive glomerulonephritis is defined by crescents of proliferating cells within Bowman space; it is a severe consequence of granulomatosis with polyangiitis rather than a granuloma itself.",
+        "whyCorrect": "Rapidly progressive glomerulonephritis is defined by crescents of proliferating cells within Bowman space; it is a severe consequence of granulomatosis with polyangiitis rather than a granuloma itself.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-069_pa008_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-070",
+      "topicId": "immune-mediated-damage-and-granulomatous-diseases",
+      "topicName": "Immune-Mediated Damage and Granulomatous Diseases",
+      "stem": "This skin cross-section shows a white, oval object embedded in the dermis surrounded by histiocytes and multinucleated giant cells. What type of reaction is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Squamous cell carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Sarcoidal (non-caseating immune) granuloma"
+        },
+        {
+          "label": "C",
+          "text": "Suppurative abscess"
+        },
+        {
+          "label": "D",
+          "text": "Caseating infectious granuloma"
+        },
+        {
+          "label": "E",
+          "text": "Foreign body granuloma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A splinter (or other exogenous material) too large to be phagocytosed evokes a foreign body granuloma, identified by histiocytes and multinucleated giant cells surrounding the material without a strong T-cell-driven immune response.",
+        "whyCorrect": "A splinter (or other exogenous material) too large to be phagocytosed evokes a foreign body granuloma, identified by histiocytes and multinucleated giant cells surrounding the material without a strong T-cell-driven immune response.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-070_pa008_f16.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-071",
+      "topicId": "immune-mediated-damage-and-granulomatous-diseases",
+      "topicName": "Immune-Mediated Damage and Granulomatous Diseases",
+      "stem": "The left panel shows jagged material surrounded by epithelioid and giant cells; the right panel shows the same material glowing brightly under polarized light. What is this material and its relevance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anthracotic carbon pigment"
+        },
+        {
+          "label": "B",
+          "text": "Urate crystals of gout"
+        },
+        {
+          "label": "C",
+          "text": "Cholesterol clefts"
+        },
+        {
+          "label": "D",
+          "text": "Birefringent talc from intravenous drug use"
+        },
+        {
+          "label": "E",
+          "text": "Asbestos ferruginous bodies"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Inhaled or injected drugs can introduce foreign material such as talc, which is birefringent (bright under polarized light) and provokes a foreign body granulomatous reaction.",
+        "whyCorrect": "Inhaled or injected drugs can introduce foreign material such as talc, which is birefringent (bright under polarized light) and provokes a foreign body granulomatous reaction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-071_pa008_f17.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-072",
+      "topicId": "immune-mediated-damage-and-granulomatous-diseases",
+      "topicName": "Immune-Mediated Damage and Granulomatous Diseases",
+      "stem": "These fields show well-formed granulomas in a background of fibrosis with a star-shaped inclusion inside a giant cell. In a young adult with bilateral hilar adenopathy, what disease is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granulomatosis with polyangiitis"
+        },
+        {
+          "label": "B",
+          "text": "Histoplasmosis"
+        },
+        {
+          "label": "C",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "D",
+          "text": "Berylliosis"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Non-caseating granulomas with asteroid bodies (star-shaped inclusions) in a young adult are characteristic of sarcoidosis, a diagnosis of exclusion of unknown etiology.",
+        "whyCorrect": "Non-caseating granulomas with asteroid bodies (star-shaped inclusions) in a young adult are characteristic of sarcoidosis, a diagnosis of exclusion of unknown etiology.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-072_pa008_f18.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-073",
+      "topicId": "immune-mediated-damage-and-granulomatous-diseases",
+      "topicName": "Immune-Mediated Damage and Granulomatous Diseases",
+      "stem": "These images show tender, red, poorly demarcated nodules on the anterior lower legs during the acute phase and as they resolve. What is this nonspecific finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "B",
+          "text": "Pyoderma gangrenosum"
+        },
+        {
+          "label": "C",
+          "text": "Lupus pernio"
+        },
+        {
+          "label": "D",
+          "text": "Erythema marginatum"
+        },
+        {
+          "label": "E",
+          "text": "Nodular vasculitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Erythema nodosum presents as tender red nodules, usually on the anterior lower extremities; it is a nonspecific reactive panniculitis that can accompany sarcoidosis and other conditions.",
+        "whyCorrect": "Erythema nodosum presents as tender red nodules, usually on the anterior lower extremities; it is a nonspecific reactive panniculitis that can accompany sarcoidosis and other conditions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-073_pa008_f20.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

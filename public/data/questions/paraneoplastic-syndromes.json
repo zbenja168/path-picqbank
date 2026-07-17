@@ -1,0 +1,45 @@
+{
+  "categoryId": "paraneoplastic-syndromes",
+  "categoryName": "Paraneoplastic Syndromes",
+  "questions": [
+    {
+      "id": "papic-015",
+      "topicId": "paraneoplastic-syndromes",
+      "topicName": "Paraneoplastic Syndromes",
+      "stem": "This high-power H&E field shows sheets of small round-to-oval cells with scant cytoplasm, high nuclear:cytoplasmic ratio, finely dispersed \"salt-and-pepper\" chromatin, and prominent nuclear molding. From which cell type does this tumor most characteristically arise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mesothelial lining cells"
+        },
+        {
+          "label": "B",
+          "text": "Type II pneumocytes"
+        },
+        {
+          "label": "C",
+          "text": "Mucin-producing glandular epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Keratinizing squamous epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Neuroendocrine (Kulchitsky) cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The morphology (small blue cells, scant cytoplasm, nuclear molding, dispersed chromatin) is that of small cell lung carcinoma, a poorly differentiated neuroendocrine tumor derived from Kulchitsky cells. This origin explains its capacity for ectopic hormone production (ACTH, ADH) and neurologic paraneoplastic syndromes.",
+        "whyCorrect": "The morphology (small blue cells, scant cytoplasm, nuclear molding, dispersed chromatin) is that of small cell lung carcinoma, a poorly differentiated neuroendocrine tumor derived from Kulchitsky cells. This origin explains its capacity for ectopic hormone production (ACTH, ADH) and neurologic paraneoplastic syndromes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-015_pa024_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

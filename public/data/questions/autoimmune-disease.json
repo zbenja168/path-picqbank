@@ -1,0 +1,123 @@
+{
+  "categoryId": "autoimmune-disease",
+  "categoryName": "Autoimmune Disease",
+  "questions": [
+    {
+      "id": "papic-060",
+      "topicId": "autoimmune-disease",
+      "topicName": "Autoimmune Disease",
+      "stem": "A 29-year-old woman with joint pain and oral ulcers develops the facial eruption shown. This rash is most characteristic of which systemic autoimmune disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Systemic lupus erythematosus"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatosis with polyangiitis"
+        },
+        {
+          "label": "C",
+          "text": "Dermatomyositis"
+        },
+        {
+          "label": "D",
+          "text": "Rheumatoid arthritis"
+        },
+        {
+          "label": "E",
+          "text": "Systemic sclerosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The photosensitive butterfly (malar) rash sparing the nasolabial folds is a classic mucocutaneous manifestation of SLE, a type III hypersensitivity disease driven by immune-complex deposition.",
+        "whyCorrect": "The photosensitive butterfly (malar) rash sparing the nasolabial folds is a classic mucocutaneous manifestation of SLE, a type III hypersensitivity disease driven by immune-complex deposition.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-060_pa007_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-061",
+      "topicId": "autoimmune-disease",
+      "topicName": "Autoimmune Disease",
+      "stem": "These panels show multinucleated giant cells with vague granulomatous inflammation and an inflamed vessel wall in a patient with sinus disease, lung nodules, and hematuria. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tuberculosis"
+        },
+        {
+          "label": "B",
+          "text": "Giant cell (temporal) arteritis"
+        },
+        {
+          "label": "C",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "D",
+          "text": "Eosinophilic granulomatosis with polyangiitis"
+        },
+        {
+          "label": "E",
+          "text": "Granulomatosis with polyangiitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The triad of upper-respiratory disease, necrotizing granulomatous lung inflammation, and glomerulonephritis with PR3-ANCA defines granulomatosis with polyangiitis; histology shows giant cells, geographic granulomatous necrosis, and small-vessel vasculitis.",
+        "whyCorrect": "The triad of upper-respiratory disease, necrotizing granulomatous lung inflammation, and glomerulonephritis with PR3-ANCA defines granulomatosis with polyangiitis; histology shows giant cells, geographic granulomatous necrosis, and small-vessel vasculitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-061_pa007_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-062",
+      "topicId": "autoimmune-disease",
+      "topicName": "Autoimmune Disease",
+      "stem": "The left Jones-stained panel of this HSP kidney shows a cellular proliferation filling Bowman's space and adhering to the capsule. What does this finding indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Membranous nephropathy"
+        },
+        {
+          "label": "B",
+          "text": "Chronic sclerosing glomerulonephritis"
+        },
+        {
+          "label": "C",
+          "text": "Acute tubular necrosis"
+        },
+        {
+          "label": "D",
+          "text": "Minimal change disease"
+        },
+        {
+          "label": "E",
+          "text": "Crescentic (rapidly progressive) glomerulonephritis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A cellular crescent within Bowman's space signifies severe glomerular injury with rapidly progressive glomerulonephritis; the accompanying immunofluorescence shows mesangial IgA deposition typical of HSP nephritis.",
+        "whyCorrect": "A cellular crescent within Bowman's space signifies severe glomerular injury with rapidly progressive glomerulonephritis; the accompanying immunofluorescence shows mesangial IgA deposition typical of HSP nephritis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-062_pa007_f11.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

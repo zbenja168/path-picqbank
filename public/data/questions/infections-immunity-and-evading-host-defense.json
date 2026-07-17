@@ -1,0 +1,279 @@
+{
+  "categoryId": "infections-immunity-and-evading-host-defense",
+  "categoryName": "Infections, Immunity, and Evading Host Defense",
+  "questions": [
+    {
+      "id": "papic-077",
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "stem": "This clinical photograph shows grouped vesicles and crusted erosions on the vermilion border of the lip. Which agent is the most likely cause of these recurrent lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans causing angular cheilitis"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus reactivating from a latent state"
+        },
+        {
+          "label": "C",
+          "text": "Coxsackievirus causing herpangina"
+        },
+        {
+          "label": "D",
+          "text": "Treponema pallidum producing a primary chancre"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus aureus causing impetigo"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Herpes labialis (cold sores) results from reactivation of latent herpes simplex virus, producing grouped vesicles that crust on the lip margin. Latency in sensory ganglia and periodic reactivation are hallmark features.",
+        "whyCorrect": "Herpes labialis (cold sores) results from reactivation of latent herpes simplex virus, producing grouped vesicles that crust on the lip margin. Latency in sensory ganglia and periodic reactivation are hallmark features.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-077_pa010_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-143",
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "stem": "This diagram shows a single large antigen bearing several distinct labeled sites (A, B, C) approached by a lymphocyte. What principle does the figure illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A given lymphocyte receptor recognizes only one specific epitope of the many present on an antigen"
+        },
+        {
+          "label": "B",
+          "text": "Each antigen contains only a single recognizable epitope"
+        },
+        {
+          "label": "C",
+          "text": "One antigen can activate every lymphocyte in the body simultaneously"
+        },
+        {
+          "label": "D",
+          "text": "Lymphocytes bind antigens non-specifically like pattern-recognition receptors"
+        },
+        {
+          "label": "E",
+          "text": "Antibodies bind the constant Fc region of antigens"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A large foreign molecule displays multiple epitopes, but a particular T-cell (or B-cell) receptor is specific for only one epitope it is programmed to bind, illustrating the specificity of adaptive recognition.",
+        "whyCorrect": "A large foreign molecule displays multiple epitopes, but a particular T-cell (or B-cell) receptor is specific for only one epitope it is programmed to bind, illustrating the specificity of adaptive recognition.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-143_pa010_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-144",
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "stem": "This diagram shows rod-shaped bacteria anchored to a host membrane by projecting appendages tipped with proteins that engage host receptors. What is the primary role of these structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Exchanging genetic material between bacterial cells"
+        },
+        {
+          "label": "B",
+          "text": "Forming a pore to lyse the host cell membrane"
+        },
+        {
+          "label": "C",
+          "text": "Mediating adherence of the pathogen to host cell surface receptors via adhesins"
+        },
+        {
+          "label": "D",
+          "text": "Providing motility to swim through mucosal fluid"
+        },
+        {
+          "label": "E",
+          "text": "Injecting toxins directly into the host cytoplasm"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pili are appendages bearing adhesins that bind specific host receptors (e.g., mannose, fibronectin), allowing the microbe to attach to host cells. Adherence is a first major step in establishing infection.",
+        "whyCorrect": "Pili are appendages bearing adhesins that bind specific host receptors (e.g., mannose, fibronectin), allowing the microbe to attach to host cells. Adherence is a first major step in establishing infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-144_pa010_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-145",
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "stem": "In panel A a microbe survives inside a resting macrophage, while in panel B a T-cell delivers a signal that enables the macrophage to destroy it. Which adaptive contribution converts the macrophage to the killing state shown in B?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement deposition forming a membrane attack complex"
+        },
+        {
+          "label": "B",
+          "text": "T-cell secretion of interferon-gamma cytokine activating the macrophage"
+        },
+        {
+          "label": "C",
+          "text": "Natural killer cell recognition of absent class I MHC"
+        },
+        {
+          "label": "D",
+          "text": "B-cell secretion of neutralizing antibody against the microbe"
+        },
+        {
+          "label": "E",
+          "text": "Release of perforin and granzymes inducing apoptosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Many microbes persist in non-activated macrophages. Helper T-cells release interferon-gamma that activates the macrophage, boosting reactive oxygen species and lysosomal killing so the intracellular pathogen is destroyed.",
+        "whyCorrect": "Many microbes persist in non-activated macrophages. Helper T-cells release interferon-gamma that activates the macrophage, boosting reactive oxygen species and lysosomal killing so the intracellular pathogen is destroyed.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-145_pa010_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-146",
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "stem": "This diagram shows a bacterium entering a host cell, escaping its vacuole, and propelling itself with a trailing tail of polymerized cytoskeletal filaments to invade the adjacent cell. What mechanism drives this cell-to-cell spread?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Passive diffusion through gap junctions"
+        },
+        {
+          "label": "B",
+          "text": "Microtubule motor transport along the spindle"
+        },
+        {
+          "label": "C",
+          "text": "Actin polymerization behind the bacterium forming a propulsive comet tail"
+        },
+        {
+          "label": "D",
+          "text": "Complement-mediated membrane pore formation"
+        },
+        {
+          "label": "E",
+          "text": "Flagellar rotation pushing the bacterium forward"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Listeria monocytogenes escapes its vacuole using listeriolysin O, then recruits host actin via ActA. Directional actin polymerization forms a comet tail that propels the bacterium into neighboring cells, avoiding extracellular immune exposure.",
+        "whyCorrect": "Listeria monocytogenes escapes its vacuole using listeriolysin O, then recruits host actin via ActA. Directional actin polymerization forms a comet tail that propels the bacterium into neighboring cells, avoiding extracellular immune exposure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-146_pa010_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-147",
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "stem": "This flowchart begins with viral infection producing double-stranded RNA and ends in 'no virus production.' Which secreted mediator initiates the two antiviral enzyme pathways shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interleukin-2 driving T-cell proliferation"
+        },
+        {
+          "label": "B",
+          "text": "Histamine increasing vascular permeability"
+        },
+        {
+          "label": "C",
+          "text": "Complement C3b promoting opsonization"
+        },
+        {
+          "label": "D",
+          "text": "Tumor necrosis factor triggering apoptosis directly"
+        },
+        {
+          "label": "E",
+          "text": "Interferon, which induces oligosynthetase and protein kinase pathways"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Interferon released by infected cells activates 2'-5' oligosynthetase (activating ribonuclease to degrade mRNA) and protein kinase (inhibiting eIF-2). Both require dsRNA to act, halting viral protein synthesis and blocking virus production.",
+        "whyCorrect": "Interferon released by infected cells activates 2'-5' oligosynthetase (activating ribonuclease to degrade mRNA) and protein kinase (inhibiting eIF-2). Both require dsRNA to act, halting viral protein synthesis and blocking virus production.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-147_pa010_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-148",
+      "topicId": "infections-immunity-and-evading-host-defense",
+      "topicName": "Infections, Immunity, and Evading Host Defense",
+      "stem": "This diagram shows a pathogen population expressing one surface pilin type (blue), the host generating antibody against it (A), then a new pilin variant (green) emerging that antibody no longer recognizes (C). What immune-evasion strategy is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secretion of a protease that cleaves bound antibody"
+        },
+        {
+          "label": "B",
+          "text": "Antigenic variation of surface pili through recombination of pilin gene variants"
+        },
+        {
+          "label": "C",
+          "text": "Production of decoy soluble receptors to absorb cytokines"
+        },
+        {
+          "label": "D",
+          "text": "Downregulation of class I MHC to evade T-cells"
+        },
+        {
+          "label": "E",
+          "text": "Capsular masking of surface antigens from phagocytes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Neisseria places a new pilin coding sequence next to the promoter by homologous recombination, expressing a pilin variant not recognized by existing antibodies. This antigenic variation lets the organism escape the adaptive response.",
+        "whyCorrect": "Neisseria places a new pilin coding sequence next to the promoter by homologous recombination, expressing a pilin variant not recognized by existing antibodies. This antigenic variation lets the organism escape the adaptive response.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-148_pa010_f09.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

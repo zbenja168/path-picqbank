@@ -1,0 +1,123 @@
+{
+  "categoryId": "introduction-to-neoplasia",
+  "categoryName": "Introduction to Neoplasia",
+  "questions": [
+    {
+      "id": "papic-100",
+      "topicId": "introduction-to-neoplasia",
+      "topicName": "Introduction to Neoplasia",
+      "stem": "The left panel shows normal hyaline cartilage for comparison, and the right panel shows a de-differentiated malignant tumor. From which normal cell type is this malignant tumor derived?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fat cells (adipocytes)"
+        },
+        {
+          "label": "B",
+          "text": "Bone cells (osteocytes)"
+        },
+        {
+          "label": "C",
+          "text": "Cartilage cells (chondrocytes)"
+        },
+        {
+          "label": "D",
+          "text": "Fibroblasts"
+        },
+        {
+          "label": "E",
+          "text": "Smooth muscle cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is a de-differentiated chondrosarcoma; despite anaplasia, the retained cartilage-like component identifies chondrocytes as the cell of origin.",
+        "whyCorrect": "This is a de-differentiated chondrosarcoma; despite anaplasia, the retained cartilage-like component identifies chondrocytes as the cell of origin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-100_pa017_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-101",
+      "topicId": "introduction-to-neoplasia",
+      "topicName": "Introduction to Neoplasia",
+      "stem": "This esophageal biopsy shows normal stratified squamous epithelium adjacent to a region where the lining has been replaced by simple columnar (glandular) epithelium. This metaplastic condition is known as what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Achalasia"
+        },
+        {
+          "label": "B",
+          "text": "Esophageal candidiasis"
+        },
+        {
+          "label": "C",
+          "text": "Squamous cell carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Barrett esophagus"
+        },
+        {
+          "label": "E",
+          "text": "Normal gastroesophageal junction"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Chronic acid reflux damages esophageal squamous epithelium, which is replaced by protective columnar epithelium with goblet cells; this glandular metaplasia defines Barrett esophagus and carries a risk of adenocarcinoma.",
+        "whyCorrect": "Chronic acid reflux damages esophageal squamous epithelium, which is replaced by protective columnar epithelium with goblet cells; this glandular metaplasia defines Barrett esophagus and carries a risk of adenocarcinoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-101_pa017_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-151",
+      "topicId": "introduction-to-neoplasia",
+      "topicName": "Introduction to Neoplasia",
+      "stem": "This schematic maps cellular adaptations including hyperplasia, hypertrophy, atrophy, dysplasia, and metaplasia. These adaptive changes typically arise as a response to what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An increase in local blood supply"
+        },
+        {
+          "label": "B",
+          "text": "Repeated or chronic cell stress or injury"
+        },
+        {
+          "label": "C",
+          "text": "Normal physiologic aging alone"
+        },
+        {
+          "label": "D",
+          "text": "A brief episode of reversible ischemia"
+        },
+        {
+          "label": "E",
+          "text": "A single random genetic mutation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Metaplasia and the other reversible adaptations shown occur as protective responses to repeated or chronic cellular stress; if the stressor is removed, the cells can revert to their original type.",
+        "whyCorrect": "Metaplasia and the other reversible adaptations shown occur as protective responses to repeated or chronic cellular stress; if the stressor is removed, the cells can revert to their original type.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-151_pa017_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

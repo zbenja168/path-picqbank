@@ -1,0 +1,162 @@
+{
+  "categoryId": "hallmarks-of-neoplasia-genomic-instability",
+  "categoryName": "Hallmarks of Neoplasia: Genomic Instability",
+  "questions": [
+    {
+      "id": "papic-040",
+      "topicId": "hallmarks-of-neoplasia-genomic-instability",
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "stem": "In this immunohistochemical panel for mismatch-repair proteins, the upper two markers show absent (loss of brown nuclear) staining in the tumor glands while the lower two retain intact brown staining. What does this pattern indicate about the tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is mismatch-repair deficient"
+        },
+        {
+          "label": "B",
+          "text": "It harbors a BRCA1 mutation"
+        },
+        {
+          "label": "C",
+          "text": "It overexpresses HER2/neu"
+        },
+        {
+          "label": "D",
+          "text": "It is normal non-neoplastic tissue"
+        },
+        {
+          "label": "E",
+          "text": "It has fully intact mismatch repair"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Loss of nuclear staining for MLH1 and PMS2 (which form a heterodimer, so loss of MLH1 destabilizes PMS2) with preserved MSH2/MSH6 indicates a mismatch-repair-deficient tumor. Such deficiency underlies microsatellite instability and is characteristic of Lynch-syndrome-associated cancers.",
+        "whyCorrect": "Loss of nuclear staining for MLH1 and PMS2 (which form a heterodimer, so loss of MLH1 destabilizes PMS2) with preserved MSH2/MSH6 indicates a mismatch-repair-deficient tumor. Such deficiency underlies microsatellite instability and is characteristic of Lynch-syndrome-associated cancers.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-040_pa023_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-116",
+      "topicId": "hallmarks-of-neoplasia-genomic-instability",
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "stem": "This patient shows extreme photosensitivity with dense freckling and lesions concentrated on sun-exposed skin of the face and neck. An inherited defect in which DNA repair pathway underlies this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nonhomologous end joining"
+        },
+        {
+          "label": "B",
+          "text": "Homologous recombination"
+        },
+        {
+          "label": "C",
+          "text": "Base excision repair"
+        },
+        {
+          "label": "D",
+          "text": "Nucleotide excision repair"
+        },
+        {
+          "label": "E",
+          "text": "Mismatch repair"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Xeroderma pigmentosum results from loss-of-function mutations in nucleotide excision repair, leaving patients unable to remove UV-induced pyrimidine dimers, producing severe photosensitivity, freckling in sun-exposed areas, and greatly increased skin cancer risk.",
+        "whyCorrect": "Xeroderma pigmentosum results from loss-of-function mutations in nucleotide excision repair, leaving patients unable to remove UV-induced pyrimidine dimers, producing severe photosensitivity, freckling in sun-exposed areas, and greatly increased skin cancer risk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-116_pa023_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-117",
+      "topicId": "hallmarks-of-neoplasia-genomic-instability",
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "stem": "This schematic shows the MSH2-MSH6 complex identifying an error in newly synthesized DNA and the MLH1-PMS2 complex excising the incorrect base before resynthesis. Germline loss of the pathway shown predisposes to which hereditary cancer syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Xeroderma pigmentosum"
+        },
+        {
+          "label": "B",
+          "text": "Ataxia telangiectasia"
+        },
+        {
+          "label": "C",
+          "text": "Li-Fraumeni syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Lynch syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Familial adenomatous polyposis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The figure depicts mismatch repair. Germline mutation of a mismatch-repair gene (MLH1, MSH2, MSH6, PMS2) causes Lynch syndrome (hereditary nonpolyposis colorectal cancer), producing microsatellite instability and markedly increased colorectal and endometrial cancer risk.",
+        "whyCorrect": "The figure depicts mismatch repair. Germline mutation of a mismatch-repair gene (MLH1, MSH2, MSH6, PMS2) causes Lynch syndrome (hereditary nonpolyposis colorectal cancer), producing microsatellite instability and markedly increased colorectal and endometrial cancer risk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-117_pa023_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-118",
+      "topicId": "hallmarks-of-neoplasia-genomic-instability",
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "stem": "These images show dilated tortuous blood vessels in the conjunctiva of the eye (A) and on the skin (B, C) of the same patient, who developed ataxia, chorea, and neuropathy before age five. A defect in which DNA repair mechanism causes this disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Homologous recombination"
+        },
+        {
+          "label": "B",
+          "text": "Nucleotide excision repair"
+        },
+        {
+          "label": "C",
+          "text": "Base excision repair"
+        },
+        {
+          "label": "D",
+          "text": "Mismatch repair"
+        },
+        {
+          "label": "E",
+          "text": "Nonhomologous end joining"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The dilated vessels (telangiectasia) with early-onset ataxia indicate ataxia telangiectasia, caused by defective nonhomologous end joining of double-strand breaks. The same defect impairs V(D)J recombination, producing immunodeficiency, and predisposes to leukemia and lymphoma.",
+        "whyCorrect": "The dilated vessels (telangiectasia) with early-onset ataxia indicate ataxia telangiectasia, caused by defective nonhomologous end joining of double-strand breaks. The same defect impairs V(D)J recombination, producing immunodeficiency, and predisposes to leukemia and lymphoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-118_pa023_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

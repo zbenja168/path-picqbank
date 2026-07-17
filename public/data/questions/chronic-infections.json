@@ -1,0 +1,786 @@
+{
+  "categoryId": "chronic-infections",
+  "categoryName": "Chronic Infections",
+  "questions": [
+    {
+      "id": "papic-003",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "This special stain of a tissue field highlights slender rod-shaped organisms as pink/red against a blue counterstain. What structural property lets these organisms retain the stain after acid-alcohol decolorization?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A polysaccharide capsule that resists phagocytosis"
+        },
+        {
+          "label": "B",
+          "text": "A thick peptidoglycan layer that traps crystal violet"
+        },
+        {
+          "label": "C",
+          "text": "Teichoic acids anchored in the plasma membrane"
+        },
+        {
+          "label": "D",
+          "text": "A mycolic-acid-rich (waxy) cell wall"
+        },
+        {
+          "label": "E",
+          "text": "An outer membrane rich in lipopolysaccharide"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The acid-fast (Ziehl-Neelsen) stain highlights Mycobacterium tuberculosis because its mycolic-acid-rich waxy cell wall retains carbolfuchsin even after acid-alcohol washing.",
+        "whyCorrect": "The acid-fast (Ziehl-Neelsen) stain highlights Mycobacterium tuberculosis because its mycolic-acid-rich waxy cell wall retains carbolfuchsin even after acid-alcohol washing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-003_pa011_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-004",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "This silver-stained tissue section reveals slender black organisms with a tight corkscrew (spiral) shape. What morphologic class of pathogen is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gram-positive coccus"
+        },
+        {
+          "label": "B",
+          "text": "Acid-fast bacillus"
+        },
+        {
+          "label": "C",
+          "text": "Budding yeast"
+        },
+        {
+          "label": "D",
+          "text": "Spirochete"
+        },
+        {
+          "label": "E",
+          "text": "Enveloped virus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Silver stains reveal the corkscrew-shaped spirochete Treponema pallidum, the causative agent of syphilis.",
+        "whyCorrect": "Silver stains reveal the corkscrew-shaped spirochete Treponema pallidum, the causative agent of syphilis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-004_pa011_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-005",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "These microscopic fields from a syphilitic lesion show inflammation around small arteries with abundant plasma cells and, in the other panel, multinucleated giant cells. Which pair of histologic hallmarks characterizes syphilitic tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseating granulomas with acid-fast bacilli"
+        },
+        {
+          "label": "B",
+          "text": "Endarteritis with a plasma-cell-rich (lymphoplasmacytic) infiltrate"
+        },
+        {
+          "label": "C",
+          "text": "Non-inflammatory amyloid deposition"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophilic microabscesses"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophil-rich allergic infiltrate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Syphilitic lesions show obliterative endarteritis of small vessels with a dense plasma-cell/lymphoplasmacytic infiltrate, becoming granulomatous (giant cells) in late disease.",
+        "whyCorrect": "Syphilitic lesions show obliterative endarteritis of small vessels with a dense plasma-cell/lymphoplasmacytic infiltrate, becoming granulomatous (giant cells) in late disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-005_pa011_f16.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-006",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "A silver (GMS) stain of this bronchoalveolar lavage specimen highlights dark-gray cyst walls of the causative organism. This infection is classically associated with which radiographic pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lobar consolidation"
+        },
+        {
+          "label": "B",
+          "text": "Large pleural effusion"
+        },
+        {
+          "label": "C",
+          "text": "Solitary cavitary lesion"
+        },
+        {
+          "label": "D",
+          "text": "Bilateral diffuse ground-glass opacities"
+        },
+        {
+          "label": "E",
+          "text": "Miliary nodular pattern"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The frothy casts and silver-positive cyst walls identify Pneumocystis jirovecii pneumonia, a defining opportunistic infection of AIDS. It characteristically produces bilateral interstitial infiltrates with diffuse ground-glass opacities on CT.",
+        "whyCorrect": "The frothy casts and silver-positive cyst walls identify Pneumocystis jirovecii pneumonia, a defining opportunistic infection of AIDS. It characteristically produces bilateral interstitial infiltrates with diffuse ground-glass opacities on CT.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-006_pa012_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-007",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "This microscopic field shows a proliferation of bland, spindled cells forming slit-like vascular spaces in a patient with AIDS. Which virus drives this neoplasm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Human herpesvirus-8 (HHV-8)"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "E",
+          "text": "Human immunodeficiency virus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Kaposi sarcoma is composed of proliferating spindled endothelial cells and is associated with HHV-8 (also called KSHV). It is a secondary neoplasm of AIDS, presenting as cutaneous, mucosal, or visceral violaceous lesions.",
+        "whyCorrect": "Kaposi sarcoma is composed of proliferating spindled endothelial cells and is associated with HHV-8 (also called KSHV). It is a secondary neoplasm of AIDS, presenting as cutaneous, mucosal, or visceral violaceous lesions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-007_pa012_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-008",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "These malignant lymphocytes with enlarged nuclei and intermixed apoptotic bodies constitute an effusion in an AIDS patient. This B-cell malignancy is most associated with which virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Human T-lymphotropic virus-1"
+        },
+        {
+          "label": "B",
+          "text": "Hepatitis C virus"
+        },
+        {
+          "label": "C",
+          "text": "Human herpesvirus-8 (HHV-8)"
+        },
+        {
+          "label": "D",
+          "text": "Human immunodeficiency virus"
+        },
+        {
+          "label": "E",
+          "text": "Cytomegalovirus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Primary effusion lymphoma is an aggressive B-cell lymphoma of body-cavity effusions associated with HHV-8 (often with EBV co-infection). Like other AIDS lymphomas it arises from viral-induced transformation in the setting of immunosuppression.",
+        "whyCorrect": "Primary effusion lymphoma is an aggressive B-cell lymphoma of body-cavity effusions associated with HHV-8 (often with EBV co-infection). Like other AIDS lymphomas it arises from viral-induced transformation in the setting of immunosuppression.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-008_pa012_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-037",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "Compared with the normal chest radiograph on the left, the film on the right shows a parenchymal focus plus enlarged draining nodes at the lung root. This combination in primary tuberculosis constitutes which classically named complex?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ghon (primary) complex"
+        },
+        {
+          "label": "B",
+          "text": "Pancoast syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Caplan syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Meigs syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Kartagener syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A peripheral parenchymal Ghon focus together with ipsilateral hilar lymphadenopathy forms the Ghon/Ranke primary complex of primary tuberculosis.",
+        "whyCorrect": "A peripheral parenchymal Ghon focus together with ipsilateral hilar lymphadenopathy forms the Ghon/Ranke primary complex of primary tuberculosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-037_pa011_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-038",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "The tiny arthropods shown beside a coin for scale are the vector responsible for transmitting which infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rocky Mountain spotted fever"
+        },
+        {
+          "label": "B",
+          "text": "Lyme disease (Borrelia burgdorferi)"
+        },
+        {
+          "label": "C",
+          "text": "Malaria"
+        },
+        {
+          "label": "D",
+          "text": "Epidemic typhus"
+        },
+        {
+          "label": "E",
+          "text": "African trypanosomiasis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The image shows the Ixodes (deer) tick, adult and nymph, next to a coin for scale. Ixodes ticks transmit the spirochete Borrelia burgdorferi, the cause of Lyme disease. The nymph is especially important epidemiologically because its small size makes bites easy to miss.",
+        "whyCorrect": "The image shows the Ixodes (deer) tick, adult and nymph, next to a coin for scale. Ixodes ticks transmit the spirochete Borrelia burgdorferi, the cause of Lyme disease. The nymph is especially important epidemiologically because its small size makes bites easy to miss.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-038_pa012_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-078",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "This gross lung specimen shows the upper apices with softening and cavity formation. In tuberculosis, this apical cavitary pattern is most characteristic of which form of disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Latent tuberculosis"
+        },
+        {
+          "label": "B",
+          "text": "Secondary (reactivation) tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Primary tuberculosis"
+        },
+        {
+          "label": "D",
+          "text": "Miliary tuberculosis"
+        },
+        {
+          "label": "E",
+          "text": "Congenital tuberculosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A robust immune response in a previously sensitized host causes apical cavitation in the well-oxygenated upper lobes, the hallmark of secondary/reactivation pulmonary tuberculosis.",
+        "whyCorrect": "A robust immune response in a previously sensitized host causes apical cavitation in the well-oxygenated upper lobes, the hallmark of secondary/reactivation pulmonary tuberculosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-078_pa011_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-079",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "The organ on the right is studded with countless tiny granulomatous nodules resembling the millet seeds shown on the left. Which route of spread produces this diffuse seeding pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transbronchial airway spread"
+        },
+        {
+          "label": "B",
+          "text": "Lymphatic spread to a single node"
+        },
+        {
+          "label": "C",
+          "text": "Perineural spread"
+        },
+        {
+          "label": "D",
+          "text": "Direct local extension"
+        },
+        {
+          "label": "E",
+          "text": "Hematogenous (bloodstream) dissemination"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Miliary tuberculosis arises from hematogenous dissemination, seeding many organs with innumerable small granulomas that resemble millet seeds.",
+        "whyCorrect": "Miliary tuberculosis arises from hematogenous dissemination, seeding many organs with innumerable small granulomas that resemble millet seeds.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-079_pa011_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-080",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "This solitary, sharply demarcated ulcer with an indurated clean base appeared painlessly at the inoculation site about three weeks after infection. What is this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chancre of primary syphilis"
+        },
+        {
+          "label": "B",
+          "text": "Behcet ulcer"
+        },
+        {
+          "label": "C",
+          "text": "Aphthous ulcer"
+        },
+        {
+          "label": "D",
+          "text": "Herpetic ulcer"
+        },
+        {
+          "label": "E",
+          "text": "Chancroid ulcer (H. ducreyi)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A single painless ulcer with an indurated clean base at the inoculation site ~3 weeks after infection is the chancre of primary syphilis; chancroid, by contrast, is painful.",
+        "whyCorrect": "A single painless ulcer with an indurated clean base at the inoculation site ~3 weeks after infection is the chancre of primary syphilis; chancroid, by contrast, is painful.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-080_pa011_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-081",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "This skin shows scaly, papulosquamous plaques in a patient with syphilis. In which stage do these scaling lesions characteristically appear?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Latent syphilis"
+        },
+        {
+          "label": "B",
+          "text": "Secondary syphilis"
+        },
+        {
+          "label": "C",
+          "text": "Neurosyphilis"
+        },
+        {
+          "label": "D",
+          "text": "Primary syphilis"
+        },
+        {
+          "label": "E",
+          "text": "Tertiary syphilis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Papulosquamous (scaling) rashes are a manifestation of secondary syphilis.",
+        "whyCorrect": "Papulosquamous (scaling) rashes are a manifestation of secondary syphilis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-081_pa011_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-082",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "These images show annular (ring-like) plaques of the face and patches within the oral cavity in secondary syphilis. What is the chief clinical significance of these mucocutaneous lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They indicate irreversible tertiary organ damage"
+        },
+        {
+          "label": "B",
+          "text": "They are pathognomonic of HIV coinfection"
+        },
+        {
+          "label": "C",
+          "text": "They are highly infectious, teeming with spirochetes"
+        },
+        {
+          "label": "D",
+          "text": "They represent an allergic drug eruption"
+        },
+        {
+          "label": "E",
+          "text": "They are premalignant lesions"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mucous patches and mucocutaneous lesions of secondary syphilis contain abundant spirochetes and are highly contagious.",
+        "whyCorrect": "Mucous patches and mucocutaneous lesions of secondary syphilis contain abundant spirochetes and are highly contagious.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-082_pa011_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-083",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "Compared with the normal cord on the left, the special-stained spinal cord on the right shows loss of axons and myelin confined to one region. Which part of the cord degenerates in this form of neurosyphilis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lateral corticospinal tracts"
+        },
+        {
+          "label": "B",
+          "text": "Spinothalamic tracts"
+        },
+        {
+          "label": "C",
+          "text": "Central gray commissure"
+        },
+        {
+          "label": "D",
+          "text": "Anterior (ventral) horns"
+        },
+        {
+          "label": "E",
+          "text": "Dorsal (posterior) columns"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tabes dorsalis, a form of neurosyphilis, degenerates the dorsal columns and dorsal roots, producing sensory ataxia and impaired proprioception.",
+        "whyCorrect": "Tabes dorsalis, a form of neurosyphilis, degenerates the dorsal columns and dorsal roots, producing sensory ataxia and impaired proprioception.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-083_pa011_f19.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-084",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "These images from a neonate show a maculopapular rash of the feet and perianal moist plaques, appearing within months of birth. These are early manifestations of what condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diaper candidiasis"
+        },
+        {
+          "label": "B",
+          "text": "Congenital rubella"
+        },
+        {
+          "label": "C",
+          "text": "Epidermolysis bullosa"
+        },
+        {
+          "label": "D",
+          "text": "Neonatal herpes simplex"
+        },
+        {
+          "label": "E",
+          "text": "Congenital syphilis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Transplacental Treponema pallidum causes congenital syphilis; early findings include snuffles, mucocutaneous lesions/condylomata lata, and rash.",
+        "whyCorrect": "Transplacental Treponema pallidum causes congenital syphilis; early findings include snuffles, mucocutaneous lesions/condylomata lata, and rash.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-084_pa011_f21.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-085",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "This child shows small, notched, peg-shaped upper incisors together with a depressed nasal bridge. The dental abnormality is a hallmark of late congenital syphilis and carries which eponym?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amelogenesis imperfecta"
+        },
+        {
+          "label": "B",
+          "text": "Hutchinson teeth"
+        },
+        {
+          "label": "C",
+          "text": "Talon cusp"
+        },
+        {
+          "label": "D",
+          "text": "Mulberry molars"
+        },
+        {
+          "label": "E",
+          "text": "Turner teeth"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Notched, peg-shaped incisors (Hutchinson teeth) with saddle nose are late manifestations of congenital syphilis, part of the Hutchinson triad.",
+        "whyCorrect": "Notched, peg-shaped incisors (Hutchinson teeth) with saddle nose are late manifestations of congenital syphilis, part of the Hutchinson triad.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-085_pa011_f22.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-086",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "This expanding annular skin lesion with a pale central clearing is the classic early manifestation of infection by which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Rickettsia rickettsii"
+        },
+        {
+          "label": "C",
+          "text": "Treponema pallidum"
+        },
+        {
+          "label": "D",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "E",
+          "text": "Trichophyton rubrum"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The bullseye-like annular erythema with central clearing is erythema migrans, the hallmark of early localized Lyme disease caused by the spirochete Borrelia burgdorferi. It typically appears at the tick bite site and resolves over 4-12 weeks.",
+        "whyCorrect": "The bullseye-like annular erythema with central clearing is erythema migrans, the hallmark of early localized Lyme disease caused by the spirochete Borrelia burgdorferi. It typically appears at the tick bite site and resolves over 4-12 weeks.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-086_pa012_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-087",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "These white, curd-like plaques on the oral mucosa of a patient with advancing HIV infection are caused by which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "B",
+          "text": "Candida species (fungal overgrowth)"
+        },
+        {
+          "label": "C",
+          "text": "Aspergillus fumigatus"
+        },
+        {
+          "label": "D",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Oral candidiasis (thrush) presents as white patches that can be scraped off, reflecting superficial fungal overgrowth of Candida when cell-mediated immunity declines. It is a common early clue to immunosuppression in chronic HIV infection.",
+        "whyCorrect": "Oral candidiasis (thrush) presents as white patches that can be scraped off, reflecting superficial fungal overgrowth of Candida when cell-mediated immunity declines. It is a common early clue to immunosuppression in chronic HIV infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-087_pa012_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-088",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "This severe, deep perirectal ulceration in an AIDS patient is most characteristically caused by reactivation of which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Human herpesvirus-8"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "C",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "D",
+          "text": "Treponema pallidum"
+        },
+        {
+          "label": "E",
+          "text": "Candida albicans"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In advanced immunosuppression, HSV can reactivate to produce chronic, severe perirectal (and oral/esophageal) ulcerations that fail to heal, in contrast to the small self-limited lesions seen in immunocompetent hosts.",
+        "whyCorrect": "In advanced immunosuppression, HSV can reactivate to produce chronic, severe perirectal (and oral/esophageal) ulcerations that fail to heal, in contrast to the small self-limited lesions seen in immunocompetent hosts.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-088_pa012_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-149",
+      "topicId": "chronic-infections",
+      "topicName": "Chronic Infections",
+      "stem": "In the schematic of disease progression depicted here, which host cell population is progressively destroyed, driving the transition to the final stage shown at the bottom?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythrocytes"
+        },
+        {
+          "label": "B",
+          "text": "CD8+ cytotoxic T lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "CD4+ T lymphocytes"
+        },
+        {
+          "label": "E",
+          "text": "B lymphocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The flow diagram traces HIV from mucosal entry through lymph-node dissemination and viremia to AIDS. Progressive depletion of CD4+ helper T cells is the central event; once the count falls below 200/microL the patient is defined as having AIDS.",
+        "whyCorrect": "The flow diagram traces HIV from mucosal entry through lymph-node dissemination and viremia to AIDS. Progressive depletion of CD4+ helper T cells is the central event; once the count falls below 200/microL the patient is defined as having AIDS.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-149_pa012_f04.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

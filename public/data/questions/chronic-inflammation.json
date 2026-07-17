@@ -1,0 +1,162 @@
+{
+  "categoryId": "chronic-inflammation",
+  "categoryName": "Chronic Inflammation",
+  "questions": [
+    {
+      "id": "papic-027",
+      "topicId": "chronic-inflammation",
+      "topicName": "Chronic Inflammation",
+      "stem": "This peripheral blood smear shows a single mononuclear leukocyte with a large, round, dense nucleus and only a thin rim of cytoplasm, surrounded by erythrocytes. Which leukocyte is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Monocyte"
+        },
+        {
+          "label": "B",
+          "text": "Basophil"
+        },
+        {
+          "label": "C",
+          "text": "Eosinophil"
+        },
+        {
+          "label": "D",
+          "text": "Lymphocyte"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophil"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A small cell dominated by a round nucleus with scant cytoplasm is a lymphocyte. Neutrophils have multilobed nuclei, eosinophils have bilobed nuclei with red granules, monocytes are larger with reniform nuclei, and basophils contain dark blue granules.",
+        "whyCorrect": "A small cell dominated by a round nucleus with scant cytoplasm is a lymphocyte. Neutrophils have multilobed nuclei, eosinophils have bilobed nuclei with red granules, monocytes are larger with reniform nuclei, and basophils contain dark blue granules.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-027_pa032_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-135",
+      "topicId": "chronic-inflammation",
+      "topicName": "Chronic Inflammation",
+      "stem": "This lung histology shows a granuloma with a central zone of caseous necrosis rimmed by epithelioid macrophages and multinucleated giant cells. Infection by which organism most classically produces this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "D",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus aureus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Caseating (necrotizing) granulomas in the lung are the hallmark of Mycobacterium tuberculosis infection. The listed pyogenic bacteria produce acute suppurative inflammation with abscesses rather than organized granulomas with central caseous necrosis.",
+        "whyCorrect": "Caseating (necrotizing) granulomas in the lung are the hallmark of Mycobacterium tuberculosis infection. The listed pyogenic bacteria produce acute suppurative inflammation with abscesses rather than organized granulomas with central caseous necrosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-135_pa032_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-136",
+      "topicId": "chronic-inflammation",
+      "topicName": "Chronic Inflammation",
+      "stem": "This lung biopsy shows a well-formed granuloma composed of epithelioid histiocytes, lymphocytes, and macrophages, notably without any central necrosis. Which disease most characteristically produces this non-necrotizing pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "B",
+          "text": "Tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Crohn's disease"
+        },
+        {
+          "label": "D",
+          "text": "Cat-scratch disease"
+        },
+        {
+          "label": "E",
+          "text": "Histoplasmosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Compact, non-caseating granulomas that lack central necrosis are classic for sarcoidosis. Tuberculosis and histoplasmosis usually caseate, cat-scratch disease shows suppurative granulomas, and while Crohn's granulomas are non-caseating they occur in the gut, not the lung.",
+        "whyCorrect": "Compact, non-caseating granulomas that lack central necrosis are classic for sarcoidosis. Tuberculosis and histoplasmosis usually caseate, cat-scratch disease shows suppurative granulomas, and while Crohn's granulomas are non-caseating they occur in the gut, not the lung.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-136_pa032_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-137",
+      "topicId": "chronic-inflammation",
+      "topicName": "Chronic Inflammation",
+      "stem": "Compared with the granuloma of tuberculosis, the lesion depicted in this schematic of sarcoidosis characteristically lacks which central feature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Epithelioid macrophages"
+        },
+        {
+          "label": "C",
+          "text": "A fibrous rim"
+        },
+        {
+          "label": "D",
+          "text": "Multinucleated giant cells"
+        },
+        {
+          "label": "E",
+          "text": "Caseous necrosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sarcoid granulomas are non-caseating, so they lack the central caseous necrosis typical of tuberculosis. They still contain multinucleated giant cells, epithelioid macrophages, lymphocytes, and a surrounding fibrous rim, so those are present rather than absent.",
+        "whyCorrect": "Sarcoid granulomas are non-caseating, so they lack the central caseous necrosis typical of tuberculosis. They still contain multinucleated giant cells, epithelioid macrophages, lymphocytes, and a surrounding fibrous rim, so those are present rather than absent.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-137_pa032_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

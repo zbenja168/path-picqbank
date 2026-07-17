@@ -1,0 +1,123 @@
+{
+  "categoryId": "epidemiology-of-cancer",
+  "categoryName": "Epidemiology of Cancer",
+  "questions": [
+    {
+      "id": "papic-041",
+      "topicId": "epidemiology-of-cancer",
+      "topicName": "Epidemiology of Cancer",
+      "stem": "This abnormal cervical cytology (Pap smear) preparation shows a cluster of atypical cells adjacent to a normal squamous cell. The change demonstrated here is most directly caused by persistent infection with which agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlamydia trachomatis"
+        },
+        {
+          "label": "B",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "C",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "D",
+          "text": "Human immunodeficiency virus"
+        },
+        {
+          "label": "E",
+          "text": "Herpes simplex virus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The enlarged, hyperchromatic cells with increased nuclear-to-cytoplasmic ratio represent a high-grade squamous intraepithelial lesion (HSIL). This precancerous dysplasia of the cervix is caused by persistent infection with high-risk strains of human papillomavirus (HPV), which is why HPV testing has become a key screening tool alongside the Pap smear.",
+        "whyCorrect": "The enlarged, hyperchromatic cells with increased nuclear-to-cytoplasmic ratio represent a high-grade squamous intraepithelial lesion (HSIL). This precancerous dysplasia of the cervix is caused by persistent infection with high-risk strains of human papillomavirus (HPV), which is why HPV testing has become a key screening tool alongside the Pap smear.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-041_pa025_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-042",
+      "topicId": "epidemiology-of-cancer",
+      "topicName": "Epidemiology of Cancer",
+      "stem": "The clustered bright specks seen on this screening breast X-ray (left) prompted a biopsy showing the neoplastic changes at right. This finding is a suspicious marker for which early breast lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ductal carcinoma in situ"
+        },
+        {
+          "label": "B",
+          "text": "Fibroadenoma"
+        },
+        {
+          "label": "C",
+          "text": "Paget disease of the breast"
+        },
+        {
+          "label": "D",
+          "text": "Invasive lobular carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Phyllodes tumor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The mammogram shows clustered microcalcifications, a classic early sign of ductal carcinoma in situ (DCIS). Biopsy reveals neoplastic cells expanding a duct without invasion past the basement membrane, along with the characteristic chunky intraductal calcifications. Detecting DCIS by mammography allows treatment before progression to invasive disease.",
+        "whyCorrect": "The mammogram shows clustered microcalcifications, a classic early sign of ductal carcinoma in situ (DCIS). Biopsy reveals neoplastic cells expanding a duct without invasion past the basement membrane, along with the characteristic chunky intraductal calcifications. Detecting DCIS by mammography allows treatment before progression to invasive disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-042_pa025_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-119",
+      "topicId": "epidemiology-of-cancer",
+      "topicName": "Epidemiology of Cancer",
+      "stem": "These lesions, including a pedunculated example and one with a velvety surface, are removed during colonoscopy. Left in place, they are the principal precursor to which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colorectal adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Gastrointestinal stromal tumor"
+        },
+        {
+          "label": "C",
+          "text": "Squamous cell carcinoma of the anus"
+        },
+        {
+          "label": "D",
+          "text": "Mucosa-associated lymphoid tissue lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Carcinoid (neuroendocrine) tumor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The images show colonic adenomas (adenomatous polyps). Through the adenoma-carcinoma sequence, crowded neoplastic glands progressively accumulate mutations and can invade beyond the basement membrane into the lamina propria, giving rise to colorectal adenocarcinoma. Screening colonoscopy allows their removal before malignant transformation.",
+        "whyCorrect": "The images show colonic adenomas (adenomatous polyps). Through the adenoma-carcinoma sequence, crowded neoplastic glands progressively accumulate mutations and can invade beyond the basement membrane into the lamina propria, giving rise to colorectal adenocarcinoma. Screening colonoscopy allows their removal before malignant transformation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-119_pa025_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

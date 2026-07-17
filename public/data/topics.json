@@ -1,74 +1,326 @@
 {
   "categories": [
     {
-      "id": "gross-anatomy",
-      "name": "Gross Anatomy",
+      "id": "acute-inflammation",
+      "name": "Acute Inflammation",
       "topics": [
         {
-          "id": "gross-anatomy",
-          "name": "Gross Anatomy",
-          "sourceFile": "path bricks",
-          "questionCount": 1
+          "id": "acute-inflammation",
+          "name": "Acute Inflammation",
+          "sourceFile": "brick",
+          "questionCount": 5
         }
       ]
     },
     {
-      "id": "histology-cell-biology",
-      "name": "Histology & Cell Biology",
+      "id": "autoimmune-disease",
+      "name": "Autoimmune Disease",
       "topics": [
         {
-          "id": "histology-cell-biology",
-          "name": "Histology & Cell Biology",
-          "sourceFile": "path bricks",
-          "questionCount": 27
+          "id": "autoimmune-disease",
+          "name": "Autoimmune Disease",
+          "sourceFile": "brick",
+          "questionCount": 3
         }
       ]
     },
     {
-      "id": "lab-diagnostics",
-      "name": "Lab & Diagnostics",
+      "id": "autopsy",
+      "name": "Autopsy",
       "topics": [
         {
-          "id": "lab-diagnostics",
-          "name": "Lab & Diagnostics",
-          "sourceFile": "path bricks",
-          "questionCount": 23
+          "id": "autopsy",
+          "name": "Autopsy",
+          "sourceFile": "brick",
+          "questionCount": 3
         }
       ]
     },
     {
-      "id": "pathology",
-      "name": "Pathology",
+      "id": "cancer-growth-and-metastasis",
+      "name": "Cancer Growth and Metastasis",
       "topics": [
         {
-          "id": "pathology",
-          "name": "Pathology",
-          "sourceFile": "path bricks",
-          "questionCount": 89
+          "id": "cancer-growth-and-metastasis",
+          "name": "Cancer Growth and Metastasis",
+          "sourceFile": "brick",
+          "questionCount": 3
         }
       ]
     },
     {
-      "id": "pharmacology",
-      "name": "Pharmacology",
+      "id": "cancer-immune-evasion",
+      "name": "Cancer Immune Evasion",
       "topics": [
         {
-          "id": "pharmacology",
-          "name": "Pharmacology",
-          "sourceFile": "path bricks",
+          "id": "cancer-immune-evasion",
+          "name": "Cancer Immune Evasion",
+          "sourceFile": "brick",
           "questionCount": 2
         }
       ]
     },
     {
-      "id": "physiology-mechanisms",
-      "name": "Physiology & Mechanisms",
+      "id": "cancer-medications-overview",
+      "name": "Cancer Medications Overview",
       "topics": [
         {
-          "id": "physiology-mechanisms",
-          "name": "Physiology & Mechanisms",
-          "sourceFile": "path bricks",
+          "id": "cancer-medications-overview",
+          "name": "Cancer Medications Overview",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "cell-death-apoptosis-and-necrosis",
+      "name": "Cell Death: Apoptosis and Necrosis",
+      "topics": [
+        {
+          "id": "cell-death-apoptosis-and-necrosis",
+          "name": "Cell Death: Apoptosis and Necrosis",
+          "sourceFile": "brick",
+          "questionCount": 10
+        }
+      ]
+    },
+    {
+      "id": "chronic-infections",
+      "name": "Chronic Infections",
+      "topics": [
+        {
+          "id": "chronic-infections",
+          "name": "Chronic Infections",
+          "sourceFile": "brick",
+          "questionCount": 20
+        }
+      ]
+    },
+    {
+      "id": "chronic-inflammation",
+      "name": "Chronic Inflammation",
+      "topics": [
+        {
+          "id": "chronic-inflammation",
+          "name": "Chronic Inflammation",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "epidemiology-of-cancer",
+      "name": "Epidemiology of Cancer",
+      "topics": [
+        {
+          "id": "epidemiology-of-cancer",
+          "name": "Epidemiology of Cancer",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "hallmarks-of-neoplasia-genomic-instability",
+      "name": "Hallmarks of Neoplasia: Genomic Instability",
+      "topics": [
+        {
+          "id": "hallmarks-of-neoplasia-genomic-instability",
+          "name": "Hallmarks of Neoplasia: Genomic Instability",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "hemodynamics-and-shock",
+      "name": "Hemodynamics and Shock",
+      "topics": [
+        {
+          "id": "hemodynamics-and-shock",
+          "name": "Hemodynamics and Shock",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "immune-mediated-damage-and-granulomatous-diseases",
+      "name": "Immune-Mediated Damage and Granulomatous Diseases",
+      "topics": [
+        {
+          "id": "immune-mediated-damage-and-granulomatous-diseases",
+          "name": "Immune-Mediated Damage and Granulomatous Diseases",
+          "sourceFile": "brick",
           "questionCount": 14
+        }
+      ]
+    },
+    {
+      "id": "infections-immunity-and-evading-host-defense",
+      "name": "Infections, Immunity, and Evading Host Defense",
+      "topics": [
+        {
+          "id": "infections-immunity-and-evading-host-defense",
+          "name": "Infections, Immunity, and Evading Host Defense",
+          "sourceFile": "brick",
+          "questionCount": 7
+        }
+      ]
+    },
+    {
+      "id": "infectious-and-inflammatory-jaundice",
+      "name": "Infectious and Inflammatory Jaundice",
+      "topics": [
+        {
+          "id": "infectious-and-inflammatory-jaundice",
+          "name": "Infectious and Inflammatory Jaundice",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "introduction-to-anatomic-pathology",
+      "name": "Introduction to Anatomic Pathology",
+      "topics": [
+        {
+          "id": "introduction-to-anatomic-pathology",
+          "name": "Introduction to Anatomic Pathology",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ]
+    },
+    {
+      "id": "introduction-to-clinical-pathology",
+      "name": "Introduction to Clinical Pathology",
+      "topics": [
+        {
+          "id": "introduction-to-clinical-pathology",
+          "name": "Introduction to Clinical Pathology",
+          "sourceFile": "brick",
+          "questionCount": 5
+        }
+      ]
+    },
+    {
+      "id": "introduction-to-infection",
+      "name": "Introduction to Infection",
+      "topics": [
+        {
+          "id": "introduction-to-infection",
+          "name": "Introduction to Infection",
+          "sourceFile": "brick",
+          "questionCount": 5
+        }
+      ]
+    },
+    {
+      "id": "introduction-to-neoplasia",
+      "name": "Introduction to Neoplasia",
+      "topics": [
+        {
+          "id": "introduction-to-neoplasia",
+          "name": "Introduction to Neoplasia",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "introduction-to-pathology-cell-injury-and-adaptation",
+      "name": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "topics": [
+        {
+          "id": "introduction-to-pathology-cell-injury-and-adaptation",
+          "name": "Introduction to Pathology, Cell Injury, and Adaptation",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ]
+    },
+    {
+      "id": "molecular-basis-of-neoplasia",
+      "name": "Molecular Basis of Neoplasia",
+      "topics": [
+        {
+          "id": "molecular-basis-of-neoplasia",
+          "name": "Molecular Basis of Neoplasia",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ]
+    },
+    {
+      "id": "paraneoplastic-syndromes",
+      "name": "Paraneoplastic Syndromes",
+      "topics": [
+        {
+          "id": "paraneoplastic-syndromes",
+          "name": "Paraneoplastic Syndromes",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "pathogen-associated-neoplasms",
+      "name": "Pathogen-Associated Neoplasms",
+      "topics": [
+        {
+          "id": "pathogen-associated-neoplasms",
+          "name": "Pathogen-Associated Neoplasms",
+          "sourceFile": "brick",
+          "questionCount": 14
+        }
+      ]
+    },
+    {
+      "id": "thrombosis-and-its-consequences",
+      "name": "Thrombosis and Its Consequences",
+      "topics": [
+        {
+          "id": "thrombosis-and-its-consequences",
+          "name": "Thrombosis and Its Consequences",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "transplant-rejection",
+      "name": "Transplant Rejection",
+      "topics": [
+        {
+          "id": "transplant-rejection",
+          "name": "Transplant Rejection",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "transplantation",
+      "name": "Transplantation",
+      "topics": [
+        {
+          "id": "transplantation",
+          "name": "Transplantation",
+          "sourceFile": "brick",
+          "questionCount": 9
+        }
+      ]
+    },
+    {
+      "id": "wound-healing-and-tissue-repair",
+      "name": "Wound Healing and Tissue Repair",
+      "topics": [
+        {
+          "id": "wound-healing-and-tissue-repair",
+          "name": "Wound Healing and Tissue Repair",
+          "sourceFile": "brick",
+          "questionCount": 4
         }
       ]
     }

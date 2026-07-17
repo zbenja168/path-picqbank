@@ -1,0 +1,286 @@
+{
+  "categoryId": "introduction-to-pathology-cell-injury-and-adaptation",
+  "categoryName": "Introduction to Pathology, Cell Injury, and Adaptation",
+  "questions": [
+    {
+      "id": "papic-013",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "This H&E field from an aggressive pediatric CNS tumor shows the dark structures indicated by the arrows. What do these structures directly indicate about the tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deposition of hemosiderin pigment"
+        },
+        {
+          "label": "B",
+          "text": "Programmed cell death of tumor cells"
+        },
+        {
+          "label": "C",
+          "text": "Infiltration by inflammatory neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "A high rate of cellular proliferation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The arrows point to mitotic figures (condensed dividing chromosomes staining dark purple). Abundant mitoses are a morphologic marker of rapid cellular proliferation, seen here in a medulloblastoma.",
+        "whyCorrect": "The arrows point to mitotic figures (condensed dividing chromosomes staining dark purple). Abundant mitoses are a morphologic marker of rapid cellular proliferation, seen here in a medulloblastoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-013_pa021_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-014",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "Panel A shows normal renal tubule cells; panel B shows the same cells after an early, reversible insult. What reversible change accounts for the appearance in panel B?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fatty change from lipid accumulation"
+        },
+        {
+          "label": "B",
+          "text": "Apoptotic body formation"
+        },
+        {
+          "label": "C",
+          "text": "Coagulative necrosis of the epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Cellular (hydropic) swelling from failed ion pumps"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Depleted ATP impairs Na+/K+ pumps, causing water influx and cellular swelling with pale, eosinophilic cytoplasm. This is a hallmark of reversible injury and resolves if the stimulus is removed.",
+        "whyCorrect": "Depleted ATP impairs Na+/K+ pumps, causing water influx and cellular swelling with pale, eosinophilic cytoplasm. This is a hallmark of reversible injury and resolves if the stimulus is removed.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-014_pa021_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-112",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "These injured kidney tubule cells show swelling and increased pink cytoplasm. The fading, washed-out nuclei in some cells reflect which pattern of nuclear change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Karyorrhexis"
+        },
+        {
+          "label": "B",
+          "text": "Karyolysis"
+        },
+        {
+          "label": "C",
+          "text": "Mitosis"
+        },
+        {
+          "label": "D",
+          "text": "Russell body formation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Karyolysis is the fading of basophilic nuclear staining as chromatin is degraded. It is distinct from pyknosis (shrunken dark nuclei) and karyorrhexis (nuclear fragmentation), accompanying the eosinophilia and swelling of injured cells.",
+        "whyCorrect": "Karyolysis is the fading of basophilic nuclear staining as chromatin is degraded. It is distinct from pyknosis (shrunken dark nuclei) and karyorrhexis (nuclear fragmentation), accompanying the eosinophilia and swelling of injured cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-112_pa021_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-113",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "This liver from a patient who cannot properly excrete bile shows a yellow-brown pigment within cells. What is this pigment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Melanin"
+        },
+        {
+          "label": "B",
+          "text": "Lipofuscin"
+        },
+        {
+          "label": "C",
+          "text": "Anthracotic carbon"
+        },
+        {
+          "label": "D",
+          "text": "Bilirubin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bilirubin is a yellow-brown pigment from heme breakdown that accumulates when bile excretion is impaired. It is distinct from hemosiderin, the iron-containing blood breakdown product.",
+        "whyCorrect": "Bilirubin is a yellow-brown pigment from heme breakdown that accumulates when bile excretion is impaired. It is distinct from hemosiderin, the iron-containing blood breakdown product.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-113_pa021_f16.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-114",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "This gross specimen shows hard, chalky white deposits on the cusps of a damaged, atherosclerotic aortic valve. Given normal systemic calcium levels, what type of calcification is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dystrophic calcification"
+        },
+        {
+          "label": "B",
+          "text": "Metastatic calcification"
+        },
+        {
+          "label": "C",
+          "text": "Hemosiderin deposition"
+        },
+        {
+          "label": "D",
+          "text": "Amyloid deposition"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dystrophic calcification is calcium deposition in damaged or dying tissue under normal systemic calcium homeostasis, as in this atherosclerotic aortic valve. Metastatic calcification instead occurs in normal tissue with hypercalcemia.",
+        "whyCorrect": "Dystrophic calcification is calcium deposition in damaged or dying tissue under normal systemic calcium homeostasis, as in this atherosclerotic aortic valve. Metastatic calcification instead occurs in normal tissue with hypercalcemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-114_pa021_f17.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-115",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "This bisected uterus shows a bulky, thickened endometrial lining compared with the normal region. With excess estrogen stimulation, what adaptive change does the bulky area represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrophy"
+        },
+        {
+          "label": "B",
+          "text": "Hyperplasia (increased cell number)"
+        },
+        {
+          "label": "C",
+          "text": "Metaplasia"
+        },
+        {
+          "label": "D",
+          "text": "Hypertrophy (increased cell size)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Excess estrogen drives increased proliferation of endometrial glandular cells (hyperplasia), producing a bulky lining and a cause of abnormal uterine bleeding.",
+        "whyCorrect": "Excess estrogen drives increased proliferation of endometrial glandular cells (hyperplasia), producing a bulky lining and a cause of abnormal uterine bleeding.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-115_pa021_f20.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-152",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "This summary diagram centers on the organelle shown. When this organelle is damaged, which paired consequences drive the resulting cell injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased protein synthesis and decreased ROS"
+        },
+        {
+          "label": "B",
+          "text": "Decreased ATP and increased reactive oxygen species"
+        },
+        {
+          "label": "C",
+          "text": "Decreased DNA damage and increased glycolysis"
+        },
+        {
+          "label": "D",
+          "text": "Increased ATP and decreased calcium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mitochondrial damage lowers ATP (impairing energy-dependent functions) and raises ROS production, which together damage lipids, proteins, and nucleic acids. Failure to reverse mitochondrial dysfunction marks irreversible injury.",
+        "whyCorrect": "Mitochondrial damage lowers ATP (impairing energy-dependent functions) and raises ROS production, which together damage lipids, proteins, and nucleic acids. Failure to reverse mitochondrial dysfunction marks irreversible injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-152_pa021_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-153",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "This summary schematic integrates the major mechanisms converging on a single end point. What overarching process do the depicted pathways (ATP loss, calcium rise, ROS, membrane and DNA damage) collectively produce?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellular adaptation"
+        },
+        {
+          "label": "B",
+          "text": "Cell injury"
+        },
+        {
+          "label": "C",
+          "text": "Cell proliferation"
+        },
+        {
+          "label": "D",
+          "text": "Normal cell signaling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The figure summarizes how decreased ATP, increased cytosolic calcium, reactive oxygen species, and membrane/DNA damage act through multiple downstream effects to cause cell injury.",
+        "whyCorrect": "The figure summarizes how decreased ATP, increased cytosolic calcium, reactive oxygen species, and membrane/DNA damage act through multiple downstream effects to cause cell injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-153_pa021_f22.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "categoryId": "autopsy",
+  "categoryName": "Autopsy",
+  "questions": [
+    {
+      "id": "papic-001",
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "stem": "This labeled dissection, showing chambers and great vessels in two views, teaches the normal gross anatomy of which organ?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Spleen"
+        },
+        {
+          "label": "B",
+          "text": "Lung"
+        },
+        {
+          "label": "C",
+          "text": "Liver"
+        },
+        {
+          "label": "D",
+          "text": "Heart"
+        },
+        {
+          "label": "E",
+          "text": "Kidney"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The labeled superior/inferior vena cava, aorta, pulmonary artery and veins, atria, and ventricles identify this as a dissection of the heart, demonstrating the four-chamber cardiac anatomy.",
+        "whyCorrect": "The labeled superior/inferior vena cava, aorta, pulmonary artery and veins, atria, and ventricles identify this as a dissection of the heart, demonstrating the four-chamber cardiac anatomy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-001_pa002_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-052",
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "stem": "During the internal examination shown here, the body cavity is opened using an incision named for its shape. What is this standard autopsy incision called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Kocher subcostal incision"
+        },
+        {
+          "label": "B",
+          "text": "Median sternotomy incision"
+        },
+        {
+          "label": "C",
+          "text": "McBurney incision"
+        },
+        {
+          "label": "D",
+          "text": "Midline laparotomy incision"
+        },
+        {
+          "label": "E",
+          "text": "Y-shaped incision"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The autopsy internal exam classically begins with a Y-shaped incision extending from each shoulder to the mid-chest and down the midline, allowing the thoracic and abdominal cavities to be opened as shown.",
+        "whyCorrect": "The autopsy internal exam classically begins with a Y-shaped incision extending from each shoulder to the mid-chest and down the midline, allowing the thoracic and abdominal cavities to be opened as shown.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-052_pa002_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-053",
+      "topicId": "autopsy",
+      "topicName": "Autopsy",
+      "stem": "This gross cross-section shows a diffusely nodular, firm organ from a patient with long-standing alcohol use. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic passive hepatic congestion"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic steatosis (fatty liver)"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic amyloidosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The uniform micro/macronodular architecture with intervening fibrous bands in a liver from a chronic alcohol user is characteristic of cirrhosis, the end-stage of diffuse hepatic fibrosis and regenerative nodule formation.",
+        "whyCorrect": "The uniform micro/macronodular architecture with intervening fibrous bands in a liver from a chronic alcohol user is characteristic of cirrhosis, the end-stage of diffuse hepatic fibrosis and regenerative nodule formation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-053_pa002_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "categoryId": "introduction-to-clinical-pathology",
+  "categoryName": "Introduction to Clinical Pathology",
+  "questions": [
+    {
+      "id": "papic-029",
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology",
+      "stem": "The automated immunohematology instruments shown belong to which section of the clinical laboratory?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blood bank / transfusion medicine"
+        },
+        {
+          "label": "B",
+          "text": "Microbiology"
+        },
+        {
+          "label": "C",
+          "text": "Urinalysis"
+        },
+        {
+          "label": "D",
+          "text": "Clinical chemistry"
+        },
+        {
+          "label": "E",
+          "text": "Coagulation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The instruments pictured are automated blood-bank analyzers used for ABO/Rh typing, antibody screening, and crossmatching to support safe blood transfusion.",
+        "whyCorrect": "The instruments pictured are automated blood-bank analyzers used for ABO/Rh typing, antibody screening, and crossmatching to support safe blood transfusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-029_pa005_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-030",
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology",
+      "stem": "The rows of high-throughput automated analyzers shown are characteristic of which laboratory section?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematology"
+        },
+        {
+          "label": "B",
+          "text": "Blood bank"
+        },
+        {
+          "label": "C",
+          "text": "Microbiology"
+        },
+        {
+          "label": "D",
+          "text": "Anatomic pathology"
+        },
+        {
+          "label": "E",
+          "text": "Clinical chemistry"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This is a clinical chemistry laboratory, which uses large automated chemistry analyzers to measure electrolytes, glucose, liver and kidney panels, and other biochemical analytes at high volume.",
+        "whyCorrect": "This is a clinical chemistry laboratory, which uses large automated chemistry analyzers to measure electrolytes, glucose, liver and kidney panels, and other biochemical analytes at high volume.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-030_pa005_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-031",
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology",
+      "stem": "The scientist shown is working with stacks of culture plates at a bench. Which laboratory section is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematology"
+        },
+        {
+          "label": "B",
+          "text": "Clinical chemistry"
+        },
+        {
+          "label": "C",
+          "text": "Microbiology"
+        },
+        {
+          "label": "D",
+          "text": "Blood bank"
+        },
+        {
+          "label": "E",
+          "text": "Urinalysis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is the microbiology laboratory, which cultures specimens on media plates to isolate and identify micro-organisms and guide antimicrobial therapy.",
+        "whyCorrect": "This is the microbiology laboratory, which cultures specimens on media plates to isolate and identify micro-organisms and guide antimicrobial therapy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-031_pa005_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-032",
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology",
+      "stem": "On this culture plate, several paper disks are surrounded by circular clear zones. What does a clear zone of no growth around a disk indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The plate is contaminated at that spot"
+        },
+        {
+          "label": "B",
+          "text": "The disk supplied a nutrient the bacteria consumed"
+        },
+        {
+          "label": "C",
+          "text": "The organism is resistant to that antibiotic"
+        },
+        {
+          "label": "D",
+          "text": "Fungal overgrowth has occurred around the disk"
+        },
+        {
+          "label": "E",
+          "text": "The organism is susceptible to that antibiotic"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This is a disk-diffusion (Kirby-Bauer) susceptibility test. A zone of inhibited growth around a disk means the antibiotic diffusing from it suppresses the organism, indicating susceptibility; absence of a zone indicates resistance.",
+        "whyCorrect": "This is a disk-diffusion (Kirby-Bauer) susceptibility test. A zone of inhibited growth around a disk means the antibiotic diffusing from it suppresses the organism, indicating susceptibility; absence of a zone indicates resistance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-032_pa005_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-033",
+      "topicId": "introduction-to-clinical-pathology",
+      "topicName": "Introduction to Clinical Pathology",
+      "stem": "A gloved hand compares a reagent strip against a color reference block next to specimen cups. Which laboratory test is being performed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ABO blood typing"
+        },
+        {
+          "label": "B",
+          "text": "Urinalysis (urine dipstick chemical analysis)"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial culture reading"
+        },
+        {
+          "label": "D",
+          "text": "Prothrombin time measurement"
+        },
+        {
+          "label": "E",
+          "text": "Blood glucose meter testing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is a urine dipstick being read against a color chart, part of the urinalysis chemical exam that assesses pH, protein, glucose, ketones, bilirubin, leukocyte esterase, nitrites, and blood.",
+        "whyCorrect": "This is a urine dipstick being read against a color chart, part of the urinalysis chemical exam that assesses pH, protein, glucose, ketones, bilirubin, leukocyte esterase, nitrites, and blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-033_pa005_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

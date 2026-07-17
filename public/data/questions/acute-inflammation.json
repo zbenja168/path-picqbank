@@ -1,0 +1,201 @@
+{
+  "categoryId": "acute-inflammation",
+  "categoryName": "Acute Inflammation",
+  "questions": [
+    {
+      "id": "papic-026",
+      "topicId": "acute-inflammation",
+      "topicName": "Acute Inflammation",
+      "stem": "This micrograph contrasts the two principal cells of acute inflammation, with a neutrophil at left and a tissue macrophage at right. Approximately when does the cell shown at right become the predominant cell at the site of injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "At 6-12 hours"
+        },
+        {
+          "label": "B",
+          "text": "48-72 hours (2-3 days) after injury"
+        },
+        {
+          "label": "C",
+          "text": "Within the first few minutes"
+        },
+        {
+          "label": "D",
+          "text": "Only after 2-3 weeks"
+        },
+        {
+          "label": "E",
+          "text": "Immediately at the moment of injury"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Neutrophils arrive first and peak around 24 hours; macrophages become the predominant cell type roughly 48-72 hours after injury or infection.",
+        "whyCorrect": "Neutrophils arrive first and peak around 24 hours; macrophages become the predominant cell type roughly 48-72 hours after injury or infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-026_pa031_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-051",
+      "topicId": "acute-inflammation",
+      "topicName": "Acute Inflammation",
+      "stem": "This chest radiograph shows regions of increased opacity within the lung fields. What process do these opacities most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Large pleural effusion"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse pulmonary fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "Alveolar infiltrate consistent with bacterial pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Cardiomegaly from heart failure"
+        },
+        {
+          "label": "E",
+          "text": "Pneumothorax with lung collapse"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The opaque areas correspond to alveolar spaces filled with purulent exudate, a pattern consistent with bacterial pneumonia.",
+        "whyCorrect": "The opaque areas correspond to alveolar spaces filled with purulent exudate, a pattern consistent with bacterial pneumonia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-051_pa031_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-132",
+      "topicId": "acute-inflammation",
+      "topicName": "Acute Inflammation",
+      "stem": "This skin section shows the epidermis lifted away from the underlying dermis by a collection of pale, watery fluid. Which morphologic pattern of inflammation is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serous inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Ulcerative inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Suppurative (purulent) inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Fibrinous inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Granulomatous inflammation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A blister formed by accumulation of protein-poor, cell-poor (transudate-like) fluid separating the epidermis represents serous inflammation.",
+        "whyCorrect": "A blister formed by accumulation of protein-poor, cell-poor (transudate-like) fluid separating the epidermis represents serous inflammation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-132_pa031_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-133",
+      "topicId": "acute-inflammation",
+      "topicName": "Acute Inflammation",
+      "stem": "Panel A shows a shaggy, roughened surface coating this heart and panel B shows a pink meshwork overlying the pericardial surface. Which type of inflammatory exudate is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemorrhagic exudate"
+        },
+        {
+          "label": "B",
+          "text": "Purulent (suppurative) exudate"
+        },
+        {
+          "label": "C",
+          "text": "Fibrinous exudate"
+        },
+        {
+          "label": "D",
+          "text": "Serous exudate"
+        },
+        {
+          "label": "E",
+          "text": "Caseous exudate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Increased vascular permeability allows fibrinogen to leak and deposit as fibrin on the pericardial surface, producing a fibrinous exudate (fibrinous pericarditis).",
+        "whyCorrect": "Increased vascular permeability allows fibrinogen to leak and deposit as fibrin on the pericardial surface, producing a fibrinous exudate (fibrinous pericarditis).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-133_pa031_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-134",
+      "topicId": "acute-inflammation",
+      "topicName": "Acute Inflammation",
+      "stem": "This gross specimen (A) and low-power cross-section (B) show a punched-out defect penetrating through the mucosal surface with an inflammatory exudate at its base. Which morphologic pattern of inflammation is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ulcerative inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Fibrinous inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Serous inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Suppurative inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Pseudomembranous inflammation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An ulcer is a local defect of an epithelial surface produced by sloughing of inflamed necrotic tissue, here a chronic duodenal ulcer.",
+        "whyCorrect": "An ulcer is a local defect of an epithelial surface produced by sloughing of inflamed necrotic tissue, here a chronic duodenal ulcer.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-134_pa031_f06.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "categoryId": "transplant-rejection",
+  "categoryName": "Transplant Rejection",
+  "questions": [
+    {
+      "id": "papic-097",
+      "topicId": "transplant-rejection",
+      "topicName": "Transplant Rejection",
+      "stem": "The paired schematic and kidney histology shown depict antibody binding to graft endothelium triggering complement activation, endothelial damage, and platelet-fibrin thrombi with severe ischemic injury. Which type of transplant rejection is illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute cellular rejection"
+        },
+        {
+          "label": "B",
+          "text": "Acute antibody-mediated rejection"
+        },
+        {
+          "label": "C",
+          "text": "Hyperacute rejection"
+        },
+        {
+          "label": "D",
+          "text": "Graft-versus-host disease"
+        },
+        {
+          "label": "E",
+          "text": "Chronic rejection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Preformed recipient antibodies against ABO or MHC antigens on graft endothelium activate complement within minutes to hours, causing thrombosis, ischemia, and necrosis (a type II hypersensitivity reaction). The glomerular fibrin thrombi shown are the histologic hallmark of hyperacute rejection.",
+        "whyCorrect": "Preformed recipient antibodies against ABO or MHC antigens on graft endothelium activate complement within minutes to hours, causing thrombosis, ischemia, and necrosis (a type II hypersensitivity reaction). The glomerular fibrin thrombi shown are the histologic hallmark of hyperacute rejection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-097_pa014_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

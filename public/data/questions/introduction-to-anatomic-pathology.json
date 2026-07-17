@@ -1,0 +1,318 @@
+{
+  "categoryId": "introduction-to-anatomic-pathology",
+  "categoryName": "Introduction to Anatomic Pathology",
+  "questions": [
+    {
+      "id": "papic-025",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "In this routinely stained section, the pink coloration of the cytoplasm is produced by which dye component?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congo red"
+        },
+        {
+          "label": "B",
+          "text": "Hematoxylin"
+        },
+        {
+          "label": "C",
+          "text": "Prussian blue"
+        },
+        {
+          "label": "D",
+          "text": "Eosin"
+        },
+        {
+          "label": "E",
+          "text": "Periodic acid-Schiff"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In H&E staining, eosin stains cytoplasmic and extracellular components pink while hematoxylin stains nuclei blue-purple.",
+        "whyCorrect": "In H&E staining, eosin stains cytoplasmic and extracellular components pink while hematoxylin stains nuclei blue-purple.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-025_pa030_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-045",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "The instrument shown being used on the skin obtains a tissue sample by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Scraping surface cells with a wooden spatula"
+        },
+        {
+          "label": "B",
+          "text": "Aspirating cells through a fine hollow needle"
+        },
+        {
+          "label": "C",
+          "text": "Removing a full-thickness cylindrical core with a circular blade"
+        },
+        {
+          "label": "D",
+          "text": "Shaving a thin superficial layer with a horizontal blade"
+        },
+        {
+          "label": "E",
+          "text": "Excising the entire lesion with an elliptical incision"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A punch biopsy uses a cylindrical blade rotated into the skin to remove a full-thickness core of tissue for histologic evaluation.",
+        "whyCorrect": "A punch biopsy uses a cylindrical blade rotated into the skin to remove a full-thickness core of tissue for histologic evaluation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-045_pa030_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-046",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "The dashed line drawn around this pigmented skin lesion before removal represents what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The border of a superficial shave biopsy"
+        },
+        {
+          "label": "B",
+          "text": "The zone of local anesthetic infiltration"
+        },
+        {
+          "label": "C",
+          "text": "The path of a future skin graft"
+        },
+        {
+          "label": "D",
+          "text": "The site of sentinel lymph node mapping"
+        },
+        {
+          "label": "E",
+          "text": "A margin of normal skin removed together with the lesion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An excisional biopsy removes the entire lesion plus a surrounding safety margin of normal-appearing skin, making it both diagnostic and potentially curative.",
+        "whyCorrect": "An excisional biopsy removes the entire lesion plus a surrounding safety margin of normal-appearing skin, making it both diagnostic and potentially curative.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-046_pa030_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-047",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "These blocks hold tissue embedded in paraffin for long-term storage and sectioning; which fixative preserves the tissue before embedding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Liquid nitrogen"
+        },
+        {
+          "label": "B",
+          "text": "Formalin"
+        },
+        {
+          "label": "C",
+          "text": "Glutaraldehyde"
+        },
+        {
+          "label": "D",
+          "text": "Absolute ethanol"
+        },
+        {
+          "label": "E",
+          "text": "Bouin's picric acid"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Surgical specimens are typically processed as formalin-fixed paraffin-embedded (FFPE) blocks; formalin cross-links proteins to preserve tissue morphology for at least 10 years.",
+        "whyCorrect": "Surgical specimens are typically processed as formalin-fixed paraffin-embedded (FFPE) blocks; formalin cross-links proteins to preserve tissue morphology for at least 10 years.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-047_pa030_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-048",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "This special stain blackens straw-like hyphae and oval yeast forms against a pale background; what is it used to detect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid deposits"
+        },
+        {
+          "label": "B",
+          "text": "Iron (hemosiderin)"
+        },
+        {
+          "label": "C",
+          "text": "Collagen and fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Acid-fast bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Fungal organisms"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The Grocott-Gomori methenamine silver (GMS) stain deposits silver on fungal cell walls, making fungal hyphae and yeast readily visible.",
+        "whyCorrect": "The Grocott-Gomori methenamine silver (GMS) stain deposits silver on fungal cell walls, making fungal hyphae and yeast readily visible.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-048_pa030_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-049",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "In this immunohistochemical preparation, the brown coloration indicates what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Presence of the targeted antigen (here, cytokeratin)"
+        },
+        {
+          "label": "B",
+          "text": "Areas of tissue necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Accumulation of hemosiderin"
+        },
+        {
+          "label": "D",
+          "text": "Deposition of melanin pigment"
+        },
+        {
+          "label": "E",
+          "text": "Nonspecific background autofluorescence"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Immunohistochemistry uses antibodies against a specific antigen, and a chromogen produces brown color where the antigen is present. Cytokeratin positivity here helps identify the neoplasm as a carcinoma.",
+        "whyCorrect": "Immunohistochemistry uses antibodies against a specific antigen, and a chromogen produces brown color where the antigen is present. Cytokeratin positivity here helps identify the neoplasm as a carcinoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-049_pa030_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-050",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "On this cervical Pap smear, the small cells with a high nuclear-to-cytoplasmic ratio (upper left) compared with the large cell (lower right) indicate what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Red blood cell contamination"
+        },
+        {
+          "label": "B",
+          "text": "Worrisome, potentially pre-malignant cells"
+        },
+        {
+          "label": "C",
+          "text": "Normal mature squamous cells"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial colonization"
+        },
+        {
+          "label": "E",
+          "text": "Degenerated inflammatory debris"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A high nuclear-to-cytoplasmic ratio, nuclear enlargement, and irregular nuclear membranes are worrisome cytologic features, contrasting with the abundant cytoplasm of the normal intermediate squamous cell.",
+        "whyCorrect": "A high nuclear-to-cytoplasmic ratio, nuclear enlargement, and irregular nuclear membranes are worrisome cytologic features, contrasting with the abundant cytoplasm of the normal intermediate squamous cell.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-050_pa030_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-131",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "The enlarged, overlapping nuclei with clearing shown in this thyroid lesion are diagnostic features of which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaplastic thyroid carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Medullary thyroid carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Follicular thyroid carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Hashimoto thyroiditis"
+        },
+        {
+          "label": "E",
+          "text": "Papillary thyroid carcinoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Papillary thyroid carcinoma is characterized by nuclear enlargement, nuclear overlap, and optically clear (Orphan Annie eye) nuclei with grooves.",
+        "whyCorrect": "Papillary thyroid carcinoma is characterized by nuclear enlargement, nuclear overlap, and optically clear (Orphan Annie eye) nuclei with grooves.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-131_pa030_f09.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "categoryId": "cancer-medications-overview",
+  "categoryName": "Cancer Medications Overview",
+  "questions": [
+    {
+      "id": "papic-142",
+      "topicId": "cancer-medications-overview",
+      "topicName": "Cancer Medications Overview",
+      "stem": "This mnemonic figure maps chemotherapy agents to their signature organ toxicities. The agent depicted as causing hemorrhagic cystitis produces a bladder-toxic metabolite; co-administration of which agent prevents this toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leucovorin"
+        },
+        {
+          "label": "B",
+          "text": "Dexrazoxane"
+        },
+        {
+          "label": "C",
+          "text": "Amifostine"
+        },
+        {
+          "label": "D",
+          "text": "Mesna"
+        },
+        {
+          "label": "E",
+          "text": "Filgrastim"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cyclophosphamide generates acrolein, which injures the bladder urothelium and causes hemorrhagic cystitis. Mesna binds and detoxifies acrolein in the urine. Leucovorin rescues methotrexate toxicity, amifostine protects against cisplatin nephro/ototoxicity, and dexrazoxane guards against anthracycline cardiotoxicity.",
+        "whyCorrect": "Cyclophosphamide generates acrolein, which injures the bladder urothelium and causes hemorrhagic cystitis. Mesna binds and detoxifies acrolein in the urine. Leucovorin rescues methotrexate toxicity, amifostine protects against cisplatin nephro/ototoxicity, and dexrazoxane guards against anthracycline cardiotoxicity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-142_pa028_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

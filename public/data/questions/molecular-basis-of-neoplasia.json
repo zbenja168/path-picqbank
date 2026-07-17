@@ -1,0 +1,318 @@
+{
+  "categoryId": "molecular-basis-of-neoplasia",
+  "categoryName": "Molecular Basis of Neoplasia",
+  "questions": [
+    {
+      "id": "papic-012",
+      "topicId": "molecular-basis-of-neoplasia",
+      "topicName": "Molecular Basis of Neoplasia",
+      "stem": "Both rosette patterns shown here—one a radial arrangement of cells around a central fibrillar core, the other a ring of cells surrounding a true central lumen—are classically encountered in which pediatric tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Cutaneous neurofibroma"
+        },
+        {
+          "label": "C",
+          "text": "Retinoblastoma"
+        },
+        {
+          "label": "D",
+          "text": "Colonic adenocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Osteosarcoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Homer Wright rosettes (radial cells around a fibrillar center) and Flexner-Wintersteiner rosettes (cells around a true lumen) are both characteristic histologic features of retinoblastoma.",
+        "whyCorrect": "Homer Wright rosettes (radial cells around a fibrillar center) and Flexner-Wintersteiner rosettes (cells around a true lumen) are both characteristic histologic features of retinoblastoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-012_pa020_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-105",
+      "topicId": "molecular-basis-of-neoplasia",
+      "topicName": "Molecular Basis of Neoplasia",
+      "stem": "This graph plots the prevalence of RAS gene family mutations across many human cancer types. In which malignancy are RAS-family (KRAS) mutations found at among the highest frequencies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Melanoma"
+        },
+        {
+          "label": "B",
+          "text": "Pancreatic cancer"
+        },
+        {
+          "label": "C",
+          "text": "Thyroid cancer"
+        },
+        {
+          "label": "D",
+          "text": "Breast cancer"
+        },
+        {
+          "label": "E",
+          "text": "Prostate cancer"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "KRAS mutations are extremely common in pancreatic ductal adenocarcinoma, one of the highest-prevalence tumor types shown; the graph illustrates the variability of HRAS, KRAS, and NRAS mutation frequencies across cancers.",
+        "whyCorrect": "KRAS mutations are extremely common in pancreatic ductal adenocarcinoma, one of the highest-prevalence tumor types shown; the graph illustrates the variability of HRAS, KRAS, and NRAS mutation frequencies across cancers.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-105_pa019_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-106",
+      "topicId": "molecular-basis-of-neoplasia",
+      "topicName": "Molecular Basis of Neoplasia",
+      "stem": "This histologic field shows malignant cells forming irregular duct-like glandular spaces in the pancreas. This KRAS-driven, smoking-associated, nearly always fatal neoplasm is best identified as which entity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serous cystadenoma"
+        },
+        {
+          "label": "B",
+          "text": "Chronic pancreatitis"
+        },
+        {
+          "label": "C",
+          "text": "Pancreatic ductal adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Acinar cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Pancreatic neuroendocrine tumor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pancreatic ductal adenocarcinoma forms infiltrative duct-like glandular structures composed of neoplastic cells, commonly harbors KRAS mutations, and carries a very poor prognosis.",
+        "whyCorrect": "Pancreatic ductal adenocarcinoma forms infiltrative duct-like glandular structures composed of neoplastic cells, commonly harbors KRAS mutations, and carries a very poor prognosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-106_pa019_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-107",
+      "topicId": "molecular-basis-of-neoplasia",
+      "topicName": "Molecular Basis of Neoplasia",
+      "stem": "The left panel shows a brown, irregular skin lesion and the right panel a neoplasm containing brown pigment. This pigment is a clue to the transformed cell of origin. What is this neoplasm, commonly driven by activating BRAF mutations?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Melanoma"
+        },
+        {
+          "label": "B",
+          "text": "Squamous cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Seborrheic keratosis"
+        },
+        {
+          "label": "D",
+          "text": "Dermatofibroma"
+        },
+        {
+          "label": "E",
+          "text": "Basal cell carcinoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cutaneous melanoma arises from transformed melanocytes, which produce brown melanin pigment visible histologically; activating BRAF (V600E) mutations are a common oncogenic driver and therapeutic target.",
+        "whyCorrect": "Cutaneous melanoma arises from transformed melanocytes, which produce brown melanin pigment visible histologically; activating BRAF (V600E) mutations are a common oncogenic driver and therapeutic target.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-107_pa019_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-108",
+      "topicId": "molecular-basis-of-neoplasia",
+      "topicName": "Molecular Basis of Neoplasia",
+      "stem": "This hypercellular bone marrow shows increased granulocytes with eosinophils and small, hypolobated megakaryocytes. These findings are characteristic of which myeloproliferative neoplasm driven by a BCR::ABL fusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Acute myeloid leukemia"
+        },
+        {
+          "label": "C",
+          "text": "Polycythemia vera"
+        },
+        {
+          "label": "D",
+          "text": "Primary myelofibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Myelodysplastic syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CML marrow is hypercellular with granulocytic hyperplasia, eosinophilia, and small hypolobated megakaryocytes; it is driven by the BCR::ABL fusion producing constitutive tyrosine kinase activity.",
+        "whyCorrect": "CML marrow is hypercellular with granulocytic hyperplasia, eosinophilia, and small hypolobated megakaryocytes; it is driven by the BCR::ABL fusion producing constitutive tyrosine kinase activity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-108_pa019_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-109",
+      "topicId": "molecular-basis-of-neoplasia",
+      "topicName": "Molecular Basis of Neoplasia",
+      "stem": "These paired histologic fields compare a benign polypoid glandular proliferation (left) with a malignant lesion (right). What feature defines the lesion on the right as adenocarcinoma rather than adenoma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deposition of osteoid by the tumor cells"
+        },
+        {
+          "label": "B",
+          "text": "A polypoid growth confined above the muscularis mucosae"
+        },
+        {
+          "label": "C",
+          "text": "Restored nuclear polarity and absent atypia"
+        },
+        {
+          "label": "D",
+          "text": "Invasion of neoplastic epithelium through the basement membrane into the stroma"
+        },
+        {
+          "label": "E",
+          "text": "Formation of true rosettes with central lumina"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Colorectal adenomas are non-invasive polypoid growths, whereas adenocarcinoma is defined by invasion of the neoplastic epithelium beyond the basement membrane into the lamina propria and deeper tissue.",
+        "whyCorrect": "Colorectal adenomas are non-invasive polypoid growths, whereas adenocarcinoma is defined by invasion of the neoplastic epithelium beyond the basement membrane into the lamina propria and deeper tissue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-109_pa020_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-110",
+      "topicId": "molecular-basis-of-neoplasia",
+      "topicName": "Molecular Basis of Neoplasia",
+      "stem": "A patient exhibits the flat, evenly pigmented skin patches (left) and the soft cutaneous tumors of peripheral nerve (right) pictured here. These findings are diagnostic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Retinoblastoma"
+        },
+        {
+          "label": "B",
+          "text": "Neurofibromatosis type 1"
+        },
+        {
+          "label": "C",
+          "text": "Familial adenomatous polyposis"
+        },
+        {
+          "label": "D",
+          "text": "Cowden syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Li-Fraumeni syndrome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Café-au-lait macules and multiple cutaneous neurofibromas are hallmark manifestations of neurofibromatosis type 1, caused by loss of the NF1 GTPase-activating protein on chromosome 17.",
+        "whyCorrect": "Café-au-lait macules and multiple cutaneous neurofibromas are hallmark manifestations of neurofibromatosis type 1, caused by loss of the NF1 GTPase-activating protein on chromosome 17.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-110_pa020_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-111",
+      "topicId": "molecular-basis-of-neoplasia",
+      "topicName": "Molecular Basis of Neoplasia",
+      "stem": "This wheel arranges eight acquired capabilities—such as evading growth suppressors, resisting cell death, and inducing angiogenesis—around a central tumor. What do these eight traits collectively represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The stages of wound healing"
+        },
+        {
+          "label": "B",
+          "text": "The hallmarks of cancer"
+        },
+        {
+          "label": "C",
+          "text": "The phases of the cell cycle"
+        },
+        {
+          "label": "D",
+          "text": "The steps of intrinsic apoptosis"
+        },
+        {
+          "label": "E",
+          "text": "The components of the WNT pathway"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The figure depicts the eight fundamental hallmarks of cancer—the capabilities neoplasms acquire to sustain growth, evade suppression and immune destruction, and invade and metastasize.",
+        "whyCorrect": "The figure depicts the eight fundamental hallmarks of cancer—the capabilities neoplasms acquire to sustain growth, evade suppression and immune destruction, and invade and metastasize.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-111_pa020_f09.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

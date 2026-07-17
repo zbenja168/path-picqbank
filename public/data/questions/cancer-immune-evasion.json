@@ -1,11 +1,11 @@
 {
-  "categoryId": "pharmacology",
-  "categoryName": "Pharmacology",
+  "categoryId": "cancer-immune-evasion",
+  "categoryName": "Cancer Immune Evasion",
   "questions": [
     {
       "id": "papic-141",
-      "topicId": "pharmacology",
-      "topicName": "Pharmacology",
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
       "stem": "This two-panel figure contrasts tumor immunity with and without antibodies directed against CTLA-4 and PD-1/PD-L1, showing restored cytotoxic T cell killing when the antibodies are used. What general class of cancer therapy does this illustrate?",
       "choices": [
         {
@@ -42,40 +42,40 @@
       ]
     },
     {
-      "id": "papic-142",
-      "topicId": "pharmacology",
-      "topicName": "Pharmacology",
-      "stem": "This mnemonic figure maps chemotherapy agents to their signature organ toxicities. The agent depicted as causing hemorrhagic cystitis produces a bladder-toxic metabolite; co-administration of which agent prevents this toxicity?",
+      "id": "papic-154",
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
+      "stem": "The tumor cell on the left has lost a specific surface molecule, and as a result the T cell on the right is unable to recognize it. The absence of this molecule most directly impairs which immune function?",
       "choices": [
         {
           "label": "A",
-          "text": "Leucovorin"
+          "text": "Recognition and killing of the tumor cell by cytotoxic CD8+ T cells"
         },
         {
           "label": "B",
-          "text": "Dexrazoxane"
+          "text": "Antibody-mediated opsonization of the tumor"
         },
         {
           "label": "C",
-          "text": "Amifostine"
+          "text": "Helper CD4+ T cell cytokine release"
         },
         {
           "label": "D",
-          "text": "Mesna"
+          "text": "Neutrophil chemotaxis to the tumor"
         },
         {
           "label": "E",
-          "text": "Filgrastim"
+          "text": "Activation of the classical complement pathway"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "Cyclophosphamide generates acrolein, which injures the bladder urothelium and causes hemorrhagic cystitis. Mesna binds and detoxifies acrolein in the urine. Leucovorin rescues methotrexate toxicity, amifostine protects against cisplatin nephro/ototoxicity, and dexrazoxane guards against anthracycline cardiotoxicity.",
-        "whyCorrect": "Cyclophosphamide generates acrolein, which injures the bladder urothelium and causes hemorrhagic cystitis. Mesna binds and detoxifies acrolein in the urine. Leucovorin rescues methotrexate toxicity, amifostine protects against cisplatin nephro/ototoxicity, and dexrazoxane guards against anthracycline cardiotoxicity.",
+        "summary": "The tumor is MHC class I-deficient. Because cytotoxic T cells identify targets via antigen presented on MHC class I, loss of this molecule allows the tumor to escape CD8+ T cell-mediated killing.",
+        "whyCorrect": "The tumor is MHC class I-deficient. Because cytotoxic T cells identify targets via antigen presented on MHC class I, loss of this molecule allows the tumor to escape CD8+ T cell-mediated killing.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "papic-142_pa028_f03.png",
+      "imageRef": "papic-154_pa022_f04.png",
       "tags": [
         "picture"
       ]

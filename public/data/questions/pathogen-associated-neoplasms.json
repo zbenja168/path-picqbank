@@ -1,0 +1,552 @@
+{
+  "categoryId": "pathogen-associated-neoplasms",
+  "categoryName": "Pathogen-Associated Neoplasms",
+  "questions": [
+    {
+      "id": "papic-016",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-Associated Neoplasms",
+      "stem": "This high-power H&E field from an enlarged lymph node shows a large malignant cell (bracketed) with a bilobed 'owl-eye' nucleus and prominent eosinophilic nucleoli. This cell is diagnostic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic lymphocytic leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Classic Hodgkin lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Nasopharyngeal carcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The bilobed, owl-eye Reed-Sternberg cell with prominent eosinophilic nucleoli is the pathognomonic histologic finding of classic Hodgkin lymphoma, roughly half of which are EBV-associated.",
+        "whyCorrect": "The bilobed, owl-eye Reed-Sternberg cell with prominent eosinophilic nucleoli is the pathognomonic histologic finding of classic Hodgkin lymphoma, roughly half of which are EBV-associated.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-016_pa026_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-017",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-Associated Neoplasms",
+      "stem": "This histology field of a highly mitotic B-cell neoplasm shows dense sheets of neoplastic cells interspersed with scattered pale tingible body macrophages. What is this classic low-power pattern called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Starry sky appearance"
+        },
+        {
+          "label": "B",
+          "text": "Owl-eye pattern"
+        },
+        {
+          "label": "C",
+          "text": "Signet-ring pattern"
+        },
+        {
+          "label": "D",
+          "text": "Onion-skin lamellation"
+        },
+        {
+          "label": "E",
+          "text": "Storiform pattern"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pale tingible body macrophages scattered among the dark neoplastic B-cells create the 'starry sky' appearance characteristic of Burkitt lymphoma.",
+        "whyCorrect": "The pale tingible body macrophages scattered among the dark neoplastic B-cells create the 'starry sky' appearance characteristic of Burkitt lymphoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-017_pa026_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-018",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-Associated Neoplasms",
+      "stem": "This histologic field from an EBV-positive nasopharyngeal tumor shows nests of undifferentiated epithelial cells admixed with abundant background lymphocytes. Which histologic subtype does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Verrucous carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Keratinizing squamous cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Basaloid squamous cell carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Non-keratinizing (undifferentiated) subtype"
+        },
+        {
+          "label": "E",
+          "text": "Adenocarcinoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The EBV-associated non-keratinizing (undifferentiated) subtype of nasopharyngeal carcinoma shows undifferentiated epithelial cells with a dense lymphocytic infiltrate.",
+        "whyCorrect": "The EBV-associated non-keratinizing (undifferentiated) subtype of nasopharyngeal carcinoma shows undifferentiated epithelial cells with a dense lymphocytic infiltrate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-018_pa026_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-019",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-Associated Neoplasms",
+      "stem": "This electron micrograph of a malignant lymphocyte shows a strikingly multi-lobulated, flower-shaped nucleus. This 'flower cell' is characteristic of the acute phase of which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Adult T-cell leukemia/lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Hairy cell leukemia"
+        },
+        {
+          "label": "D",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Hodgkin lymphoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A multi-lobulated, flower-shaped nucleus is seen in the acute phase of adult T-cell leukemia/lymphoma associated with HTLV-1 infection.",
+        "whyCorrect": "A multi-lobulated, flower-shaped nucleus is seen in the acute phase of adult T-cell leukemia/lymphoma associated with HTLV-1 infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-019_pa026_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-020",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-Associated Neoplasms",
+      "stem": "These gastric mucosa panels show normal antrum (left) versus mucosa colonized by H. pylori (right) that has developed a dense inflammatory infiltrate. Which inflammatory cells predominate in this chronic response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neutrophils and eosinophils"
+        },
+        {
+          "label": "B",
+          "text": "Mast cells and basophils"
+        },
+        {
+          "label": "C",
+          "text": "Multinucleated giant cells"
+        },
+        {
+          "label": "D",
+          "text": "Foamy macrophages"
+        },
+        {
+          "label": "E",
+          "text": "Lymphocytes and plasma cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "H. pylori induces chronic gastritis characterized by a mucosal infiltrate of lymphocytes and plasma cells, the first step in the cascade toward adenocarcinoma.",
+        "whyCorrect": "H. pylori induces chronic gastritis characterized by a mucosal infiltrate of lymphocytes and plasma cells, the first step in the cascade toward adenocarcinoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-020_pa026_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-021",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-Associated Neoplasms",
+      "stem": "The right panel shows gastric mucosa that has acquired goblet cells and Paneth cells with red granules (arrows) in response to chronic H. pylori injury, compared with atrophic gastritis on the left. What is the significance of this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a benign hamartoma"
+        },
+        {
+          "label": "B",
+          "text": "It is a normal variant of antral mucosa"
+        },
+        {
+          "label": "C",
+          "text": "It represents acute reversible inflammation"
+        },
+        {
+          "label": "D",
+          "text": "It is a premalignant metaplastic change"
+        },
+        {
+          "label": "E",
+          "text": "It indicates viral cytopathic effect"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Intestinal metaplasia (goblet and Paneth cells replacing gastric epithelium) is a premalignant step in the H. pylori-driven progression toward gastric adenocarcinoma.",
+        "whyCorrect": "Intestinal metaplasia (goblet and Paneth cells replacing gastric epithelium) is a premalignant step in the H. pylori-driven progression toward gastric adenocarcinoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-021_pa026_f16.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-022",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-Associated Neoplasms",
+      "stem": "In the H. pylori-driven gastric cascade, the left panel shows crowded, hyperchromatic nuclei (brackets) that then progress to the lesion in the right panel. What event marks this final transition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reversible epithelial hyperplasia"
+        },
+        {
+          "label": "B",
+          "text": "Loss of gastric glands"
+        },
+        {
+          "label": "C",
+          "text": "Invasion through the basement membrane into surrounding tissue"
+        },
+        {
+          "label": "D",
+          "text": "Acute neutrophilic inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Formation of goblet cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "High-grade dysplasia becomes invasive gastric adenocarcinoma when the neoplastic cells invade through the basement membrane into surrounding tissues.",
+        "whyCorrect": "High-grade dysplasia becomes invasive gastric adenocarcinoma when the neoplastic cells invade through the basement membrane into surrounding tissues.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-022_pa026_f17.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-023",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-Associated Neoplasms",
+      "stem": "This gastric biopsy shows a dense proliferation of small, monotonous neoplastic B-lymphocytes in the mucosa of an H. pylori-infected patient. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reactive follicular hyperplasia"
+        },
+        {
+          "label": "B",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Gastric adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "MALT lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Gastrointestinal stromal tumor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Extranodal marginal zone (MALT) lymphoma of the stomach is associated with H. pylori and shows an increased population of small neoplastic B-cells; many cases regress after eradication.",
+        "whyCorrect": "Extranodal marginal zone (MALT) lymphoma of the stomach is associated with H. pylori and shows an increased population of small neoplastic B-cells; many cases regress after eradication.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-023_pa026_f18.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-043",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-Associated Neoplasms",
+      "stem": "These axial contrast-enhanced chest CT images compare a normal mediastinum (left panel) with abnormal enlarged prevascular and paratracheal lymph nodes (right panel) in a young adult. What is the most likely underlying diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Small cell lung carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Tuberculous lymphadenitis"
+        },
+        {
+          "label": "C",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "D",
+          "text": "Classic Hodgkin lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Thymoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Classic Hodgkin lymphoma classically presents with painless enlarged supradiaphragmatic (neck and mediastinal) lymphadenopathy, seen here as bulky anterior mediastinal and paratracheal adenopathy on CT.",
+        "whyCorrect": "Classic Hodgkin lymphoma classically presents with painless enlarged supradiaphragmatic (neck and mediastinal) lymphadenopathy, seen here as bulky anterior mediastinal and paratracheal adenopathy on CT.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-043_pa026_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-044",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-Associated Neoplasms",
+      "stem": "This endoscopic image shows an early, superficial mucosal lesion of the stomach detected on a screening program. Chronic infection with which organism is the major risk factor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Helicobacter pylori"
+        },
+        {
+          "label": "B",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "C",
+          "text": "Hepatitis B virus"
+        },
+        {
+          "label": "D",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "E",
+          "text": "Schistosoma haematobium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic H. pylori infection drives the stepwise cascade to gastric adenocarcinoma; endoscopic screening in high-incidence regions detects early, resectable lesions.",
+        "whyCorrect": "Chronic H. pylori infection drives the stepwise cascade to gastric adenocarcinoma; endoscopic screening in high-incidence regions detects early, resectable lesions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-044_pa026_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-120",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-Associated Neoplasms",
+      "stem": "This illustration depicts a child from an equatorial African region with a rapidly enlarging mass distorting the mandible. This presentation is classic for which neoplasm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Osteosarcoma of the mandible"
+        },
+        {
+          "label": "B",
+          "text": "Endemic Burkitt lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Ewing sarcoma"
+        },
+        {
+          "label": "D",
+          "text": "Langerhans cell histiocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Ameloblastoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Endemic Burkitt lymphoma is virtually always EBV-positive and classically presents in African children as a large, rapidly growing mandibular/jaw mass.",
+        "whyCorrect": "Endemic Burkitt lymphoma is virtually always EBV-positive and classically presents in African children as a large, rapidly growing mandibular/jaw mass.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-120_pa026_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-121",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-Associated Neoplasms",
+      "stem": "This gross cross-section of liver shows a large hemorrhagic mass arising within a background of chronic liver injury. Chronic infection with which virus is the most common global cause of this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Human T-cell lymphotropic virus 1"
+        },
+        {
+          "label": "B",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "C",
+          "text": "Human herpesvirus 8"
+        },
+        {
+          "label": "D",
+          "text": "Hepatitis B virus"
+        },
+        {
+          "label": "E",
+          "text": "Human papillomavirus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hepatocellular carcinoma most often arises from longstanding inflammation-mediated cellular damage and cirrhosis; hepatitis B virus is the leading worldwide cause.",
+        "whyCorrect": "Hepatocellular carcinoma most often arises from longstanding inflammation-mediated cellular damage and cirrhosis; hepatitis B virus is the leading worldwide cause.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-121_pa026_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-122",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-Associated Neoplasms",
+      "stem": "The left image shows a raised, rough papule on a child's finger and the right shows its histology with a hyperkeratotic squamous proliferation. Which HPV serotypes typically cause these benign lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HPV 16 and 18"
+        },
+        {
+          "label": "B",
+          "text": "HPV 1, 2, 4, and 7"
+        },
+        {
+          "label": "C",
+          "text": "HPV 6 and 11"
+        },
+        {
+          "label": "D",
+          "text": "HPV 5 and 8"
+        },
+        {
+          "label": "E",
+          "text": "HPV 31 and 33"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Verruca vulgaris (common warts) are benign hyperkeratotic squamous papillomas caused by low-risk HPV serotypes 1, 2, 4, and 7.",
+        "whyCorrect": "Verruca vulgaris (common warts) are benign hyperkeratotic squamous papillomas caused by low-risk HPV serotypes 1, 2, 4, and 7.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-122_pa026_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-123",
+      "topicId": "pathogen-associated-neoplasms",
+      "topicName": "Pathogen-Associated Neoplasms",
+      "stem": "This bladder biopsy shows parasitic eggs bearing a terminal spine surrounded by chronic inflammation. Long-term infection with this parasite predisposes to which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal cell carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Squamous cell carcinoma of the bladder"
+        },
+        {
+          "label": "C",
+          "text": "Urothelial (transitional cell) carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Bladder adenocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Small cell carcinoma of the bladder"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Schistosoma haematobium eggs (terminal spine) cause chronic bladder inflammation and metaplasia, predisposing to squamous cell carcinoma of the bladder.",
+        "whyCorrect": "Schistosoma haematobium eggs (terminal spine) cause chronic bladder inflammation and metaplasia, predisposing to squamous cell carcinoma of the bladder.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-123_pa026_f19.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
