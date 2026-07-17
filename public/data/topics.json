@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "id": "gross-anatomy",
+      "name": "Gross Anatomy",
+      "topics": [
+        {
+          "id": "gross-anatomy",
+          "name": "Gross Anatomy",
+          "sourceFile": "path bricks",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "lab-diagnostics",
+      "name": "Lab & Diagnostics",
+      "topics": [
+        {
+          "id": "lab-diagnostics",
+          "name": "Lab & Diagnostics",
+          "sourceFile": "path bricks",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "pathology",
+      "name": "Pathology",
+      "topics": [
+        {
+          "id": "pathology",
+          "name": "Pathology",
+          "sourceFile": "path bricks",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "physiology-mechanisms",
+      "name": "Physiology & Mechanisms",
+      "topics": [
+        {
+          "id": "physiology-mechanisms",
+          "name": "Physiology & Mechanisms",
+          "sourceFile": "path bricks",
+          "questionCount": 1
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 15
+}

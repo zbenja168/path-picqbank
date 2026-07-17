@@ -1,0 +1,45 @@
+{
+  "categoryId": "physiology-mechanisms",
+  "categoryName": "Physiology & Mechanisms",
+  "questions": [
+    {
+      "id": "papic-015",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This diagram outlines how the depicted exposure injures DNA. Under normal tissue oxygen tension, most of the DNA damage occurs through the indirect pathway. Which event is chiefly responsible for that indirect damage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alkylation-induced depurination"
+        },
+        {
+          "label": "B",
+          "text": "Intercalation into the double helix"
+        },
+        {
+          "label": "C",
+          "text": "Formation of pyrimidine dimers"
+        },
+        {
+          "label": "D",
+          "text": "Direct ionization of the DNA backbone"
+        },
+        {
+          "label": "E",
+          "text": "Free radical formation from radiolysis of water"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ionizing radiation damages DNA both directly and indirectly. The indirect effect predominates in aqueous tissue: radiation ionizes water to generate reactive free radicals (e.g., hydroxyl radicals) that attack DNA, and this damage is enhanced at high oxygen tension.",
+        "whyCorrect": "Ionizing radiation damages DNA both directly and indirectly. The indirect effect predominates in aqueous tissue: radiation ionizes water to generate reactive free radicals (e.g., hydroxyl radicals) that attack DNA, and this damage is enhanced at high oxygen tension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-015_brick9_redone_p26_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

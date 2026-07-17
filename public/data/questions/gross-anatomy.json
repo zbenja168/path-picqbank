@@ -1,0 +1,45 @@
+{
+  "categoryId": "gross-anatomy",
+  "categoryName": "Gross Anatomy",
+  "questions": [
+    {
+      "id": "papic-001",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "At autopsy, the smooth, reddish-brown solid organ being lifted and probed lies in the right upper quadrant beneath the diaphragm. Which organ is being examined?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pancreas"
+        },
+        {
+          "label": "B",
+          "text": "Right kidney"
+        },
+        {
+          "label": "C",
+          "text": "Spleen"
+        },
+        {
+          "label": "D",
+          "text": "Liver"
+        },
+        {
+          "label": "E",
+          "text": "Stomach"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The large, smooth-surfaced, reddish-brown parenchymal organ occupying the right upper quadrant just below the diaphragm is the liver; its size, capsule, and location distinguish it from the spleen, kidney, or hollow viscera.",
+        "whyCorrect": "The large, smooth-surfaced, reddish-brown parenchymal organ occupying the right upper quadrant just below the diaphragm is the liver; its size, capsule, and location distinguish it from the spleen, kidney, or hollow viscera.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-001_brick9_redone_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

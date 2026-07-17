@@ -1,0 +1,474 @@
+{
+  "categoryId": "pathology",
+  "categoryName": "Pathology",
+  "questions": [
+    {
+      "id": "papic-003",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "These H&E micrographs of a glandular adenocarcinoma progress from Grade 1 to Grade 3. What does this histologic progression primarily represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transformation of malignant tissue back to benign glands"
+        },
+        {
+          "label": "B",
+          "text": "Increasing glandular differentiation as the tumor advances"
+        },
+        {
+          "label": "C",
+          "text": "Progressive increase in normal stromal architecture"
+        },
+        {
+          "label": "D",
+          "text": "Progressive loss of glandular differentiation with increasing tumor grade"
+        },
+        {
+          "label": "E",
+          "text": "Loss of the capacity to metastasize at higher grades"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tumor grading reflects differentiation. Well-differentiated (Grade 1) tumors form discrete glands resembling normal tissue, whereas high-grade (Grade 3) tumors lose glandular architecture and grow as sheets of pleomorphic cells, correlating with more aggressive clinical behavior.",
+        "whyCorrect": "Tumor grading reflects differentiation. Well-differentiated (Grade 1) tumors form discrete glands resembling normal tissue, whereas high-grade (Grade 3) tumors lose glandular architecture and grow as sheets of pleomorphic cells, correlating with more aggressive clinical behavior.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-003_brick35_redone_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-004",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This diagram depicts progressive stages of a lung malignancy defined by tumor size, nodal involvement, and distant spread. Which classification system underlies this staging scheme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gleason grading system"
+        },
+        {
+          "label": "B",
+          "text": "Ann Arbor staging"
+        },
+        {
+          "label": "C",
+          "text": "Bethesda classification"
+        },
+        {
+          "label": "D",
+          "text": "TNM (tumor, node, metastasis) staging"
+        },
+        {
+          "label": "E",
+          "text": "Breslow thickness"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Solid-tumor stage is defined by the TNM system: extent of the primary Tumor, regional lymph Node involvement, and distant Metastasis. The escalating panels show larger tumors with progressive nodal then distant spread, the hallmark of increasing TNM stage.",
+        "whyCorrect": "Solid-tumor stage is defined by the TNM system: extent of the primary Tumor, regional lymph Node involvement, and distant Metastasis. The escalating panels show larger tumors with progressive nodal then distant spread, the hallmark of increasing TNM stage.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-004_brick35_redone_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-005",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "A sharply demarcated, raised, shiny erythematous plaque on the lower leg with a well-defined elevated border. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "B",
+          "text": "Erysipelas"
+        },
+        {
+          "label": "C",
+          "text": "Contact dermatitis"
+        },
+        {
+          "label": "D",
+          "text": "Tinea corporis"
+        },
+        {
+          "label": "E",
+          "text": "Stasis dermatitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Erysipelas is a superficial dermal streptococcal infection producing a well-demarcated, raised, indurated bright-red plaque. The sharp, elevated border distinguishes it from cellulitis, which involves deeper tissue and has poorly defined margins.",
+        "whyCorrect": "Erysipelas is a superficial dermal streptococcal infection producing a well-demarcated, raised, indurated bright-red plaque. The sharp, elevated border distinguishes it from cellulitis, which involves deeper tissue and has poorly defined margins.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-005_brick9_redone_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-006",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "A young child with widespread superficial skin denudation and peeling of large sheets of epidermis, sparing the mucous membranes. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Toxic epidermal necrolysis"
+        },
+        {
+          "label": "B",
+          "text": "Bullous pemphigoid"
+        },
+        {
+          "label": "C",
+          "text": "Stevens-Johnson syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcal scalded skin syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Thermal scald burn"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "SSSS results from Staphylococcus aureus exfoliative toxins that cleave desmoglein-1 in the superficial epidermis, causing sheet-like desquamation. It predominates in young children and spares mucous membranes, unlike TEN/SJS, which cause deeper full-thickness necrosis with prominent mucosal involvement.",
+        "whyCorrect": "SSSS results from Staphylococcus aureus exfoliative toxins that cleave desmoglein-1 in the superficial epidermis, causing sheet-like desquamation. It predominates in young children and spares mucous membranes, unlike TEN/SJS, which cause deeper full-thickness necrosis with prominent mucosal involvement.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-006_brick9_redone_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-007",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "An elderly patient with a rapidly spreading area of dusky discoloration, hemorrhagic change, and central skin necrosis on the trunk. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Necrotizing fasciitis"
+        },
+        {
+          "label": "B",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "C",
+          "text": "Simple cellulitis"
+        },
+        {
+          "label": "D",
+          "text": "Pressure (decubitus) ulcer"
+        },
+        {
+          "label": "E",
+          "text": "Contact dermatitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Necrotizing fasciitis is a rapidly progressive infection of deep fascia and subcutaneous tissue producing dusky skin, hemorrhagic bullae, and necrosis often out of proportion to overlying findings. It is a surgical emergency requiring urgent, aggressive debridement.",
+        "whyCorrect": "Necrotizing fasciitis is a rapidly progressive infection of deep fascia and subcutaneous tissue producing dusky skin, hemorrhagic bullae, and necrosis often out of proportion to overlying findings. It is a surgical emergency requiring urgent, aggressive debridement.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-007_brick9_redone_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-008",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "Intraoperative photograph of a limb opened along its length, exposing subcutaneous tissue and muscle, with surrounding dusky skin. This surgical management is most characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Superficial impetigo"
+        },
+        {
+          "label": "B",
+          "text": "Uncomplicated cellulitis"
+        },
+        {
+          "label": "C",
+          "text": "Necrotizing fasciitis requiring surgical debridement"
+        },
+        {
+          "label": "D",
+          "text": "Deep vein thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Simple lipoma excision"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The mainstay of treatment for necrotizing soft-tissue infection is aggressive surgical exploration and debridement, shown here as a long fasciotomy exposing deep tissues. Antibiotics alone are inadequate because thrombosed vessels prevent drug delivery to necrotic tissue.",
+        "whyCorrect": "The mainstay of treatment for necrotizing soft-tissue infection is aggressive surgical exploration and debridement, shown here as a long fasciotomy exposing deep tissues. Antibiotics alone are inadequate because thrombosed vessels prevent drug delivery to necrotic tissue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-008_brick9_redone_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-009",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "Views of a foot showing punched-out ulcers with necrotic bases located over the plantar pressure points and toes. What is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diabetic neuropathic foot ulcer"
+        },
+        {
+          "label": "B",
+          "text": "Venous stasis ulcer of the medial ankle"
+        },
+        {
+          "label": "C",
+          "text": "Sacral pressure sore"
+        },
+        {
+          "label": "D",
+          "text": "Arterial (ischemic) ulcer of the calf"
+        },
+        {
+          "label": "E",
+          "text": "Pyoderma gangrenosum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Neuropathic (diabetic) ulcers form at weight-bearing plantar pressure points such as the metatarsal heads, toes, and heel because sensory loss permits repetitive unnoticed trauma. They are typically painless with a punched-out appearance and surrounding callus.",
+        "whyCorrect": "Neuropathic (diabetic) ulcers form at weight-bearing plantar pressure points such as the metatarsal heads, toes, and heel because sensory loss permits repetitive unnoticed trauma. They are typically painless with a punched-out appearance and surrounding callus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-009_brick9_redone_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-010",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "Transient branching, fern-like erythematous streaks appear on the skin of a patient found collapsed outdoors during a thunderstorm. What do these markings indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes zoster in a dermatome"
+        },
+        {
+          "label": "B",
+          "text": "Superficial thrombophlebitis"
+        },
+        {
+          "label": "C",
+          "text": "Ascending lymphangitis"
+        },
+        {
+          "label": "D",
+          "text": "Livedo reticularis"
+        },
+        {
+          "label": "E",
+          "text": "Lichtenberg figure from a lightning strike"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Lichtenberg figures are pathognomonic, transient fern-like or feathering skin marks produced by a lightning strike, thought to arise from electron discharge tracking along superficial vessels. They fade within hours to days and are not true burns.",
+        "whyCorrect": "Lichtenberg figures are pathognomonic, transient fern-like or feathering skin marks produced by a lightning strike, thought to arise from electron discharge tracking along superficial vessels. They fade within hours to days and are not true burns.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-010_brick9_redone_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-011",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "Both hands of this patient show a dusky bluish-gray discoloration most pronounced in the nail beds. What does this finding represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carbon monoxide poisoning"
+        },
+        {
+          "label": "B",
+          "text": "Argyria"
+        },
+        {
+          "label": "C",
+          "text": "Jaundice"
+        },
+        {
+          "label": "D",
+          "text": "Cyanosis"
+        },
+        {
+          "label": "E",
+          "text": "Pallor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cyanosis is a bluish discoloration of skin and nail beds caused by increased deoxygenated hemoglobin (>5 g/dL) in capillary blood. It is best appreciated in the nail beds and mucous membranes and signals hypoxemia or poor perfusion.",
+        "whyCorrect": "Cyanosis is a bluish discoloration of skin and nail beds caused by increased deoxygenated hemoglobin (>5 g/dL) in capillary blood. It is best appreciated in the nail beds and mucous membranes and signals hypoxemia or poor perfusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-011_brick9_redone_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-012",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This clinical photograph shows a hand in which several digits are shrunken, black, dry, and sharply demarcated from adjacent viable pink tissue. What process is illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Necrotizing fasciitis"
+        },
+        {
+          "label": "B",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "C",
+          "text": "Dry gangrene"
+        },
+        {
+          "label": "D",
+          "text": "Gas gangrene"
+        },
+        {
+          "label": "E",
+          "text": "Wet gangrene"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Dry gangrene results from arterial ischemia producing coagulative necrosis; the affected tissue becomes black, desiccated ('mummified'), and sharply demarcated from viable skin, without the edema, foul odor, or infection that characterize wet or gas gangrene.",
+        "whyCorrect": "Dry gangrene results from arterial ischemia producing coagulative necrosis; the affected tissue becomes black, desiccated ('mummified'), and sharply demarcated from viable skin, without the edema, foul odor, or infection that characterize wet or gas gangrene.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-012_brick9_redone_p23_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-013",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This forensic close-up of a facial wound shows irregular, abraded, contused margins; the arrows indicate intact strands of tissue bridging across the wound gap. What type of wound is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stab wound"
+        },
+        {
+          "label": "B",
+          "text": "Incised wound (sharp force)"
+        },
+        {
+          "label": "C",
+          "text": "Surgical incision"
+        },
+        {
+          "label": "D",
+          "text": "Laceration (blunt-force injury)"
+        },
+        {
+          "label": "E",
+          "text": "Thermal burn"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tissue bridging (intact nerves/vessels/connective strands crossing the defect), together with abraded, bruised, irregular margins, is the hallmark of a laceration caused by blunt force; sharp-force incised and stab wounds have clean, everted margins without bridging.",
+        "whyCorrect": "Tissue bridging (intact nerves/vessels/connective strands crossing the defect), together with abraded, bruised, irregular margins, is the hallmark of a laceration caused by blunt force; sharp-force incised and stab wounds have clean, everted margins without bridging.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-013_brick9_redone_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-014",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This cross-sectional skin diagram marks a graded series of horizontal planes descending through epidermis, dermis, subcutaneous fat, and muscle. This scheme is used to classify what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stage of a pressure ulcer"
+        },
+        {
+          "label": "B",
+          "text": "Tissue planes involved in frostbite"
+        },
+        {
+          "label": "C",
+          "text": "Levels of a surgical skin graft harvest"
+        },
+        {
+          "label": "D",
+          "text": "Melanoma invasion (Clark levels)"
+        },
+        {
+          "label": "E",
+          "text": "Depth of a burn injury"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The planes (superficial, superficial partial-thickness, deep partial-thickness, full-thickness) correspond to how deep tissue destruction extends, which is exactly how burns are classified; depth determines healing potential and management.",
+        "whyCorrect": "The planes (superficial, superficial partial-thickness, deep partial-thickness, full-thickness) correspond to how deep tissue destruction extends, which is exactly how burns are classified; depth determines healing potential and management.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-014_brick9_redone_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

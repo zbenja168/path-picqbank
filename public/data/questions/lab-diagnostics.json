@@ -1,0 +1,45 @@
+{
+  "categoryId": "lab-diagnostics",
+  "categoryName": "Lab & Diagnostics",
+  "questions": [
+    {
+      "id": "papic-002",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This radiograph of a young child's lower leg shows open growth plates and a faint lucent line coursing obliquely through the tibial shaft without cortical displacement. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Greenstick fracture of the fibula"
+        },
+        {
+          "label": "B",
+          "text": "Acute osteomyelitis"
+        },
+        {
+          "label": "C",
+          "text": "Ewing sarcoma"
+        },
+        {
+          "label": "D",
+          "text": "Toddler's fracture (nondisplaced spiral fracture of the tibia)"
+        },
+        {
+          "label": "E",
+          "text": "Osgood-Schlatter disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A subtle nondisplaced oblique/spiral lucency of the tibial diaphysis in a young ambulating child is the classic 'toddler's fracture,' often barely visible acutely; there is no periosteal destruction (osteomyelitis/tumor) or tibial tubercle change (Osgood-Schlatter).",
+        "whyCorrect": "A subtle nondisplaced oblique/spiral lucency of the tibial diaphysis in a young ambulating child is the classic 'toddler's fracture,' often barely visible acutely; there is no periosteal destruction (osteomyelitis/tumor) or tibial tubercle change (Osgood-Schlatter).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-002_brick9_redone_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
