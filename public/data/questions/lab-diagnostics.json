@@ -3,40 +3,898 @@
   "categoryName": "Lab & Diagnostics",
   "questions": [
     {
-      "id": "papic-002",
+      "id": "papic-029",
       "topicId": "lab-diagnostics",
       "topicName": "Lab & Diagnostics",
-      "stem": "This radiograph of a young child's lower leg shows open growth plates and a faint lucent line coursing obliquely through the tibial shaft without cortical displacement. What is the most likely diagnosis?",
+      "stem": "The automated immunohematology instruments shown belong to which section of the clinical laboratory?",
       "choices": [
         {
           "label": "A",
-          "text": "Greenstick fracture of the fibula"
+          "text": "Blood bank / transfusion medicine"
         },
         {
           "label": "B",
-          "text": "Acute osteomyelitis"
+          "text": "Microbiology"
         },
         {
           "label": "C",
-          "text": "Ewing sarcoma"
+          "text": "Urinalysis"
         },
         {
           "label": "D",
-          "text": "Toddler's fracture (nondisplaced spiral fracture of the tibia)"
+          "text": "Clinical chemistry"
         },
         {
           "label": "E",
-          "text": "Osgood-Schlatter disease"
+          "text": "Coagulation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The instruments pictured are automated blood-bank analyzers used for ABO/Rh typing, antibody screening, and crossmatching to support safe blood transfusion.",
+        "whyCorrect": "The instruments pictured are automated blood-bank analyzers used for ABO/Rh typing, antibody screening, and crossmatching to support safe blood transfusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-029_pa005_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-030",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The rows of high-throughput automated analyzers shown are characteristic of which laboratory section?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematology"
+        },
+        {
+          "label": "B",
+          "text": "Blood bank"
+        },
+        {
+          "label": "C",
+          "text": "Microbiology"
+        },
+        {
+          "label": "D",
+          "text": "Anatomic pathology"
+        },
+        {
+          "label": "E",
+          "text": "Clinical chemistry"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This is a clinical chemistry laboratory, which uses large automated chemistry analyzers to measure electrolytes, glucose, liver and kidney panels, and other biochemical analytes at high volume.",
+        "whyCorrect": "This is a clinical chemistry laboratory, which uses large automated chemistry analyzers to measure electrolytes, glucose, liver and kidney panels, and other biochemical analytes at high volume.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-030_pa005_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-031",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The scientist shown is working with stacks of culture plates at a bench. Which laboratory section is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematology"
+        },
+        {
+          "label": "B",
+          "text": "Clinical chemistry"
+        },
+        {
+          "label": "C",
+          "text": "Microbiology"
+        },
+        {
+          "label": "D",
+          "text": "Blood bank"
+        },
+        {
+          "label": "E",
+          "text": "Urinalysis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is the microbiology laboratory, which cultures specimens on media plates to isolate and identify micro-organisms and guide antimicrobial therapy.",
+        "whyCorrect": "This is the microbiology laboratory, which cultures specimens on media plates to isolate and identify micro-organisms and guide antimicrobial therapy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-031_pa005_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-032",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "On this culture plate, several paper disks are surrounded by circular clear zones. What does a clear zone of no growth around a disk indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The plate is contaminated at that spot"
+        },
+        {
+          "label": "B",
+          "text": "The disk supplied a nutrient the bacteria consumed"
+        },
+        {
+          "label": "C",
+          "text": "The organism is resistant to that antibiotic"
+        },
+        {
+          "label": "D",
+          "text": "Fungal overgrowth has occurred around the disk"
+        },
+        {
+          "label": "E",
+          "text": "The organism is susceptible to that antibiotic"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This is a disk-diffusion (Kirby-Bauer) susceptibility test. A zone of inhibited growth around a disk means the antibiotic diffusing from it suppresses the organism, indicating susceptibility; absence of a zone indicates resistance.",
+        "whyCorrect": "This is a disk-diffusion (Kirby-Bauer) susceptibility test. A zone of inhibited growth around a disk means the antibiotic diffusing from it suppresses the organism, indicating susceptibility; absence of a zone indicates resistance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-032_pa005_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-033",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "A gloved hand compares a reagent strip against a color reference block next to specimen cups. Which laboratory test is being performed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ABO blood typing"
+        },
+        {
+          "label": "B",
+          "text": "Urinalysis (urine dipstick chemical analysis)"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial culture reading"
+        },
+        {
+          "label": "D",
+          "text": "Prothrombin time measurement"
+        },
+        {
+          "label": "E",
+          "text": "Blood glucose meter testing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is a urine dipstick being read against a color chart, part of the urinalysis chemical exam that assesses pH, protein, glucose, ketones, bilirubin, leukocyte esterase, nitrites, and blood.",
+        "whyCorrect": "This is a urine dipstick being read against a color chart, part of the urinalysis chemical exam that assesses pH, protein, glucose, ketones, bilirubin, leukocyte esterase, nitrites, and blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-033_pa005_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-034",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This paired image shows bright green fluorescent foci (left) and dark-staining intracytoplasmic bodies with iodine (right) within infected cells. What are these structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlamydial intracytoplasmic inclusions"
+        },
+        {
+          "label": "B",
+          "text": "Viral Cowdry inclusion bodies"
+        },
+        {
+          "label": "C",
+          "text": "Fungal yeast forms"
+        },
+        {
+          "label": "D",
+          "text": "Rickettsial morulae"
+        },
+        {
+          "label": "E",
+          "text": "Gonococcal intracellular diplococci"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chlamydia trachomatis is an obligate intracellular pathogen that forms glycogen-rich intracytoplasmic inclusions, demonstrable by immunofluorescent antibodies and iodine staining.",
+        "whyCorrect": "Chlamydia trachomatis is an obligate intracellular pathogen that forms glycogen-rich intracytoplasmic inclusions, demonstrable by immunofluorescent antibodies and iodine staining.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-034_pa008_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-035",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This Gram stain from purulent genital discharge shows pink (gram-negative) organisms arranged in pairs located inside a neutrophil. What is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "B",
+          "text": "Chlamydia trachomatis"
+        },
+        {
+          "label": "C",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Neisseria gonorrhoeae"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Gram-negative diplococci arranged in pairs within neutrophils are characteristic of Neisseria gonorrhoeae, an intracellular pathogen.",
+        "whyCorrect": "Gram-negative diplococci arranged in pairs within neutrophils are characteristic of Neisseria gonorrhoeae, an intracellular pathogen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-035_pa008_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-036",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "Compared with the normal chest radiograph on the left, the right radiograph shows symmetric enlargement at the roots of both lungs (arrows). What is this classic finding, and in what disease is it seen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Unilateral hilar mass in bronchogenic carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Pleural effusions in tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Widened mediastinum in aortic dissection"
+        },
+        {
+          "label": "D",
+          "text": "Cardiomegaly in congestive heart failure"
+        },
+        {
+          "label": "E",
+          "text": "Bilateral hilar lymphadenopathy in sarcoidosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Symmetric bilateral hilar lymphadenopathy on chest X-ray is a classic radiographic feature of sarcoidosis, correlating with granulomatous involvement of thoracic lymph nodes.",
+        "whyCorrect": "Symmetric bilateral hilar lymphadenopathy on chest X-ray is a classic radiographic feature of sarcoidosis, correlating with granulomatous involvement of thoracic lymph nodes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-036_pa008_f19.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-037",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "Compared with the normal chest radiograph on the left, the film on the right shows a parenchymal focus plus enlarged draining nodes at the lung root. This combination in primary tuberculosis constitutes which classically named complex?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ghon (primary) complex"
+        },
+        {
+          "label": "B",
+          "text": "Pancoast syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Caplan syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Meigs syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Kartagener syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A peripheral parenchymal Ghon focus together with ipsilateral hilar lymphadenopathy forms the Ghon/Ranke primary complex of primary tuberculosis.",
+        "whyCorrect": "A peripheral parenchymal Ghon focus together with ipsilateral hilar lymphadenopathy forms the Ghon/Ranke primary complex of primary tuberculosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-037_pa011_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-038",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The tiny arthropods shown beside a coin for scale are the vector responsible for transmitting which infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rocky Mountain spotted fever"
+        },
+        {
+          "label": "B",
+          "text": "Lyme disease (Borrelia burgdorferi)"
+        },
+        {
+          "label": "C",
+          "text": "Malaria"
+        },
+        {
+          "label": "D",
+          "text": "Epidemic typhus"
+        },
+        {
+          "label": "E",
+          "text": "African trypanosomiasis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The image shows the Ixodes (deer) tick, adult and nymph, next to a coin for scale. Ixodes ticks transmit the spirochete Borrelia burgdorferi, the cause of Lyme disease. The nymph is especially important epidemiologically because its small size makes bites easy to miss.",
+        "whyCorrect": "The image shows the Ixodes (deer) tick, adult and nymph, next to a coin for scale. Ixodes ticks transmit the spirochete Borrelia burgdorferi, the cause of Lyme disease. The nymph is especially important epidemiologically because its small size makes bites easy to miss.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-038_pa012_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-039",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "These MRCP (A) and ERCP (B) studies of the same patient show multifocal strictures alternating with segments of ductal dilation, producing a 'beaded' appearance of the biliary tree. Which diagnosis is most consistent with these imaging findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary sclerosing cholangitis"
+        },
+        {
+          "label": "B",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "C",
+          "text": "Choledocholithiasis"
+        },
+        {
+          "label": "D",
+          "text": "Autoimmune hepatitis"
+        },
+        {
+          "label": "E",
+          "text": "Cholangiocarcinoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Multifocal strictures with intervening dilation ('beading') of the intra- and extrahepatic ducts on MRCP/ERCP is the gold-standard imaging finding of primary sclerosing cholangitis.",
+        "whyCorrect": "Multifocal strictures with intervening dilation ('beading') of the intra- and extrahepatic ducts on MRCP/ERCP is the gold-standard imaging finding of primary sclerosing cholangitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-039_pa016_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-040",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In this immunohistochemical panel for mismatch-repair proteins, the upper two markers show absent (loss of brown nuclear) staining in the tumor glands while the lower two retain intact brown staining. What does this pattern indicate about the tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is mismatch-repair deficient"
+        },
+        {
+          "label": "B",
+          "text": "It harbors a BRCA1 mutation"
+        },
+        {
+          "label": "C",
+          "text": "It overexpresses HER2/neu"
+        },
+        {
+          "label": "D",
+          "text": "It is normal non-neoplastic tissue"
+        },
+        {
+          "label": "E",
+          "text": "It has fully intact mismatch repair"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Loss of nuclear staining for MLH1 and PMS2 (which form a heterodimer, so loss of MLH1 destabilizes PMS2) with preserved MSH2/MSH6 indicates a mismatch-repair-deficient tumor. Such deficiency underlies microsatellite instability and is characteristic of Lynch-syndrome-associated cancers.",
+        "whyCorrect": "Loss of nuclear staining for MLH1 and PMS2 (which form a heterodimer, so loss of MLH1 destabilizes PMS2) with preserved MSH2/MSH6 indicates a mismatch-repair-deficient tumor. Such deficiency underlies microsatellite instability and is characteristic of Lynch-syndrome-associated cancers.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-040_pa023_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-041",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This abnormal cervical cytology (Pap smear) preparation shows a cluster of atypical cells adjacent to a normal squamous cell. The change demonstrated here is most directly caused by persistent infection with which agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlamydia trachomatis"
+        },
+        {
+          "label": "B",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "C",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "D",
+          "text": "Human immunodeficiency virus"
+        },
+        {
+          "label": "E",
+          "text": "Herpes simplex virus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The enlarged, hyperchromatic cells with increased nuclear-to-cytoplasmic ratio represent a high-grade squamous intraepithelial lesion (HSIL). This precancerous dysplasia of the cervix is caused by persistent infection with high-risk strains of human papillomavirus (HPV), which is why HPV testing has become a key screening tool alongside the Pap smear.",
+        "whyCorrect": "The enlarged, hyperchromatic cells with increased nuclear-to-cytoplasmic ratio represent a high-grade squamous intraepithelial lesion (HSIL). This precancerous dysplasia of the cervix is caused by persistent infection with high-risk strains of human papillomavirus (HPV), which is why HPV testing has become a key screening tool alongside the Pap smear.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-041_pa025_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-042",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The clustered bright specks seen on this screening breast X-ray (left) prompted a biopsy showing the neoplastic changes at right. This finding is a suspicious marker for which early breast lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ductal carcinoma in situ"
+        },
+        {
+          "label": "B",
+          "text": "Fibroadenoma"
+        },
+        {
+          "label": "C",
+          "text": "Paget disease of the breast"
+        },
+        {
+          "label": "D",
+          "text": "Invasive lobular carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Phyllodes tumor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The mammogram shows clustered microcalcifications, a classic early sign of ductal carcinoma in situ (DCIS). Biopsy reveals neoplastic cells expanding a duct without invasion past the basement membrane, along with the characteristic chunky intraductal calcifications. Detecting DCIS by mammography allows treatment before progression to invasive disease.",
+        "whyCorrect": "The mammogram shows clustered microcalcifications, a classic early sign of ductal carcinoma in situ (DCIS). Biopsy reveals neoplastic cells expanding a duct without invasion past the basement membrane, along with the characteristic chunky intraductal calcifications. Detecting DCIS by mammography allows treatment before progression to invasive disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-042_pa025_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-043",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "These axial contrast-enhanced chest CT images compare a normal mediastinum (left panel) with abnormal enlarged prevascular and paratracheal lymph nodes (right panel) in a young adult. What is the most likely underlying diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Small cell lung carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Tuberculous lymphadenitis"
+        },
+        {
+          "label": "C",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "D",
+          "text": "Classic Hodgkin lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Thymoma"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "A subtle nondisplaced oblique/spiral lucency of the tibial diaphysis in a young ambulating child is the classic 'toddler's fracture,' often barely visible acutely; there is no periosteal destruction (osteomyelitis/tumor) or tibial tubercle change (Osgood-Schlatter).",
-        "whyCorrect": "A subtle nondisplaced oblique/spiral lucency of the tibial diaphysis in a young ambulating child is the classic 'toddler's fracture,' often barely visible acutely; there is no periosteal destruction (osteomyelitis/tumor) or tibial tubercle change (Osgood-Schlatter).",
+        "summary": "Classic Hodgkin lymphoma classically presents with painless enlarged supradiaphragmatic (neck and mediastinal) lymphadenopathy, seen here as bulky anterior mediastinal and paratracheal adenopathy on CT.",
+        "whyCorrect": "Classic Hodgkin lymphoma classically presents with painless enlarged supradiaphragmatic (neck and mediastinal) lymphadenopathy, seen here as bulky anterior mediastinal and paratracheal adenopathy on CT.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "papic-002_brick9_redone_p5_1.png",
+      "imageRef": "papic-043_pa026_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-044",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This endoscopic image shows an early, superficial mucosal lesion of the stomach detected on a screening program. Chronic infection with which organism is the major risk factor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Helicobacter pylori"
+        },
+        {
+          "label": "B",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "C",
+          "text": "Hepatitis B virus"
+        },
+        {
+          "label": "D",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "E",
+          "text": "Schistosoma haematobium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic H. pylori infection drives the stepwise cascade to gastric adenocarcinoma; endoscopic screening in high-incidence regions detects early, resectable lesions.",
+        "whyCorrect": "Chronic H. pylori infection drives the stepwise cascade to gastric adenocarcinoma; endoscopic screening in high-incidence regions detects early, resectable lesions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-044_pa026_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-045",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The instrument shown being used on the skin obtains a tissue sample by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Scraping surface cells with a wooden spatula"
+        },
+        {
+          "label": "B",
+          "text": "Aspirating cells through a fine hollow needle"
+        },
+        {
+          "label": "C",
+          "text": "Removing a full-thickness cylindrical core with a circular blade"
+        },
+        {
+          "label": "D",
+          "text": "Shaving a thin superficial layer with a horizontal blade"
+        },
+        {
+          "label": "E",
+          "text": "Excising the entire lesion with an elliptical incision"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A punch biopsy uses a cylindrical blade rotated into the skin to remove a full-thickness core of tissue for histologic evaluation.",
+        "whyCorrect": "A punch biopsy uses a cylindrical blade rotated into the skin to remove a full-thickness core of tissue for histologic evaluation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-045_pa030_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-046",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The dashed line drawn around this pigmented skin lesion before removal represents what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The border of a superficial shave biopsy"
+        },
+        {
+          "label": "B",
+          "text": "The zone of local anesthetic infiltration"
+        },
+        {
+          "label": "C",
+          "text": "The path of a future skin graft"
+        },
+        {
+          "label": "D",
+          "text": "The site of sentinel lymph node mapping"
+        },
+        {
+          "label": "E",
+          "text": "A margin of normal skin removed together with the lesion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An excisional biopsy removes the entire lesion plus a surrounding safety margin of normal-appearing skin, making it both diagnostic and potentially curative.",
+        "whyCorrect": "An excisional biopsy removes the entire lesion plus a surrounding safety margin of normal-appearing skin, making it both diagnostic and potentially curative.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-046_pa030_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-047",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "These blocks hold tissue embedded in paraffin for long-term storage and sectioning; which fixative preserves the tissue before embedding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Liquid nitrogen"
+        },
+        {
+          "label": "B",
+          "text": "Formalin"
+        },
+        {
+          "label": "C",
+          "text": "Glutaraldehyde"
+        },
+        {
+          "label": "D",
+          "text": "Absolute ethanol"
+        },
+        {
+          "label": "E",
+          "text": "Bouin's picric acid"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Surgical specimens are typically processed as formalin-fixed paraffin-embedded (FFPE) blocks; formalin cross-links proteins to preserve tissue morphology for at least 10 years.",
+        "whyCorrect": "Surgical specimens are typically processed as formalin-fixed paraffin-embedded (FFPE) blocks; formalin cross-links proteins to preserve tissue morphology for at least 10 years.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-047_pa030_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-048",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This special stain blackens straw-like hyphae and oval yeast forms against a pale background; what is it used to detect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid deposits"
+        },
+        {
+          "label": "B",
+          "text": "Iron (hemosiderin)"
+        },
+        {
+          "label": "C",
+          "text": "Collagen and fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Acid-fast bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Fungal organisms"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The Grocott-Gomori methenamine silver (GMS) stain deposits silver on fungal cell walls, making fungal hyphae and yeast readily visible.",
+        "whyCorrect": "The Grocott-Gomori methenamine silver (GMS) stain deposits silver on fungal cell walls, making fungal hyphae and yeast readily visible.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-048_pa030_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-049",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In this immunohistochemical preparation, the brown coloration indicates what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Presence of the targeted antigen (here, cytokeratin)"
+        },
+        {
+          "label": "B",
+          "text": "Areas of tissue necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Accumulation of hemosiderin"
+        },
+        {
+          "label": "D",
+          "text": "Deposition of melanin pigment"
+        },
+        {
+          "label": "E",
+          "text": "Nonspecific background autofluorescence"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Immunohistochemistry uses antibodies against a specific antigen, and a chromogen produces brown color where the antigen is present. Cytokeratin positivity here helps identify the neoplasm as a carcinoma.",
+        "whyCorrect": "Immunohistochemistry uses antibodies against a specific antigen, and a chromogen produces brown color where the antigen is present. Cytokeratin positivity here helps identify the neoplasm as a carcinoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-049_pa030_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-050",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "On this cervical Pap smear, the small cells with a high nuclear-to-cytoplasmic ratio (upper left) compared with the large cell (lower right) indicate what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Red blood cell contamination"
+        },
+        {
+          "label": "B",
+          "text": "Worrisome, potentially pre-malignant cells"
+        },
+        {
+          "label": "C",
+          "text": "Normal mature squamous cells"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial colonization"
+        },
+        {
+          "label": "E",
+          "text": "Degenerated inflammatory debris"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A high nuclear-to-cytoplasmic ratio, nuclear enlargement, and irregular nuclear membranes are worrisome cytologic features, contrasting with the abundant cytoplasm of the normal intermediate squamous cell.",
+        "whyCorrect": "A high nuclear-to-cytoplasmic ratio, nuclear enlargement, and irregular nuclear membranes are worrisome cytologic features, contrasting with the abundant cytoplasm of the normal intermediate squamous cell.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-050_pa030_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-051",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This chest radiograph shows regions of increased opacity within the lung fields. What process do these opacities most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Large pleural effusion"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse pulmonary fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "Alveolar infiltrate consistent with bacterial pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Cardiomegaly from heart failure"
+        },
+        {
+          "label": "E",
+          "text": "Pneumothorax with lung collapse"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The opaque areas correspond to alveolar spaces filled with purulent exudate, a pattern consistent with bacterial pneumonia.",
+        "whyCorrect": "The opaque areas correspond to alveolar spaces filled with purulent exudate, a pattern consistent with bacterial pneumonia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-051_pa031_f03.png",
       "tags": [
         "picture"
       ]

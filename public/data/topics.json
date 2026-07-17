@@ -13,6 +13,18 @@
       ]
     },
     {
+      "id": "histology-cell-biology",
+      "name": "Histology & Cell Biology",
+      "topics": [
+        {
+          "id": "histology-cell-biology",
+          "name": "Histology & Cell Biology",
+          "sourceFile": "path bricks",
+          "questionCount": 27
+        }
+      ]
+    },
+    {
       "id": "lab-diagnostics",
       "name": "Lab & Diagnostics",
       "topics": [
@@ -20,7 +32,7 @@
           "id": "lab-diagnostics",
           "name": "Lab & Diagnostics",
           "sourceFile": "path bricks",
-          "questionCount": 1
+          "questionCount": 23
         }
       ]
     },
@@ -32,7 +44,19 @@
           "id": "pathology",
           "name": "Pathology",
           "sourceFile": "path bricks",
-          "questionCount": 12
+          "questionCount": 89
+        }
+      ]
+    },
+    {
+      "id": "pharmacology",
+      "name": "Pharmacology",
+      "topics": [
+        {
+          "id": "pharmacology",
+          "name": "Pharmacology",
+          "sourceFile": "path bricks",
+          "questionCount": 2
         }
       ]
     },
@@ -44,10 +68,10 @@
           "id": "physiology-mechanisms",
           "name": "Physiology & Mechanisms",
           "sourceFile": "path bricks",
-          "questionCount": 1
+          "questionCount": 14
         }
       ]
     }
   ],
-  "totalQuestions": 15
+  "totalQuestions": 156
 }

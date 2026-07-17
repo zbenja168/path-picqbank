@@ -6,37 +6,37 @@
       "id": "papic-001",
       "topicId": "gross-anatomy",
       "topicName": "Gross Anatomy",
-      "stem": "At autopsy, the smooth, reddish-brown solid organ being lifted and probed lies in the right upper quadrant beneath the diaphragm. Which organ is being examined?",
+      "stem": "This labeled dissection, showing chambers and great vessels in two views, teaches the normal gross anatomy of which organ?",
       "choices": [
         {
           "label": "A",
-          "text": "Pancreas"
-        },
-        {
-          "label": "B",
-          "text": "Right kidney"
-        },
-        {
-          "label": "C",
           "text": "Spleen"
         },
         {
-          "label": "D",
+          "label": "B",
+          "text": "Lung"
+        },
+        {
+          "label": "C",
           "text": "Liver"
         },
         {
+          "label": "D",
+          "text": "Heart"
+        },
+        {
           "label": "E",
-          "text": "Stomach"
+          "text": "Kidney"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "The large, smooth-surfaced, reddish-brown parenchymal organ occupying the right upper quadrant just below the diaphragm is the liver; its size, capsule, and location distinguish it from the spleen, kidney, or hollow viscera.",
-        "whyCorrect": "The large, smooth-surfaced, reddish-brown parenchymal organ occupying the right upper quadrant just below the diaphragm is the liver; its size, capsule, and location distinguish it from the spleen, kidney, or hollow viscera.",
+        "summary": "The labeled superior/inferior vena cava, aorta, pulmonary artery and veins, atria, and ventricles identify this as a dissection of the heart, demonstrating the four-chamber cardiac anatomy.",
+        "whyCorrect": "The labeled superior/inferior vena cava, aorta, pulmonary artery and veins, atria, and ventricles identify this as a dissection of the heart, demonstrating the four-chamber cardiac anatomy.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "papic-001_brick9_redone_p4_1.png",
+      "imageRef": "papic-001_pa002_f04.png",
       "tags": [
         "picture"
       ]

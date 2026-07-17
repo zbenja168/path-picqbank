@@ -1,0 +1,84 @@
+{
+  "categoryId": "pharmacology",
+  "categoryName": "Pharmacology",
+  "questions": [
+    {
+      "id": "papic-141",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This two-panel figure contrasts tumor immunity with and without antibodies directed against CTLA-4 and PD-1/PD-L1, showing restored cytotoxic T cell killing when the antibodies are used. What general class of cancer therapy does this illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytotoxic chemotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Immune checkpoint inhibitors (checkpoint blockade)"
+        },
+        {
+          "label": "C",
+          "text": "Targeted tyrosine kinase inhibitors"
+        },
+        {
+          "label": "D",
+          "text": "External-beam radiation therapy"
+        },
+        {
+          "label": "E",
+          "text": "Oncolytic virus therapy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Blocking inhibitory checkpoint pathways (CTLA-4 and PD-1/PD-L1) with antibodies removes the brakes on T cells, restoring their ability to activate and kill tumor cells. This checkpoint blockade approach is approved for advanced solid tumors and some lymphomas.",
+        "whyCorrect": "Blocking inhibitory checkpoint pathways (CTLA-4 and PD-1/PD-L1) with antibodies removes the brakes on T cells, restoring their ability to activate and kill tumor cells. This checkpoint blockade approach is approved for advanced solid tumors and some lymphomas.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-141_pa022_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-142",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This mnemonic figure maps chemotherapy agents to their signature organ toxicities. The agent depicted as causing hemorrhagic cystitis produces a bladder-toxic metabolite; co-administration of which agent prevents this toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leucovorin"
+        },
+        {
+          "label": "B",
+          "text": "Dexrazoxane"
+        },
+        {
+          "label": "C",
+          "text": "Amifostine"
+        },
+        {
+          "label": "D",
+          "text": "Mesna"
+        },
+        {
+          "label": "E",
+          "text": "Filgrastim"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cyclophosphamide generates acrolein, which injures the bladder urothelium and causes hemorrhagic cystitis. Mesna binds and detoxifies acrolein in the urine. Leucovorin rescues methotrexate toxicity, amifostine protects against cisplatin nephro/ototoxicity, and dexrazoxane guards against anthracycline cardiotoxicity.",
+        "whyCorrect": "Cyclophosphamide generates acrolein, which injures the bladder urothelium and causes hemorrhagic cystitis. Mesna binds and detoxifies acrolein in the urine. Leucovorin rescues methotrexate toxicity, amifostine protects against cisplatin nephro/ototoxicity, and dexrazoxane guards against anthracycline cardiotoxicity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-142_pa028_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
