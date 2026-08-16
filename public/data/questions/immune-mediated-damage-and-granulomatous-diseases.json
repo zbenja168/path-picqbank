@@ -170,7 +170,7 @@
         },
         {
           "label": "B",
-          "text": "Antibody cross-reaction with keratin (molecular mimicry)"
+          "text": "Antibody cross-reaction with keratin"
         },
         {
           "label": "C",
@@ -299,7 +299,7 @@
         },
         {
           "label": "E",
-          "text": "Caseating (necrotizing) granulomatous inflammation"
+          "text": "Caseating granulomatous inflammation"
         }
       ],
       "correctAnswer": "E",
@@ -451,7 +451,7 @@
         },
         {
           "label": "D",
-          "text": "Birefringent talc from intravenous drug use"
+          "text": "Birefringent talc"
         },
         {
           "label": "E",

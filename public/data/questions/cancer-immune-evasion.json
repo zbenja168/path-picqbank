@@ -14,7 +14,7 @@
         },
         {
           "label": "B",
-          "text": "Immune checkpoint inhibitors (checkpoint blockade)"
+          "text": "Immune checkpoint inhibitors"
         },
         {
           "label": "C",
@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Recognition and killing of the tumor cell by cytotoxic CD8+ T cells"
+          "text": "Recognition and killing by cytotoxic CD8+ T cells"
         },
         {
           "label": "B",

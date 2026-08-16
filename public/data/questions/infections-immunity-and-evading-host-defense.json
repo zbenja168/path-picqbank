@@ -14,7 +14,7 @@
         },
         {
           "label": "B",
-          "text": "Herpes simplex virus reactivating from a latent state"
+          "text": "Herpes simplex virus"
         },
         {
           "label": "C",
@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A given lymphocyte receptor recognizes only one specific epitope of the many present on an antigen"
+          "text": "A given lymphocyte receptor recognizes only one specific epitope"
         },
         {
           "label": "B",
@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "Mediating adherence of the pathogen to host cell surface receptors via adhesins"
+          "text": "Mediating adherence to host cell surface receptors"
         },
         {
           "label": "D",
@@ -131,7 +131,7 @@
         },
         {
           "label": "B",
-          "text": "T-cell secretion of interferon-gamma cytokine activating the macrophage"
+          "text": "T-cell secretion of interferon-gamma"
         },
         {
           "label": "C",
@@ -174,7 +174,7 @@
         },
         {
           "label": "C",
-          "text": "Actin polymerization behind the bacterium forming a propulsive comet tail"
+          "text": "Actin polymerization behind the bacterium"
         },
         {
           "label": "D",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "Interferon, which induces oligosynthetase and protein kinase pathways"
+          "text": "Interferon"
         }
       ],
       "correctAnswer": "E",
@@ -248,7 +248,7 @@
         },
         {
           "label": "B",
-          "text": "Antigenic variation of surface pili through recombination of pilin gene variants"
+          "text": "Antigenic variation of surface pili"
         },
         {
           "label": "C",

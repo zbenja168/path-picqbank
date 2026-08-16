@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "A margin of normal skin removed together with the lesion"
+          "text": "A margin of normal skin"
         }
       ],
       "correctAnswer": "E",
@@ -205,7 +205,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Presence of the targeted antigen (here, cytokeratin)"
+          "text": "Presence of the targeted antigen"
         },
         {
           "label": "B",

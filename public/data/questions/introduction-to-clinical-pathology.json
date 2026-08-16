@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Blood bank / transfusion medicine"
+          "text": "Blood bank"
         },
         {
           "label": "B",
@@ -170,7 +170,7 @@
         },
         {
           "label": "B",
-          "text": "Urinalysis (urine dipstick chemical analysis)"
+          "text": "Urinalysis"
         },
         {
           "label": "C",
