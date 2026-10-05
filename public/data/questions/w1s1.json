@@ -1,0 +1,988 @@
+{
+  "categoryId": "w1s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "papic-013",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "This H&E field from an aggressive pediatric CNS tumor shows the dark structures indicated by the arrows. What do these structures directly indicate about the tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deposition of hemosiderin pigment"
+        },
+        {
+          "label": "B",
+          "text": "Programmed cell death of tumor cells"
+        },
+        {
+          "label": "C",
+          "text": "Infiltration by inflammatory neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "A high rate of cellular proliferation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The arrows point to mitotic figures (condensed dividing chromosomes staining dark purple). Abundant mitoses are a morphologic marker of rapid cellular proliferation, seen here in a medulloblastoma.",
+        "whyCorrect": "The arrows point to mitotic figures (condensed dividing chromosomes staining dark purple). Abundant mitoses are a morphologic marker of rapid cellular proliferation, seen here in a medulloblastoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-013_pa021_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-014",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "Panel A shows normal renal tubule cells; panel B shows the same cells after an early, reversible insult. What reversible change accounts for the appearance in panel B?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fatty change from lipid accumulation"
+        },
+        {
+          "label": "B",
+          "text": "Apoptotic body formation"
+        },
+        {
+          "label": "C",
+          "text": "Coagulative necrosis of the epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Cellular (hydropic) swelling"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Depleted ATP impairs Na+/K+ pumps, causing water influx and cellular swelling with pale, eosinophilic cytoplasm. This is a hallmark of reversible injury and resolves if the stimulus is removed.",
+        "whyCorrect": "Depleted ATP impairs Na+/K+ pumps, causing water influx and cellular swelling with pale, eosinophilic cytoplasm. This is a hallmark of reversible injury and resolves if the stimulus is removed.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-014_pa021_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-112",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "These injured kidney tubule cells show swelling and increased pink cytoplasm. The fading, washed-out nuclei in some cells reflect which pattern of nuclear change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Karyorrhexis"
+        },
+        {
+          "label": "B",
+          "text": "Karyolysis"
+        },
+        {
+          "label": "C",
+          "text": "Mitosis"
+        },
+        {
+          "label": "D",
+          "text": "Russell body formation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Karyolysis is the fading of basophilic nuclear staining as chromatin is degraded. It is distinct from pyknosis (shrunken dark nuclei) and karyorrhexis (nuclear fragmentation), accompanying the eosinophilia and swelling of injured cells.",
+        "whyCorrect": "Karyolysis is the fading of basophilic nuclear staining as chromatin is degraded. It is distinct from pyknosis (shrunken dark nuclei) and karyorrhexis (nuclear fragmentation), accompanying the eosinophilia and swelling of injured cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-112_pa021_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-113",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "This liver from a patient who cannot properly excrete bile shows a yellow-brown pigment within cells. What is this pigment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Melanin"
+        },
+        {
+          "label": "B",
+          "text": "Lipofuscin"
+        },
+        {
+          "label": "C",
+          "text": "Anthracotic carbon"
+        },
+        {
+          "label": "D",
+          "text": "Bilirubin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bilirubin is a yellow-brown pigment from heme breakdown that accumulates when bile excretion is impaired. It is distinct from hemosiderin, the iron-containing blood breakdown product.",
+        "whyCorrect": "Bilirubin is a yellow-brown pigment from heme breakdown that accumulates when bile excretion is impaired. It is distinct from hemosiderin, the iron-containing blood breakdown product.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-113_pa021_f16.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-114",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "This gross specimen shows hard, chalky white deposits on the cusps of a damaged, atherosclerotic aortic valve. Given normal systemic calcium levels, what type of calcification is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dystrophic calcification"
+        },
+        {
+          "label": "B",
+          "text": "Metastatic calcification"
+        },
+        {
+          "label": "C",
+          "text": "Hemosiderin deposition"
+        },
+        {
+          "label": "D",
+          "text": "Amyloid deposition"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dystrophic calcification is calcium deposition in damaged or dying tissue under normal systemic calcium homeostasis, as in this atherosclerotic aortic valve. Metastatic calcification instead occurs in normal tissue with hypercalcemia.",
+        "whyCorrect": "Dystrophic calcification is calcium deposition in damaged or dying tissue under normal systemic calcium homeostasis, as in this atherosclerotic aortic valve. Metastatic calcification instead occurs in normal tissue with hypercalcemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-114_pa021_f17.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-115",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "This bisected uterus shows a bulky, thickened endometrial lining compared with the normal region. With excess estrogen stimulation, what adaptive change does the bulky area represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrophy"
+        },
+        {
+          "label": "B",
+          "text": "Hyperplasia (increased cell number)"
+        },
+        {
+          "label": "C",
+          "text": "Metaplasia"
+        },
+        {
+          "label": "D",
+          "text": "Hypertrophy (increased cell size)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Excess estrogen drives increased proliferation of endometrial glandular cells (hyperplasia), producing a bulky lining and a cause of abnormal uterine bleeding.",
+        "whyCorrect": "Excess estrogen drives increased proliferation of endometrial glandular cells (hyperplasia), producing a bulky lining and a cause of abnormal uterine bleeding.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-115_pa021_f20.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-152",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "This summary diagram centers on the organelle shown. When this organelle is damaged, which paired consequences drive the resulting cell injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased protein synthesis and decreased ROS"
+        },
+        {
+          "label": "B",
+          "text": "Decreased ATP and increased reactive oxygen species"
+        },
+        {
+          "label": "C",
+          "text": "Decreased DNA damage and increased glycolysis"
+        },
+        {
+          "label": "D",
+          "text": "Increased ATP and decreased calcium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mitochondrial damage lowers ATP (impairing energy-dependent functions) and raises ROS production, which together damage lipids, proteins, and nucleic acids. Failure to reverse mitochondrial dysfunction marks irreversible injury.",
+        "whyCorrect": "Mitochondrial damage lowers ATP (impairing energy-dependent functions) and raises ROS production, which together damage lipids, proteins, and nucleic acids. Failure to reverse mitochondrial dysfunction marks irreversible injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-152_pa021_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-153",
+      "topicId": "introduction-to-pathology-cell-injury-and-adaptation",
+      "topicName": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "stem": "This summary schematic integrates the major mechanisms converging on a single end point. What overarching process do the depicted pathways (ATP loss, calcium rise, ROS, membrane and DNA damage) collectively produce?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellular adaptation"
+        },
+        {
+          "label": "B",
+          "text": "Cell injury"
+        },
+        {
+          "label": "C",
+          "text": "Cell proliferation"
+        },
+        {
+          "label": "D",
+          "text": "Normal cell signaling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The figure summarizes how decreased ATP, increased cytosolic calcium, reactive oxygen species, and membrane/DNA damage act through multiple downstream effects to cause cell injury.",
+        "whyCorrect": "The figure summarizes how decreased ATP, increased cytosolic calcium, reactive oxygen species, and membrane/DNA damage act through multiple downstream effects to cause cell injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-153_pa021_f22.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-024",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This high-power field shows a single shrunken, intensely pink (eosinophilic) cell with a condensed nucleus surrounded by intact squamous cells. Which feature confirms this is apoptosis rather than necrosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lack of a surrounding inflammatory infiltrate"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse cellular swelling of the neighboring cells"
+        },
+        {
+          "label": "C",
+          "text": "Extensive dystrophic calcification"
+        },
+        {
+          "label": "D",
+          "text": "Loss of tissue architecture across the field"
+        },
+        {
+          "label": "E",
+          "text": "Abundant neutrophilic exudate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Apoptotic cells shrink, become densely eosinophilic, and show condensed nuclei; because apoptosis is controlled and cells are cleared by phagocytes, there is little or no inflammation. Necrosis, by contrast, spills cell contents and provokes a prominent inflammatory response.",
+        "whyCorrect": "Apoptotic cells shrink, become densely eosinophilic, and show condensed nuclei; because apoptosis is controlled and cells are cleared by phagocytes, there is little or no inflammation. Necrosis, by contrast, spills cell contents and provokes a prominent inflammatory response.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-024_pa029_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-124",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This schematic shows a viable cell kept alive by the anti-apoptotic protein BCL2 at the mitochondrion. Pathologic overexpression of this protein, via a t(14;18) translocation, characteristically drives which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute promyelocytic leukemia"
+        },
+        {
+          "label": "B",
+          "text": "Chronic myeloid leukemia"
+        },
+        {
+          "label": "C",
+          "text": "Mantle cell lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Follicular lymphoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "BCL2 keeps the outer mitochondrial membrane impermeable, blocking cytochrome c release and preventing apoptosis. The t(14;18) translocation places BCL2 under an immunoglobulin promoter, causing overexpression that resists apoptosis and produces follicular lymphoma.",
+        "whyCorrect": "BCL2 keeps the outer mitochondrial membrane impermeable, blocking cytochrome c release and preventing apoptosis. The t(14;18) translocation places BCL2 under an immunoglobulin promoter, causing overexpression that resists apoptosis and produces follicular lymphoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-124_pa029_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-125",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "The left gross panel shows a pale yellow wedge-shaped lesion and the right microscopic panel shows preserved tissue outlines with loss of nuclei. This pattern of necrosis is most typical of which underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune vasculitis"
+        },
+        {
+          "label": "B",
+          "text": "Tuberculous granulomatous infection"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial pyogenic infection"
+        },
+        {
+          "label": "D",
+          "text": "Ischemia outside the CNS"
+        },
+        {
+          "label": "E",
+          "text": "Acute pancreatic enzyme release"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Coagulative necrosis preserves the tissue architecture (ghost outlines) while cells die, and is the hallmark of ischemic infarction in solid organs other than the brain. The wedge-shaped pale infarct and retained cell outlines are classic.",
+        "whyCorrect": "Coagulative necrosis preserves the tissue architecture (ghost outlines) while cells die, and is the hallmark of ischemic infarction in solid organs other than the brain. The wedge-shaped pale infarct and retained cell outlines are classic.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-125_pa029_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-126",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This gross brain specimen shows necrotic tissue that has been converted into a soft, semi-liquid, cavitated mass. What mechanism accounts for this liquefied consistency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Denaturation of structural proteins"
+        },
+        {
+          "label": "B",
+          "text": "Coagulation that preserves cell outlines"
+        },
+        {
+          "label": "C",
+          "text": "Deposition of calcium soaps"
+        },
+        {
+          "label": "D",
+          "text": "Enzymatic digestion of the dead tissue"
+        },
+        {
+          "label": "E",
+          "text": "Fibrin and immune-complex deposition"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Liquefactive necrosis results when hydrolytic enzymes digest dead tissue into a viscous liquid. It is the characteristic pattern of central nervous system infarcts and of abscesses. Protein denaturation instead yields coagulative necrosis.",
+        "whyCorrect": "Liquefactive necrosis results when hydrolytic enzymes digest dead tissue into a viscous liquid. It is the characteristic pattern of central nervous system infarcts and of abscesses. Protein denaturation instead yields coagulative necrosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-126_pa029_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-127",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This clinical photograph shows blackened, mummified digits. This descriptive term for necrosis is most commonly applied in the setting of what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune small-vessel vasculitis"
+        },
+        {
+          "label": "B",
+          "text": "Acute pancreatitis"
+        },
+        {
+          "label": "C",
+          "text": "Myocardial infarction"
+        },
+        {
+          "label": "D",
+          "text": "Ischemia of a limb or its digits"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculous lymph node infection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gangrenous necrosis is a clinical term for necrosis of a limb or digits, typically from loss of blood supply. Dry gangrene is largely coagulative; wet gangrene adds superimposed liquefactive necrosis from bacterial infection.",
+        "whyCorrect": "Gangrenous necrosis is a clinical term for necrosis of a limb or digits, typically from loss of blood supply. Dry gangrene is largely coagulative; wet gangrene adds superimposed liquefactive necrosis from bacterial infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-127_pa029_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-128",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This gross specimen shows a soft, friable, cheese-like area of necrosis. This pattern is classically associated with infection by which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Clostridium perfringens"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Caseous necrosis has a friable, cheese-like gross appearance and is classically caused by tuberculosis. Microscopically it shows granulomas with fragmented, granular debris, distinguishing it from other necrosis patterns.",
+        "whyCorrect": "Caseous necrosis has a friable, cheese-like gross appearance and is classically caused by tuberculosis. Microscopically it shows granulomas with fragmented, granular debris, distinguishing it from other necrosis patterns.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-128_pa029_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-129",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This gross specimen shows adipose tissue studded with chalky-white deposits. These deposits form through saponification involving calcium and what other substance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Free fatty acids"
+        },
+        {
+          "label": "B",
+          "text": "Melanin pigment"
+        },
+        {
+          "label": "C",
+          "text": "Deposited fibrin"
+        },
+        {
+          "label": "D",
+          "text": "Denatured hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Bacterial exotoxin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In fat necrosis, released lipases (e.g., in acute pancreatitis) break down adipose tissue; the liberated free fatty acids combine with calcium in a saponification reaction to form the chalky-white deposits seen here.",
+        "whyCorrect": "In fat necrosis, released lipases (e.g., in acute pancreatitis) break down adipose tissue; the liberated free fatty acids combine with calcium in a saponification reaction to form the chalky-white deposits seen here.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-129_pa029_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-130",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This histology field shows a blood vessel wall with a bright pink, smudgy deposit and a surrounding inflammatory infiltrate. This pattern of necrosis is most characteristically seen in which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myocardial infarction"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune vasculitis"
+        },
+        {
+          "label": "C",
+          "text": "Acute pancreatitis"
+        },
+        {
+          "label": "D",
+          "text": "Cerebral infarction"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculous lymphadenitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fibrinoid necrosis occurs when immune complexes and plasma proteins (fibrin) deposit in vessel walls, producing a bright pink, smudgy appearance with inflammation. It is characteristic of autoimmune small-vessel vasculitides.",
+        "whyCorrect": "Fibrinoid necrosis occurs when immune complexes and plasma proteins (fibrin) deposit in vessel walls, producing a bright pink, smudgy appearance with inflammation. It is characteristic of autoimmune small-vessel vasculitides.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-130_pa029_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-155",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This flowchart shows how a cell responds as injury increases from adaptation through to cell death by necrosis or apoptosis. What primarily determines whether the injured cell adapts and recovers versus dies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cell's location within the body"
+        },
+        {
+          "label": "B",
+          "text": "The severity and persistence of the stimulus"
+        },
+        {
+          "label": "C",
+          "text": "The cell's embryologic germ-layer origin"
+        },
+        {
+          "label": "D",
+          "text": "Whether the cell contains a nucleus"
+        },
+        {
+          "label": "E",
+          "text": "Whether the cell is haploid or diploid"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The diagram shows a continuum: mild, short-lived injury permits adaptation or reversible injury, whereas severe, prolonged injury exceeds the cell's capacity to recover and drives it to death by necrosis or apoptosis. Thus the intensity and duration of the stimulus is the key determinant.",
+        "whyCorrect": "The diagram shows a continuum: mild, short-lived injury permits adaptation or reversible injury, whereas severe, prolonged injury exceeds the cell's capacity to recover and drives it to death by necrosis or apoptosis. Thus the intensity and duration of the stimulus is the key determinant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-155_pa029_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-156",
+      "topicId": "cell-death-apoptosis-and-necrosis",
+      "topicName": "Cell Death: Apoptosis and Necrosis",
+      "stem": "This diagram outlines the major biochemical mechanisms of cell injury. A fall in ATP (far left) most directly compromises which cellular process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Formation of the mitotic spindle"
+        },
+        {
+          "label": "B",
+          "text": "Packaging of neurotransmitter vesicles"
+        },
+        {
+          "label": "C",
+          "text": "Ribosomal translation of secreted proteins"
+        },
+        {
+          "label": "D",
+          "text": "Melanin synthesis in melanosomes"
+        },
+        {
+          "label": "E",
+          "text": "Activity of the plasma-membrane Na+/K+ ATPase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ATP is required to run the Na+/K+ ATPase; when ATP falls, the pump fails, sodium and water accumulate intracellularly, and the cell swells. The other mechanisms shown (calcium influx, ROS, membrane damage, DNA damage) act through separate routes.",
+        "whyCorrect": "ATP is required to run the Na+/K+ ATPase; when ATP falls, the pump fails, sodium and water accumulate intracellularly, and the cell swells. The other mechanisms shown (calcium influx, ROS, membrane damage, DNA damage) act through separate routes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-156_pa029_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-025",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "In this routinely stained section, the pink coloration of the cytoplasm is produced by which dye component?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congo red"
+        },
+        {
+          "label": "B",
+          "text": "Hematoxylin"
+        },
+        {
+          "label": "C",
+          "text": "Prussian blue"
+        },
+        {
+          "label": "D",
+          "text": "Eosin"
+        },
+        {
+          "label": "E",
+          "text": "Periodic acid-Schiff"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In H&E staining, eosin stains cytoplasmic and extracellular components pink while hematoxylin stains nuclei blue-purple.",
+        "whyCorrect": "In H&E staining, eosin stains cytoplasmic and extracellular components pink while hematoxylin stains nuclei blue-purple.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-025_pa030_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-045",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "The instrument shown being used on the skin obtains a tissue sample by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Scraping surface cells with a wooden spatula"
+        },
+        {
+          "label": "B",
+          "text": "Aspirating cells through a fine hollow needle"
+        },
+        {
+          "label": "C",
+          "text": "Removing a full-thickness cylindrical core with a circular blade"
+        },
+        {
+          "label": "D",
+          "text": "Shaving a thin superficial layer with a horizontal blade"
+        },
+        {
+          "label": "E",
+          "text": "Excising the entire lesion with an elliptical incision"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A punch biopsy uses a cylindrical blade rotated into the skin to remove a full-thickness core of tissue for histologic evaluation.",
+        "whyCorrect": "A punch biopsy uses a cylindrical blade rotated into the skin to remove a full-thickness core of tissue for histologic evaluation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-045_pa030_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-046",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "The dashed line drawn around this pigmented skin lesion before removal represents what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The border of a superficial shave biopsy"
+        },
+        {
+          "label": "B",
+          "text": "The zone of local anesthetic infiltration"
+        },
+        {
+          "label": "C",
+          "text": "The path of a future skin graft"
+        },
+        {
+          "label": "D",
+          "text": "The site of sentinel lymph node mapping"
+        },
+        {
+          "label": "E",
+          "text": "A margin of normal skin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An excisional biopsy removes the entire lesion plus a surrounding safety margin of normal-appearing skin, making it both diagnostic and potentially curative.",
+        "whyCorrect": "An excisional biopsy removes the entire lesion plus a surrounding safety margin of normal-appearing skin, making it both diagnostic and potentially curative.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-046_pa030_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-047",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "These blocks hold tissue embedded in paraffin for long-term storage and sectioning; which fixative preserves the tissue before embedding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Liquid nitrogen"
+        },
+        {
+          "label": "B",
+          "text": "Formalin"
+        },
+        {
+          "label": "C",
+          "text": "Glutaraldehyde"
+        },
+        {
+          "label": "D",
+          "text": "Absolute ethanol"
+        },
+        {
+          "label": "E",
+          "text": "Bouin's picric acid"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Surgical specimens are typically processed as formalin-fixed paraffin-embedded (FFPE) blocks; formalin cross-links proteins to preserve tissue morphology for at least 10 years.",
+        "whyCorrect": "Surgical specimens are typically processed as formalin-fixed paraffin-embedded (FFPE) blocks; formalin cross-links proteins to preserve tissue morphology for at least 10 years.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-047_pa030_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-048",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "This special stain blackens straw-like hyphae and oval yeast forms against a pale background; what is it used to detect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid deposits"
+        },
+        {
+          "label": "B",
+          "text": "Iron (hemosiderin)"
+        },
+        {
+          "label": "C",
+          "text": "Collagen and fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Acid-fast bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Fungal organisms"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The Grocott-Gomori methenamine silver (GMS) stain deposits silver on fungal cell walls, making fungal hyphae and yeast readily visible.",
+        "whyCorrect": "The Grocott-Gomori methenamine silver (GMS) stain deposits silver on fungal cell walls, making fungal hyphae and yeast readily visible.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-048_pa030_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-049",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "In this immunohistochemical preparation, the brown coloration indicates what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Presence of the targeted antigen"
+        },
+        {
+          "label": "B",
+          "text": "Areas of tissue necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Accumulation of hemosiderin"
+        },
+        {
+          "label": "D",
+          "text": "Deposition of melanin pigment"
+        },
+        {
+          "label": "E",
+          "text": "Nonspecific background autofluorescence"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Immunohistochemistry uses antibodies against a specific antigen, and a chromogen produces brown color where the antigen is present. Cytokeratin positivity here helps identify the neoplasm as a carcinoma.",
+        "whyCorrect": "Immunohistochemistry uses antibodies against a specific antigen, and a chromogen produces brown color where the antigen is present. Cytokeratin positivity here helps identify the neoplasm as a carcinoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-049_pa030_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-050",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "On this cervical Pap smear, the small cells with a high nuclear-to-cytoplasmic ratio (upper left) compared with the large cell (lower right) indicate what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Red blood cell contamination"
+        },
+        {
+          "label": "B",
+          "text": "Worrisome, potentially pre-malignant cells"
+        },
+        {
+          "label": "C",
+          "text": "Normal mature squamous cells"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial colonization"
+        },
+        {
+          "label": "E",
+          "text": "Degenerated inflammatory debris"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A high nuclear-to-cytoplasmic ratio, nuclear enlargement, and irregular nuclear membranes are worrisome cytologic features, contrasting with the abundant cytoplasm of the normal intermediate squamous cell.",
+        "whyCorrect": "A high nuclear-to-cytoplasmic ratio, nuclear enlargement, and irregular nuclear membranes are worrisome cytologic features, contrasting with the abundant cytoplasm of the normal intermediate squamous cell.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-050_pa030_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-131",
+      "topicId": "introduction-to-anatomic-pathology",
+      "topicName": "Introduction to Anatomic Pathology",
+      "stem": "The enlarged, overlapping nuclei with clearing shown in this thyroid lesion are diagnostic features of which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaplastic thyroid carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Medullary thyroid carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Follicular thyroid carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Hashimoto thyroiditis"
+        },
+        {
+          "label": "E",
+          "text": "Papillary thyroid carcinoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Papillary thyroid carcinoma is characterized by nuclear enlargement, nuclear overlap, and optically clear (Orphan Annie eye) nuclei with grooves.",
+        "whyCorrect": "Papillary thyroid carcinoma is characterized by nuclear enlargement, nuclear overlap, and optically clear (Orphan Annie eye) nuclei with grooves.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-131_pa030_f09.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

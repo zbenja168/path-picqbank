@@ -1,80 +1,62 @@
 {
   "categories": [
     {
-      "id": "introduction-to-pathology-cell-injury-and-adaptation",
-      "name": "Introduction to Pathology, Cell Injury, and Adaptation",
+      "id": "w1s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "introduction-to-pathology-cell-injury-and-adaptation",
           "name": "Introduction to Pathology, Cell Injury, and Adaptation",
           "sourceFile": "brick",
           "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "cell-death-apoptosis-and-necrosis",
-      "name": "Cell Death: Apoptosis and Necrosis",
-      "topics": [
+        },
         {
           "id": "cell-death-apoptosis-and-necrosis",
           "name": "Cell Death: Apoptosis and Necrosis",
           "sourceFile": "brick",
           "questionCount": 10
-        }
-      ]
-    },
-    {
-      "id": "introduction-to-anatomic-pathology",
-      "name": "Introduction to Anatomic Pathology",
-      "topics": [
+        },
         {
           "id": "introduction-to-anatomic-pathology",
           "name": "Introduction to Anatomic Pathology",
           "sourceFile": "brick",
           "questionCount": 8
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "acute-inflammation",
-      "name": "Acute Inflammation",
+      "id": "w1s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "acute-inflammation",
           "name": "Acute Inflammation",
           "sourceFile": "brick",
           "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "chronic-inflammation",
-      "name": "Chronic Inflammation",
-      "topics": [
+        },
         {
           "id": "chronic-inflammation",
           "name": "Chronic Inflammation",
           "sourceFile": "brick",
           "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "wound-healing-and-tissue-repair",
-      "name": "Wound Healing and Tissue Repair",
-      "topics": [
+        },
         {
           "id": "wound-healing-and-tissue-repair",
           "name": "Wound Healing and Tissue Repair",
           "sourceFile": "brick",
           "questionCount": 4
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "autopsy",
-      "name": "Autopsy",
+      "id": "w1s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "autopsy",
@@ -82,239 +64,173 @@
           "sourceFile": "brick",
           "questionCount": 3
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "hemodynamics-and-shock",
-      "name": "Hemodynamics and Shock",
+      "id": "w2s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "hemodynamics-and-shock",
           "name": "Hemodynamics and Shock",
           "sourceFile": "brick",
           "questionCount": 1
-        }
-      ]
-    },
-    {
-      "id": "thrombosis-and-its-consequences",
-      "name": "Thrombosis and Its Consequences",
-      "topics": [
+        },
         {
           "id": "thrombosis-and-its-consequences",
           "name": "Thrombosis and Its Consequences",
           "sourceFile": "brick",
           "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "introduction-to-clinical-pathology",
-      "name": "Introduction to Clinical Pathology",
-      "topics": [
+        },
         {
           "id": "introduction-to-clinical-pathology",
           "name": "Introduction to Clinical Pathology",
           "sourceFile": "brick",
           "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "introduction-to-infection",
-      "name": "Introduction to Infection",
-      "topics": [
+        },
         {
           "id": "introduction-to-infection",
           "name": "Introduction to Infection",
           "sourceFile": "brick",
           "questionCount": 5
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "autoimmune-disease",
-      "name": "Autoimmune Disease",
+      "id": "w2s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "autoimmune-disease",
           "name": "Autoimmune Disease",
           "sourceFile": "brick",
           "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "immune-mediated-damage-and-granulomatous-diseases",
-      "name": "Immune-Mediated Damage and Granulomatous Diseases",
-      "topics": [
+        },
         {
           "id": "immune-mediated-damage-and-granulomatous-diseases",
           "name": "Immune-Mediated Damage and Granulomatous Diseases",
           "sourceFile": "brick",
           "questionCount": 14
-        }
-      ]
-    },
-    {
-      "id": "infections-immunity-and-evading-host-defense",
-      "name": "Infections, Immunity, and Evading Host Defense",
-      "topics": [
+        },
         {
           "id": "infections-immunity-and-evading-host-defense",
           "name": "Infections, Immunity, and Evading Host Defense",
           "sourceFile": "brick",
           "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "chronic-infections",
-      "name": "Chronic Infections",
-      "topics": [
+        },
         {
           "id": "chronic-infections",
           "name": "Chronic Infections",
           "sourceFile": "brick",
           "questionCount": 20
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "transplantation",
-      "name": "Transplantation",
+      "id": "w2s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "transplantation",
           "name": "Transplantation",
           "sourceFile": "brick",
           "questionCount": 9
-        }
-      ]
-    },
-    {
-      "id": "transplant-rejection",
-      "name": "Transplant Rejection",
-      "topics": [
+        },
         {
           "id": "transplant-rejection",
           "name": "Transplant Rejection",
           "sourceFile": "brick",
           "questionCount": 1
-        }
-      ]
-    },
-    {
-      "id": "infectious-and-inflammatory-jaundice",
-      "name": "Infectious and Inflammatory Jaundice",
-      "topics": [
+        },
         {
           "id": "infectious-and-inflammatory-jaundice",
           "name": "Infectious and Inflammatory Jaundice",
           "sourceFile": "brick",
           "questionCount": 6
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "introduction-to-neoplasia",
-      "name": "Introduction to Neoplasia",
+      "id": "w3s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "introduction-to-neoplasia",
           "name": "Introduction to Neoplasia",
           "sourceFile": "brick",
           "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "cancer-growth-and-metastasis",
-      "name": "Cancer Growth and Metastasis",
-      "topics": [
+        },
         {
           "id": "cancer-growth-and-metastasis",
           "name": "Cancer Growth and Metastasis",
           "sourceFile": "brick",
           "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "molecular-basis-of-neoplasia",
-      "name": "Molecular Basis of Neoplasia",
-      "topics": [
+        },
         {
           "id": "molecular-basis-of-neoplasia",
           "name": "Molecular Basis of Neoplasia",
           "sourceFile": "brick",
           "questionCount": 8
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "cancer-immune-evasion",
-      "name": "Cancer Immune Evasion",
+      "id": "w3s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "cancer-immune-evasion",
           "name": "Cancer Immune Evasion",
           "sourceFile": "brick",
           "questionCount": 2
-        }
-      ]
-    },
-    {
-      "id": "hallmarks-of-neoplasia-genomic-instability",
-      "name": "Hallmarks of Neoplasia: Genomic Instability",
-      "topics": [
+        },
         {
           "id": "hallmarks-of-neoplasia-genomic-instability",
           "name": "Hallmarks of Neoplasia: Genomic Instability",
           "sourceFile": "brick",
           "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "paraneoplastic-syndromes",
-      "name": "Paraneoplastic Syndromes",
-      "topics": [
+        },
         {
           "id": "paraneoplastic-syndromes",
           "name": "Paraneoplastic Syndromes",
           "sourceFile": "brick",
           "questionCount": 1
-        }
-      ]
-    },
-    {
-      "id": "epidemiology-of-cancer",
-      "name": "Epidemiology of Cancer",
-      "topics": [
+        },
         {
           "id": "epidemiology-of-cancer",
           "name": "Epidemiology of Cancer",
           "sourceFile": "brick",
           "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "pathogen-associated-neoplasms",
-      "name": "Pathogen-Associated Neoplasms",
-      "topics": [
+        },
         {
           "id": "pathogen-associated-neoplasms",
           "name": "Pathogen-Associated Neoplasms",
           "sourceFile": "brick",
           "questionCount": 14
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "cancer-medications-overview",
-      "name": "Cancer Medications Overview",
+      "id": "w3s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "cancer-medications-overview",
@@ -322,7 +238,10 @@
           "sourceFile": "brick",
           "questionCount": 1
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     }
   ],
   "totalQuestions": 156

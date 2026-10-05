@@ -1,7 +1,397 @@
 {
-  "categoryId": "pathogen-associated-neoplasms",
-  "categoryName": "Pathogen-Associated Neoplasms",
+  "categoryId": "w3s2",
+  "categoryName": "Session 2",
   "questions": [
+    {
+      "id": "papic-141",
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
+      "stem": "This two-panel figure contrasts tumor immunity with and without antibodies directed against CTLA-4 and PD-1/PD-L1, showing restored cytotoxic T cell killing when the antibodies are used. What general class of cancer therapy does this illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytotoxic chemotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Immune checkpoint inhibitors"
+        },
+        {
+          "label": "C",
+          "text": "Targeted tyrosine kinase inhibitors"
+        },
+        {
+          "label": "D",
+          "text": "External-beam radiation therapy"
+        },
+        {
+          "label": "E",
+          "text": "Oncolytic virus therapy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Blocking inhibitory checkpoint pathways (CTLA-4 and PD-1/PD-L1) with antibodies removes the brakes on T cells, restoring their ability to activate and kill tumor cells. This checkpoint blockade approach is approved for advanced solid tumors and some lymphomas.",
+        "whyCorrect": "Blocking inhibitory checkpoint pathways (CTLA-4 and PD-1/PD-L1) with antibodies removes the brakes on T cells, restoring their ability to activate and kill tumor cells. This checkpoint blockade approach is approved for advanced solid tumors and some lymphomas.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-141_pa022_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-154",
+      "topicId": "cancer-immune-evasion",
+      "topicName": "Cancer Immune Evasion",
+      "stem": "The tumor cell on the left has lost a specific surface molecule, and as a result the T cell on the right is unable to recognize it. The absence of this molecule most directly impairs which immune function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Recognition and killing by cytotoxic CD8+ T cells"
+        },
+        {
+          "label": "B",
+          "text": "Antibody-mediated opsonization of the tumor"
+        },
+        {
+          "label": "C",
+          "text": "Helper CD4+ T cell cytokine release"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophil chemotaxis to the tumor"
+        },
+        {
+          "label": "E",
+          "text": "Activation of the classical complement pathway"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The tumor is MHC class I-deficient. Because cytotoxic T cells identify targets via antigen presented on MHC class I, loss of this molecule allows the tumor to escape CD8+ T cell-mediated killing.",
+        "whyCorrect": "The tumor is MHC class I-deficient. Because cytotoxic T cells identify targets via antigen presented on MHC class I, loss of this molecule allows the tumor to escape CD8+ T cell-mediated killing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-154_pa022_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-040",
+      "topicId": "hallmarks-of-neoplasia-genomic-instability",
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "stem": "In this immunohistochemical panel for mismatch-repair proteins, the upper two markers show absent (loss of brown nuclear) staining in the tumor glands while the lower two retain intact brown staining. What does this pattern indicate about the tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is mismatch-repair deficient"
+        },
+        {
+          "label": "B",
+          "text": "It harbors a BRCA1 mutation"
+        },
+        {
+          "label": "C",
+          "text": "It overexpresses HER2/neu"
+        },
+        {
+          "label": "D",
+          "text": "It is normal non-neoplastic tissue"
+        },
+        {
+          "label": "E",
+          "text": "It has fully intact mismatch repair"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Loss of nuclear staining for MLH1 and PMS2 (which form a heterodimer, so loss of MLH1 destabilizes PMS2) with preserved MSH2/MSH6 indicates a mismatch-repair-deficient tumor. Such deficiency underlies microsatellite instability and is characteristic of Lynch-syndrome-associated cancers.",
+        "whyCorrect": "Loss of nuclear staining for MLH1 and PMS2 (which form a heterodimer, so loss of MLH1 destabilizes PMS2) with preserved MSH2/MSH6 indicates a mismatch-repair-deficient tumor. Such deficiency underlies microsatellite instability and is characteristic of Lynch-syndrome-associated cancers.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-040_pa023_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-116",
+      "topicId": "hallmarks-of-neoplasia-genomic-instability",
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "stem": "This patient shows extreme photosensitivity with dense freckling and lesions concentrated on sun-exposed skin of the face and neck. An inherited defect in which DNA repair pathway underlies this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nonhomologous end joining"
+        },
+        {
+          "label": "B",
+          "text": "Homologous recombination"
+        },
+        {
+          "label": "C",
+          "text": "Base excision repair"
+        },
+        {
+          "label": "D",
+          "text": "Nucleotide excision repair"
+        },
+        {
+          "label": "E",
+          "text": "Mismatch repair"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Xeroderma pigmentosum results from loss-of-function mutations in nucleotide excision repair, leaving patients unable to remove UV-induced pyrimidine dimers, producing severe photosensitivity, freckling in sun-exposed areas, and greatly increased skin cancer risk.",
+        "whyCorrect": "Xeroderma pigmentosum results from loss-of-function mutations in nucleotide excision repair, leaving patients unable to remove UV-induced pyrimidine dimers, producing severe photosensitivity, freckling in sun-exposed areas, and greatly increased skin cancer risk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-116_pa023_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-117",
+      "topicId": "hallmarks-of-neoplasia-genomic-instability",
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "stem": "This schematic shows the MSH2-MSH6 complex identifying an error in newly synthesized DNA and the MLH1-PMS2 complex excising the incorrect base before resynthesis. Germline loss of the pathway shown predisposes to which hereditary cancer syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Xeroderma pigmentosum"
+        },
+        {
+          "label": "B",
+          "text": "Ataxia telangiectasia"
+        },
+        {
+          "label": "C",
+          "text": "Li-Fraumeni syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Lynch syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Familial adenomatous polyposis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The figure depicts mismatch repair. Germline mutation of a mismatch-repair gene (MLH1, MSH2, MSH6, PMS2) causes Lynch syndrome (hereditary nonpolyposis colorectal cancer), producing microsatellite instability and markedly increased colorectal and endometrial cancer risk.",
+        "whyCorrect": "The figure depicts mismatch repair. Germline mutation of a mismatch-repair gene (MLH1, MSH2, MSH6, PMS2) causes Lynch syndrome (hereditary nonpolyposis colorectal cancer), producing microsatellite instability and markedly increased colorectal and endometrial cancer risk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-117_pa023_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-118",
+      "topicId": "hallmarks-of-neoplasia-genomic-instability",
+      "topicName": "Hallmarks of Neoplasia: Genomic Instability",
+      "stem": "These images show dilated tortuous blood vessels in the conjunctiva of the eye (A) and on the skin (B, C) of the same patient, who developed ataxia, chorea, and neuropathy before age five. A defect in which DNA repair mechanism causes this disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Homologous recombination"
+        },
+        {
+          "label": "B",
+          "text": "Nucleotide excision repair"
+        },
+        {
+          "label": "C",
+          "text": "Base excision repair"
+        },
+        {
+          "label": "D",
+          "text": "Mismatch repair"
+        },
+        {
+          "label": "E",
+          "text": "Nonhomologous end joining"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The dilated vessels (telangiectasia) with early-onset ataxia indicate ataxia telangiectasia, caused by defective nonhomologous end joining of double-strand breaks. The same defect impairs V(D)J recombination, producing immunodeficiency, and predisposes to leukemia and lymphoma.",
+        "whyCorrect": "The dilated vessels (telangiectasia) with early-onset ataxia indicate ataxia telangiectasia, caused by defective nonhomologous end joining of double-strand breaks. The same defect impairs V(D)J recombination, producing immunodeficiency, and predisposes to leukemia and lymphoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-118_pa023_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-015",
+      "topicId": "paraneoplastic-syndromes",
+      "topicName": "Paraneoplastic Syndromes",
+      "stem": "This high-power H&E field shows sheets of small round-to-oval cells with scant cytoplasm, high nuclear:cytoplasmic ratio, finely dispersed \"salt-and-pepper\" chromatin, and prominent nuclear molding. From which cell type does this tumor most characteristically arise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mesothelial lining cells"
+        },
+        {
+          "label": "B",
+          "text": "Type II pneumocytes"
+        },
+        {
+          "label": "C",
+          "text": "Mucin-producing glandular epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Keratinizing squamous epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Neuroendocrine (Kulchitsky) cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The morphology (small blue cells, scant cytoplasm, nuclear molding, dispersed chromatin) is that of small cell lung carcinoma, a poorly differentiated neuroendocrine tumor derived from Kulchitsky cells. This origin explains its capacity for ectopic hormone production (ACTH, ADH) and neurologic paraneoplastic syndromes.",
+        "whyCorrect": "The morphology (small blue cells, scant cytoplasm, nuclear molding, dispersed chromatin) is that of small cell lung carcinoma, a poorly differentiated neuroendocrine tumor derived from Kulchitsky cells. This origin explains its capacity for ectopic hormone production (ACTH, ADH) and neurologic paraneoplastic syndromes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-015_pa024_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-041",
+      "topicId": "epidemiology-of-cancer",
+      "topicName": "Epidemiology of Cancer",
+      "stem": "This abnormal cervical cytology (Pap smear) preparation shows a cluster of atypical cells adjacent to a normal squamous cell. The change demonstrated here is most directly caused by persistent infection with which agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlamydia trachomatis"
+        },
+        {
+          "label": "B",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "C",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "D",
+          "text": "Human immunodeficiency virus"
+        },
+        {
+          "label": "E",
+          "text": "Herpes simplex virus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The enlarged, hyperchromatic cells with increased nuclear-to-cytoplasmic ratio represent a high-grade squamous intraepithelial lesion (HSIL). This precancerous dysplasia of the cervix is caused by persistent infection with high-risk strains of human papillomavirus (HPV), which is why HPV testing has become a key screening tool alongside the Pap smear.",
+        "whyCorrect": "The enlarged, hyperchromatic cells with increased nuclear-to-cytoplasmic ratio represent a high-grade squamous intraepithelial lesion (HSIL). This precancerous dysplasia of the cervix is caused by persistent infection with high-risk strains of human papillomavirus (HPV), which is why HPV testing has become a key screening tool alongside the Pap smear.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-041_pa025_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-042",
+      "topicId": "epidemiology-of-cancer",
+      "topicName": "Epidemiology of Cancer",
+      "stem": "The clustered bright specks seen on this screening breast X-ray (left) prompted a biopsy showing the neoplastic changes at right. This finding is a suspicious marker for which early breast lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ductal carcinoma in situ"
+        },
+        {
+          "label": "B",
+          "text": "Fibroadenoma"
+        },
+        {
+          "label": "C",
+          "text": "Paget disease of the breast"
+        },
+        {
+          "label": "D",
+          "text": "Invasive lobular carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Phyllodes tumor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The mammogram shows clustered microcalcifications, a classic early sign of ductal carcinoma in situ (DCIS). Biopsy reveals neoplastic cells expanding a duct without invasion past the basement membrane, along with the characteristic chunky intraductal calcifications. Detecting DCIS by mammography allows treatment before progression to invasive disease.",
+        "whyCorrect": "The mammogram shows clustered microcalcifications, a classic early sign of ductal carcinoma in situ (DCIS). Biopsy reveals neoplastic cells expanding a duct without invasion past the basement membrane, along with the characteristic chunky intraductal calcifications. Detecting DCIS by mammography allows treatment before progression to invasive disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-042_pa025_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-119",
+      "topicId": "epidemiology-of-cancer",
+      "topicName": "Epidemiology of Cancer",
+      "stem": "These lesions, including a pedunculated example and one with a velvety surface, are removed during colonoscopy. Left in place, they are the principal precursor to which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colorectal adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Gastrointestinal stromal tumor"
+        },
+        {
+          "label": "C",
+          "text": "Squamous cell carcinoma of the anus"
+        },
+        {
+          "label": "D",
+          "text": "Mucosa-associated lymphoid tissue lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Carcinoid (neuroendocrine) tumor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The images show colonic adenomas (adenomatous polyps). Through the adenoma-carcinoma sequence, crowded neoplastic glands progressively accumulate mutations and can invade beyond the basement membrane into the lamina propria, giving rise to colorectal adenocarcinoma. Screening colonoscopy allows their removal before malignant transformation.",
+        "whyCorrect": "The images show colonic adenomas (adenomatous polyps). Through the adenoma-carcinoma sequence, crowded neoplastic glands progressively accumulate mutations and can invade beyond the basement membrane into the lamina propria, giving rise to colorectal adenocarcinoma. Screening colonoscopy allows their removal before malignant transformation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-119_pa025_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
     {
       "id": "papic-016",
       "topicId": "pathogen-associated-neoplasms",

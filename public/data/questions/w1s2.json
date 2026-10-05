@@ -1,0 +1,513 @@
+{
+  "categoryId": "w1s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "papic-026",
+      "topicId": "acute-inflammation",
+      "topicName": "Acute Inflammation",
+      "stem": "This micrograph contrasts the two principal cells of acute inflammation, with a neutrophil at left and a tissue macrophage at right. Approximately when does the cell shown at right become the predominant cell at the site of injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "At 6-12 hours"
+        },
+        {
+          "label": "B",
+          "text": "48-72 hours (2-3 days) after injury"
+        },
+        {
+          "label": "C",
+          "text": "Within the first few minutes"
+        },
+        {
+          "label": "D",
+          "text": "Only after 2-3 weeks"
+        },
+        {
+          "label": "E",
+          "text": "Immediately at the moment of injury"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Neutrophils arrive first and peak around 24 hours; macrophages become the predominant cell type roughly 48-72 hours after injury or infection.",
+        "whyCorrect": "Neutrophils arrive first and peak around 24 hours; macrophages become the predominant cell type roughly 48-72 hours after injury or infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-026_pa031_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-051",
+      "topicId": "acute-inflammation",
+      "topicName": "Acute Inflammation",
+      "stem": "This chest radiograph shows regions of increased opacity within the lung fields. What process do these opacities most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Large pleural effusion"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse pulmonary fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "Alveolar infiltrate"
+        },
+        {
+          "label": "D",
+          "text": "Cardiomegaly from heart failure"
+        },
+        {
+          "label": "E",
+          "text": "Pneumothorax with lung collapse"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The opaque areas correspond to alveolar spaces filled with purulent exudate, a pattern consistent with bacterial pneumonia.",
+        "whyCorrect": "The opaque areas correspond to alveolar spaces filled with purulent exudate, a pattern consistent with bacterial pneumonia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-051_pa031_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-132",
+      "topicId": "acute-inflammation",
+      "topicName": "Acute Inflammation",
+      "stem": "This skin section shows the epidermis lifted away from the underlying dermis by a collection of pale, watery fluid. Which morphologic pattern of inflammation is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serous inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Ulcerative inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Suppurative (purulent) inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Fibrinous inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Granulomatous inflammation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A blister formed by accumulation of protein-poor, cell-poor (transudate-like) fluid separating the epidermis represents serous inflammation.",
+        "whyCorrect": "A blister formed by accumulation of protein-poor, cell-poor (transudate-like) fluid separating the epidermis represents serous inflammation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-132_pa031_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-133",
+      "topicId": "acute-inflammation",
+      "topicName": "Acute Inflammation",
+      "stem": "Panel A shows a shaggy, roughened surface coating this heart and panel B shows a pink meshwork overlying the pericardial surface. Which type of inflammatory exudate is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemorrhagic exudate"
+        },
+        {
+          "label": "B",
+          "text": "Purulent (suppurative) exudate"
+        },
+        {
+          "label": "C",
+          "text": "Fibrinous exudate"
+        },
+        {
+          "label": "D",
+          "text": "Serous exudate"
+        },
+        {
+          "label": "E",
+          "text": "Caseous exudate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Increased vascular permeability allows fibrinogen to leak and deposit as fibrin on the pericardial surface, producing a fibrinous exudate (fibrinous pericarditis).",
+        "whyCorrect": "Increased vascular permeability allows fibrinogen to leak and deposit as fibrin on the pericardial surface, producing a fibrinous exudate (fibrinous pericarditis).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-133_pa031_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-134",
+      "topicId": "acute-inflammation",
+      "topicName": "Acute Inflammation",
+      "stem": "This gross specimen (A) and low-power cross-section (B) show a punched-out defect penetrating through the mucosal surface with an inflammatory exudate at its base. Which morphologic pattern of inflammation is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ulcerative inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Fibrinous inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Serous inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Suppurative inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Pseudomembranous inflammation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An ulcer is a local defect of an epithelial surface produced by sloughing of inflamed necrotic tissue, here a chronic duodenal ulcer.",
+        "whyCorrect": "An ulcer is a local defect of an epithelial surface produced by sloughing of inflamed necrotic tissue, here a chronic duodenal ulcer.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-134_pa031_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-027",
+      "topicId": "chronic-inflammation",
+      "topicName": "Chronic Inflammation",
+      "stem": "This peripheral blood smear shows a single mononuclear leukocyte with a large, round, dense nucleus and only a thin rim of cytoplasm, surrounded by erythrocytes. Which leukocyte is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Monocyte"
+        },
+        {
+          "label": "B",
+          "text": "Basophil"
+        },
+        {
+          "label": "C",
+          "text": "Eosinophil"
+        },
+        {
+          "label": "D",
+          "text": "Lymphocyte"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophil"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A small cell dominated by a round nucleus with scant cytoplasm is a lymphocyte. Neutrophils have multilobed nuclei, eosinophils have bilobed nuclei with red granules, monocytes are larger with reniform nuclei, and basophils contain dark blue granules.",
+        "whyCorrect": "A small cell dominated by a round nucleus with scant cytoplasm is a lymphocyte. Neutrophils have multilobed nuclei, eosinophils have bilobed nuclei with red granules, monocytes are larger with reniform nuclei, and basophils contain dark blue granules.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-027_pa032_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-135",
+      "topicId": "chronic-inflammation",
+      "topicName": "Chronic Inflammation",
+      "stem": "This lung histology shows a granuloma with a central zone of caseous necrosis rimmed by epithelioid macrophages and multinucleated giant cells. Infection by which organism most classically produces this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "D",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus aureus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Caseating (necrotizing) granulomas in the lung are the hallmark of Mycobacterium tuberculosis infection. The listed pyogenic bacteria produce acute suppurative inflammation with abscesses rather than organized granulomas with central caseous necrosis.",
+        "whyCorrect": "Caseating (necrotizing) granulomas in the lung are the hallmark of Mycobacterium tuberculosis infection. The listed pyogenic bacteria produce acute suppurative inflammation with abscesses rather than organized granulomas with central caseous necrosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-135_pa032_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-136",
+      "topicId": "chronic-inflammation",
+      "topicName": "Chronic Inflammation",
+      "stem": "This lung biopsy shows a well-formed granuloma composed of epithelioid histiocytes, lymphocytes, and macrophages, notably without any central necrosis. Which disease most characteristically produces this non-necrotizing pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "B",
+          "text": "Tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Crohn's disease"
+        },
+        {
+          "label": "D",
+          "text": "Cat-scratch disease"
+        },
+        {
+          "label": "E",
+          "text": "Histoplasmosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Compact, non-caseating granulomas that lack central necrosis are classic for sarcoidosis. Tuberculosis and histoplasmosis usually caseate, cat-scratch disease shows suppurative granulomas, and while Crohn's granulomas are non-caseating they occur in the gut, not the lung.",
+        "whyCorrect": "Compact, non-caseating granulomas that lack central necrosis are classic for sarcoidosis. Tuberculosis and histoplasmosis usually caseate, cat-scratch disease shows suppurative granulomas, and while Crohn's granulomas are non-caseating they occur in the gut, not the lung.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-136_pa032_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-137",
+      "topicId": "chronic-inflammation",
+      "topicName": "Chronic Inflammation",
+      "stem": "Compared with the granuloma of tuberculosis, the lesion depicted in this schematic of sarcoidosis characteristically lacks which central feature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Epithelioid macrophages"
+        },
+        {
+          "label": "C",
+          "text": "A fibrous rim"
+        },
+        {
+          "label": "D",
+          "text": "Multinucleated giant cells"
+        },
+        {
+          "label": "E",
+          "text": "Caseous necrosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sarcoid granulomas are non-caseating, so they lack the central caseous necrosis typical of tuberculosis. They still contain multinucleated giant cells, epithelioid macrophages, lymphocytes, and a surrounding fibrous rim, so those are present rather than absent.",
+        "whyCorrect": "Sarcoid granulomas are non-caseating, so they lack the central caseous necrosis typical of tuberculosis. They still contain multinucleated giant cells, epithelioid macrophages, lymphocytes, and a surrounding fibrous rim, so those are present rather than absent.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-137_pa032_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-028",
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "stem": "This schematic depicts the organization of the extracellular matrix. The thin, specialized meshwork of type IV collagen and laminin that lies directly between the epithelial layer and the underlying interstitial connective tissue serves principally which role?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Provides tensile strength and elastic recoil to tendons and ligaments"
+        },
+        {
+          "label": "B",
+          "text": "Conducts action potentials between adjacent epithelial cells"
+        },
+        {
+          "label": "C",
+          "text": "Stores oxygen and slowly releases it to hypoxic tissue"
+        },
+        {
+          "label": "D",
+          "text": "Generates contractile force that pulls wound edges together"
+        },
+        {
+          "label": "E",
+          "text": "Acts as a specialized scaffold that anchors and supports epithelial cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The layer shown between epithelium and interstitium is the basement membrane, a specialized extracellular matrix rich in type IV collagen and laminin that provides an anchoring, supporting surface for the growth of epithelial, endothelial, and smooth muscle cells.",
+        "whyCorrect": "The layer shown between epithelium and interstitium is the basement membrane, a specialized extracellular matrix rich in type IV collagen and laminin that provides an anchoring, supporting surface for the growth of epithelial, endothelial, and smooth muscle cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-028_pa033_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-138",
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "stem": "These stacked cross-sections illustrate repair of a large, gaping skin wound over successive time points. What mechanism is primarily responsible for closing the defect shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete regeneration of the epidermis without any scar"
+        },
+        {
+          "label": "B",
+          "text": "Surgical apposition of the wound edges with minimal scarring"
+        },
+        {
+          "label": "C",
+          "text": "Filling by granulation tissue followed by wound contraction"
+        },
+        {
+          "label": "D",
+          "text": "Repair by regeneration of permanent cardiac muscle"
+        },
+        {
+          "label": "E",
+          "text": "Resolution of the wound without any inflammatory phase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Healing by secondary intention occurs with extensive tissue loss: the large defect fills with granulation tissue, and myofibroblasts form a contractile network that pulls the wound together, reducing the defect over weeks.",
+        "whyCorrect": "Healing by secondary intention occurs with extensive tissue loss: the large defect fills with granulation tissue, and myofibroblasts form a contractile network that pulls the wound together, reducing the defect over weeks.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-138_pa033_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-139",
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "stem": "In the clinical image on the right, the raised scar extends beyond the boundaries of the original wound, and the accompanying histology shows thick, brightly eosinophilic collagen fibers arranged haphazardly. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wound dehiscence"
+        },
+        {
+          "label": "B",
+          "text": "Hypertrophic scar"
+        },
+        {
+          "label": "C",
+          "text": "Keloid scar"
+        },
+        {
+          "label": "D",
+          "text": "Wound contracture"
+        },
+        {
+          "label": "E",
+          "text": "Granulation tissue"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A keloid is exuberant scarring that extends beyond the boundaries of the original wound and shows thick, brightly eosinophilic collagen arranged haphazardly; unlike hypertrophic scars, which stay within the original wound and may regress, keloids do not regress on their own.",
+        "whyCorrect": "A keloid is exuberant scarring that extends beyond the boundaries of the original wound and shows thick, brightly eosinophilic collagen arranged haphazardly; unlike hypertrophic scars, which stay within the original wound and may regress, keloids do not regress on their own.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-139_pa033_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-140",
+      "topicId": "wound-healing-and-tissue-repair",
+      "topicName": "Wound Healing and Tissue Repair",
+      "stem": "The lower histologic panels of this chronic-wound montage show necrotic surface debris, inflammation, and underlying granulation tissue. Which histologic feature best defines the lesion as an ulcer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neoplastic proliferation of squamous epithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "An encapsulated collection of pus with intact overlying epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Full-thickness regeneration of the epidermis with an intact surface"
+        },
+        {
+          "label": "D",
+          "text": "Loss of the overlying epithelial surface"
+        },
+        {
+          "label": "E",
+          "text": "Hyperplasia of keratinocytes forming a raised nodule"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An ulcer is a wound lacking an intact epithelial surface; histologically it correlates with loss of the overlying epithelium plus surface necrotic debris, inflammation, and underlying granulation tissue, as seen in these venous, arterial, diabetic, and pressure-related chronic wounds.",
+        "whyCorrect": "An ulcer is a wound lacking an intact epithelial surface; histologically it correlates with loss of the overlying epithelium plus surface necrotic debris, inflammation, and underlying granulation tissue, as seen in these venous, arterial, diabetic, and pressure-related chronic wounds.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-140_pa033_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
