@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "id": "w1s1",
-      "name": "Session 1",
+      "id": "w1s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "introduction-to-pathology-cell-injury-and-adaptation",
@@ -21,33 +21,6 @@
           "name": "Introduction to Anatomic Pathology",
           "sourceFile": "brick",
           "questionCount": 8
-        }
-      ],
-      "week": 1,
-      "weekName": "Week 1",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "w1s2",
-      "name": "Session 2",
-      "topics": [
-        {
-          "id": "acute-inflammation",
-          "name": "Acute Inflammation",
-          "sourceFile": "brick",
-          "questionCount": 5
-        },
-        {
-          "id": "chronic-inflammation",
-          "name": "Chronic Inflammation",
-          "sourceFile": "brick",
-          "questionCount": 4
-        },
-        {
-          "id": "wound-healing-and-tissue-repair",
-          "name": "Wound Healing and Tissue Repair",
-          "sourceFile": "brick",
-          "questionCount": 4
         }
       ],
       "week": 1,
@@ -74,28 +47,22 @@
       "name": "Session 1",
       "topics": [
         {
-          "id": "hemodynamics-and-shock",
-          "name": "Hemodynamics and Shock",
+          "id": "acute-inflammation",
+          "name": "Acute Inflammation",
           "sourceFile": "brick",
-          "questionCount": 1
+          "questionCount": 5
         },
         {
-          "id": "thrombosis-and-its-consequences",
-          "name": "Thrombosis and Its Consequences",
+          "id": "chronic-inflammation",
+          "name": "Chronic Inflammation",
           "sourceFile": "brick",
           "questionCount": 4
         },
         {
-          "id": "introduction-to-clinical-pathology",
-          "name": "Introduction to Clinical Pathology",
+          "id": "wound-healing-and-tissue-repair",
+          "name": "Wound Healing and Tissue Repair",
           "sourceFile": "brick",
-          "questionCount": 5
-        },
-        {
-          "id": "introduction-to-infection",
-          "name": "Introduction to Infection",
-          "sourceFile": "brick",
-          "questionCount": 5
+          "questionCount": 4
         }
       ],
       "week": 2,
@@ -106,6 +73,24 @@
       "id": "w2s2",
       "name": "Session 2",
       "topics": [
+        {
+          "id": "transplantation",
+          "name": "Transplantation",
+          "sourceFile": "brick",
+          "questionCount": 9
+        },
+        {
+          "id": "transplant-rejection",
+          "name": "Transplant Rejection",
+          "sourceFile": "brick",
+          "questionCount": 1
+        },
+        {
+          "id": "introduction-to-infection",
+          "name": "Introduction to Infection",
+          "sourceFile": "brick",
+          "questionCount": 5
+        },
         {
           "id": "autoimmune-disease",
           "name": "Autoimmune Disease",
@@ -140,16 +125,10 @@
       "name": "Session 3",
       "topics": [
         {
-          "id": "transplantation",
-          "name": "Transplantation",
+          "id": "introduction-to-clinical-pathology",
+          "name": "Introduction to Clinical Pathology",
           "sourceFile": "brick",
-          "questionCount": 9
-        },
-        {
-          "id": "transplant-rejection",
-          "name": "Transplant Rejection",
-          "sourceFile": "brick",
-          "questionCount": 1
+          "questionCount": 5
         },
         {
           "id": "infectious-and-inflammatory-jaundice",
@@ -167,22 +146,16 @@
       "name": "Session 1",
       "topics": [
         {
-          "id": "introduction-to-neoplasia",
-          "name": "Introduction to Neoplasia",
-          "sourceFile": "brick",
-          "questionCount": 3
-        },
-        {
-          "id": "cancer-growth-and-metastasis",
-          "name": "Cancer Growth and Metastasis",
-          "sourceFile": "brick",
-          "questionCount": 3
-        },
-        {
           "id": "molecular-basis-of-neoplasia",
           "name": "Molecular Basis of Neoplasia",
           "sourceFile": "brick",
           "questionCount": 8
+        },
+        {
+          "id": "introduction-to-neoplasia",
+          "name": "Introduction to Neoplasia",
+          "sourceFile": "brick",
+          "questionCount": 3
         }
       ],
       "week": 3,
@@ -194,10 +167,10 @@
       "name": "Session 2",
       "topics": [
         {
-          "id": "cancer-immune-evasion",
-          "name": "Cancer Immune Evasion",
+          "id": "pathogen-associated-neoplasms",
+          "name": "Pathogen-Associated Neoplasms",
           "sourceFile": "brick",
-          "questionCount": 2
+          "questionCount": 14
         },
         {
           "id": "hallmarks-of-neoplasia-genomic-instability",
@@ -216,12 +189,6 @@
           "name": "Epidemiology of Cancer",
           "sourceFile": "brick",
           "questionCount": 3
-        },
-        {
-          "id": "pathogen-associated-neoplasms",
-          "name": "Pathogen-Associated Neoplasms",
-          "sourceFile": "brick",
-          "questionCount": 14
         }
       ],
       "week": 3,
@@ -233,15 +200,48 @@
       "name": "Session 3",
       "topics": [
         {
+          "id": "cancer-growth-and-metastasis",
+          "name": "Cancer Growth and Metastasis",
+          "sourceFile": "brick",
+          "questionCount": 3
+        },
+        {
           "id": "cancer-medications-overview",
           "name": "Cancer Medications Overview",
           "sourceFile": "brick",
           "questionCount": 1
+        },
+        {
+          "id": "cancer-immune-evasion",
+          "name": "Cancer Immune Evasion",
+          "sourceFile": "brick",
+          "questionCount": 2
         }
       ],
       "week": 3,
       "weekName": "Week 3",
       "weekSubtitle": ""
+    },
+    {
+      "id": "more",
+      "name": "More topics",
+      "topics": [
+        {
+          "id": "hemodynamics-and-shock",
+          "name": "Hemodynamics and Shock",
+          "sourceFile": "brick",
+          "questionCount": 1
+        },
+        {
+          "id": "thrombosis-and-its-consequences",
+          "name": "Thrombosis and Its Consequences",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ],
+      "week": 4,
+      "weekName": "More",
+      "weekSubtitle": "Topics outside the class schedule"
     }
   ],
   "totalQuestions": 156
