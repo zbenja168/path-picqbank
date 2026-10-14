@@ -84,36 +84,6 @@
           "name": "Transplant Rejection",
           "sourceFile": "brick",
           "questionCount": 1
-        },
-        {
-          "id": "introduction-to-infection",
-          "name": "Introduction to Infection",
-          "sourceFile": "brick",
-          "questionCount": 5
-        },
-        {
-          "id": "autoimmune-disease",
-          "name": "Autoimmune Disease",
-          "sourceFile": "brick",
-          "questionCount": 3
-        },
-        {
-          "id": "immune-mediated-damage-and-granulomatous-diseases",
-          "name": "Immune-Mediated Damage and Granulomatous Diseases",
-          "sourceFile": "brick",
-          "questionCount": 14
-        },
-        {
-          "id": "infections-immunity-and-evading-host-defense",
-          "name": "Infections, Immunity, and Evading Host Defense",
-          "sourceFile": "brick",
-          "questionCount": 7
-        },
-        {
-          "id": "chronic-infections",
-          "name": "Chronic Infections",
-          "sourceFile": "brick",
-          "questionCount": 20
         }
       ],
       "week": 2,
@@ -194,55 +164,7 @@
       "week": 3,
       "weekName": "Week 3",
       "weekSubtitle": ""
-    },
-    {
-      "id": "w3s3",
-      "name": "Session 3",
-      "topics": [
-        {
-          "id": "cancer-growth-and-metastasis",
-          "name": "Cancer Growth and Metastasis",
-          "sourceFile": "brick",
-          "questionCount": 3
-        },
-        {
-          "id": "cancer-medications-overview",
-          "name": "Cancer Medications Overview",
-          "sourceFile": "brick",
-          "questionCount": 1
-        },
-        {
-          "id": "cancer-immune-evasion",
-          "name": "Cancer Immune Evasion",
-          "sourceFile": "brick",
-          "questionCount": 2
-        }
-      ],
-      "week": 3,
-      "weekName": "Week 3",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "more",
-      "name": "More topics",
-      "topics": [
-        {
-          "id": "hemodynamics-and-shock",
-          "name": "Hemodynamics and Shock",
-          "sourceFile": "brick",
-          "questionCount": 1
-        },
-        {
-          "id": "thrombosis-and-its-consequences",
-          "name": "Thrombosis and Its Consequences",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ],
-      "week": 4,
-      "weekName": "More",
-      "weekSubtitle": "Topics outside the class schedule"
     }
   ],
-  "totalQuestions": 156
+  "totalQuestions": 96
 }
