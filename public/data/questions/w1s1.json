@@ -1,0 +1,1616 @@
+{
+  "categoryId": "w1s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "papic-176",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "This diagram shows the connective tissue layers of a skeletal muscle. An inflammatory disease that specifically attacks the innermost layer, the one wrapping each individual myofiber, causes gradual weakness starting in the thighs. Which disease is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myasthenia gravis"
+        },
+        {
+          "label": "B",
+          "text": "Multiple sclerosis"
+        },
+        {
+          "label": "C",
+          "text": "Polymyositis"
+        },
+        {
+          "label": "D",
+          "text": "Duchenne dystrophy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The endomysium surrounds individual muscle cells (perimysium surrounds fascicles, epimysium the whole muscle). Polymyositis is an inflammatory disease that targets the endomysium, causing progressive weakness that starts in the thighs; it may respond to glucocorticoids.",
+        "whyCorrect": "The endomysium surrounds individual muscle cells (perimysium surrounds fascicles, epimysium the whole muscle). Polymyositis is an inflammatory disease that targets the endomysium, causing progressive weakness that starts in the thighs; it may respond to glucocorticoids.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-176_pa38_f23.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-177",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "The repeating units bracketed along the myofibril (upper right) give each myofibril, and thus the whole cell, what appearance under the light microscope?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bubbly, vacuolated appearance"
+        },
+        {
+          "label": "B",
+          "text": "Spindle-shaped, twisted appearance"
+        },
+        {
+          "label": "C",
+          "text": "Branched, anastomosing appearance"
+        },
+        {
+          "label": "D",
+          "text": "Striated (striped) appearance"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sarcomeres are repeated in series within each myofibril, producing the striped (striated) look. Because skeletal muscle cells are packed with myofibrils, they appear striated as well. Cardiac muscle is also striated; smooth muscle lacks sarcomeres and is not.",
+        "whyCorrect": "Sarcomeres are repeated in series within each myofibril, producing the striped (striated) look. Because skeletal muscle cells are packed with myofibrils, they appear striated as well. Cardiac muscle is also striated; smooth muscle lacks sarcomeres and is not.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-177_pa38_f24.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-178",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "Identify the muscle tissue shown in this H&E-stained section (N, I, and S mark features of the cells).",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "Peripheral nerve"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac muscle"
+        },
+        {
+          "label": "D",
+          "text": "Skeletal muscle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The cells are striated (S) with centrally placed nuclei (N) and dark transverse lines (I), the intercalated discs. Intercalated discs are unique to cardiac muscle. Skeletal muscle has many peripheral nuclei and no intercalated discs, and smooth muscle is not striated.",
+        "whyCorrect": "The cells are striated (S) with centrally placed nuclei (N) and dark transverse lines (I), the intercalated discs. Intercalated discs are unique to cardiac muscle. Skeletal muscle has many peripheral nuclei and no intercalated discs, and smooth muscle is not striated.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-178_pa38_f25.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-179",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "In this junction between two cardiac myocytes, what is the main role of the component the action potential arrow passes through?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bind myocytes together like a broad belt"
+        },
+        {
+          "label": "B",
+          "text": "Seal the intercellular space watertight"
+        },
+        {
+          "label": "C",
+          "text": "Pass electrical signals and ions between cells"
+        },
+        {
+          "label": "D",
+          "text": "Anchor neighbors firmly using cadherin proteins"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Gap junctions in the intercalated disc form passages between cells, so cardiac myocytes can conduct electrical signals (and some ions) to one another without each cell needing nerve input. Spot desmosomes bind cells firmly with cadherins, and the fascia adherens joins them like a broad belt.",
+        "whyCorrect": "Gap junctions in the intercalated disc form passages between cells, so cardiac myocytes can conduct electrical signals (and some ions) to one another without each cell needing nerve input. Spot desmosomes bind cells firmly with cadherins, and the fascia adherens joins them like a broad belt.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-179_pa38_f26.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-180",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "In these cells, the thick and thin filaments are anchored at dense bodies and run at oblique angles to the long axis. What movement does this arrangement cause during contraction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Uniform longitudinal shortening"
+        },
+        {
+          "label": "B",
+          "text": "Lateral sliding past neighbors"
+        },
+        {
+          "label": "C",
+          "text": "Twisting of the cell"
+        },
+        {
+          "label": "D",
+          "text": "Rhythmic spontaneous beating"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Smooth muscle has no sarcomeres. Its actin and myosin are anchored to the sarcolemma by dense bodies and oriented obliquely, so the cells twist as they contract.",
+        "whyCorrect": "Smooth muscle has no sarcomeres. Its actin and myosin are anchored to the sarcolemma by dense bodies and oriented obliquely, so the cells twist as they contract.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-180_pa38_f27.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-181",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "The labeled cells in this vessel wall are connected to their neighbors mainly by which type of junction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gap junctions"
+        },
+        {
+          "label": "B",
+          "text": "Intercalated discs"
+        },
+        {
+          "label": "C",
+          "text": "Fascia adherens"
+        },
+        {
+          "label": "D",
+          "text": "Tight junctions"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Smooth muscle cells are linked by gap junctions but not by full intercalated discs, which belong only to cardiac muscle. Their gentle contractions put them under less stress, and they must be able to stretch in distensible places such as blood vessels, the gut, and the bladder.",
+        "whyCorrect": "Smooth muscle cells are linked by gap junctions but not by full intercalated discs, which belong only to cardiac muscle. Their gentle contractions put them under less stress, and they must be able to stretch in distensible places such as blood vessels, the gut, and the bladder.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-181_pa38_f28.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-182",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "This diagram shows the divisions of the nervous system. Which functional class of neurons carries impulses from the brain out through peripheral nerves to the muscles?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sensory neurons"
+        },
+        {
+          "label": "B",
+          "text": "Interneurons"
+        },
+        {
+          "label": "C",
+          "text": "Pyramidal neurons"
+        },
+        {
+          "label": "D",
+          "text": "Motor neurons"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The PNS (cranial nerves, spinal nerves, and ganglia) carries impulses to and from the CNS through motor and sensory neurons. Motor neurons carry impulses from the brain to muscles. Sensory neurons carry information toward the brain, and interneurons connect other neurons.",
+        "whyCorrect": "The PNS (cranial nerves, spinal nerves, and ganglia) carries impulses to and from the CNS through motor and sensory neurons. Motor neurons carry impulses from the brain to muscles. Sensory neurons carry information toward the brain, and interneurons connect other neurons.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-182_pa38_f29.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-183",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "What is the main function of the segmented sheath wrapping the long process of this neuron?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increase nerve impulse conduction speed"
+        },
+        {
+          "label": "B",
+          "text": "Remove debris by phagocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Produce and circulate cerebrospinal fluid"
+        },
+        {
+          "label": "D",
+          "text": "Receive stimuli from other neurons"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Myelin, a mixture of phospholipids and proteins, insulates the axon and increases the speed of nerve impulse conduction. Dendrites receive stimuli, microglia scavenge debris, ependymal cells handle CSF, and endothelial cells with astrocytes form the blood-brain barrier.",
+        "whyCorrect": "Myelin, a mixture of phospholipids and proteins, insulates the axon and increases the speed of nerve impulse conduction. Dendrites receive stimuli, microglia scavenge debris, ependymal cells handle CSF, and endothelial cells with astrocytes form the blood-brain barrier.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-183_pa38_f30.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-184",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "Where in the body is the leftmost neuron type in this diagram typically found?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Spinal and cranial sensory ganglia"
+        },
+        {
+          "label": "B",
+          "text": "Spinal cord motor pools"
+        },
+        {
+          "label": "C",
+          "text": "Hippocampus and amygdala"
+        },
+        {
+          "label": "D",
+          "text": "Retina and olfactory mucosa"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pseudounipolar neurons are sensory neurons in the spinal and cranial ganglia. A single process leaves the cell body and splits into two axons, one of which acts as a dendrite. Bipolar neurons are found in the retina, olfactory mucosa, and inner ear. Pyramidal cells are found in the hippocampus, amygdala, and cortex. All motor neurons are multipolar.",
+        "whyCorrect": "Pseudounipolar neurons are sensory neurons in the spinal and cranial ganglia. A single process leaves the cell body and splits into two axons, one of which acts as a dendrite. Bipolar neurons are found in the retina, olfactory mucosa, and inner ear. Pyramidal cells are found in the hippocampus, amygdala, and cortex. All motor neurons are multipolar.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-184_pa38_f31.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-185",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "What is the deep purple, granular material in the cytoplasm of the large central cell made of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glial fibrillary acidic protein"
+        },
+        {
+          "label": "B",
+          "text": "Smooth endoplasmic reticulum"
+        },
+        {
+          "label": "C",
+          "text": "Golgi apparatus stacks"
+        },
+        {
+          "label": "D",
+          "text": "Rough endoplasmic reticulum"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The neuron cell body has a single nucleus with a prominent nucleolus. Its cytoplasm contains abundant rough ER that stains deep purple and granular, called Nissl substance. The axon hillock is pale because it lacks Nissl substance.",
+        "whyCorrect": "The neuron cell body has a single nucleus with a prominent nucleolus. Its cytoplasm contains abundant rough ER that stains deep purple and granular, called Nissl substance. The axon hillock is pale because it lacks Nissl substance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-185_pa38_f32.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-186",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "The H&E section on the left shows only glial nuclei. The silver stain on the right reveals an astrocyte's many cytoplasmic processes. Which intermediate filament in those processes makes them stain so well?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytokeratin"
+        },
+        {
+          "label": "B",
+          "text": "Desmin"
+        },
+        {
+          "label": "C",
+          "text": "Glial fibrillary acidic protein"
+        },
+        {
+          "label": "D",
+          "text": "Vimentin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Astrocytes are star-shaped glia whose structure is maintained by the intermediate filament GFAP. On H&E only their nuclei are visible, but the GFAP in their processes stains well with silver stain.",
+        "whyCorrect": "Astrocytes are star-shaped glia whose structure is maintained by the intermediate filament GFAP. On H&E only their nuclei are visible, but the GFAP in their processes stains well with silver stain.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-186_pa38_f33.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-187",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "Cilia on the luminal surface of the cuboidal-to-columnar cells lining this canal help move which fluid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cerebrospinal fluid"
+        },
+        {
+          "label": "B",
+          "text": "Mucus"
+        },
+        {
+          "label": "C",
+          "text": "Blood plasma"
+        },
+        {
+          "label": "D",
+          "text": "Lymph"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ependymal cells are columnar or cuboidal epithelial cells that line the brain's ventricles and the central canal of the spinal cord. In some areas they have cilia that help move CSF, and modified ependymal cells help form the choroid plexus, which produces CSF.",
+        "whyCorrect": "Ependymal cells are columnar or cuboidal epithelial cells that line the brain's ventricles and the central canal of the spinal cord. In some areas they have cilia that help move CSF, and modified ependymal cells help form the choroid plexus, which produces CSF.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-187_pa38_f34.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-188",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "In this H&E field of CNS tissue, what is the function of the labeled glial cell with a small, elongated, dense, irregular nucleus (left center)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Scavenging debris as CNS macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Myelinating multiple CNS axons"
+        },
+        {
+          "label": "C",
+          "text": "Lining ventricles and moving CSF"
+        },
+        {
+          "label": "D",
+          "text": "Supporting neurons with perivascular feet"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Microglia are small, irregularly shaped cells with condensed chromatin. They are specialized macrophages found only in the CNS that migrate to remove debris, infectious agents, and damaged tissue, and they can present antigen when activated. Oligodendrocytes have round nuclei with a clear halo.",
+        "whyCorrect": "Microglia are small, irregularly shaped cells with condensed chromatin. They are specialized macrophages found only in the CNS that migrate to remove debris, infectious agents, and damaged tissue, and they can present antigen when activated. Oligodendrocytes have round nuclei with a clear halo.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-188_pa38_f35.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-189",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "In this neurovascular unit (panel A), what does the contractile cell lying in the basal lamina against the capillary endothelium regulate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vessel dilation and constriction"
+        },
+        {
+          "label": "B",
+          "text": "Myelin production around axons"
+        },
+        {
+          "label": "C",
+          "text": "Antigen presentation to T cells"
+        },
+        {
+          "label": "D",
+          "text": "Cerebrospinal fluid production"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "From the inside out, the neurovascular unit is made of endothelial cells (whose tight junctions form the blood-brain barrier), pericytes (smooth muscle cells that regulate vessel dilation and constriction), and astrocyte foot processes. Microglia sit nearby to respond to injury.",
+        "whyCorrect": "From the inside out, the neurovascular unit is made of endothelial cells (whose tight junctions form the blood-brain barrier), pericytes (smooth muscle cells that regulate vessel dilation and constriction), and astrocyte foot processes. Microglia sit nearby to respond to injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-189_pa38_f36.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-190",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "Which disease is caused by autoimmune destruction of the product that the central cell in this diagram lays down around several neighboring axons?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myasthenia gravis"
+        },
+        {
+          "label": "B",
+          "text": "Guillain-Barre syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Multiple sclerosis"
+        },
+        {
+          "label": "D",
+          "text": "Polymyositis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Oligodendrocytes send out processes that myelinate multiple CNS axons. In multiple sclerosis, autoimmune demyelination of CNS axons in the brain, spinal cord, and optic nerves impairs conduction, causing optic neuritis, incoordination, numbness and tingling, and fatigue.",
+        "whyCorrect": "Oligodendrocytes send out processes that myelinate multiple CNS axons. In multiple sclerosis, autoimmune demyelination of CNS axons in the brain, spinal cord, and optic nerves impairs conduction, causing optic neuritis, incoordination, numbness and tingling, and fatigue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-190_pa38_f37.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-191",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "This cell is wrapping itself in a spiral around an axon. How much axon does a single one of these cells myelinate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Every axon within a fascicle"
+        },
+        {
+          "label": "B",
+          "text": "One segment of a single axon"
+        },
+        {
+          "label": "C",
+          "text": "Segments of many separate axons"
+        },
+        {
+          "label": "D",
+          "text": "The entire length of one axon"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Schwann cells myelinate axons in the PNS. As each cell wraps an axon, its cytoplasm is squeezed out, forming the major dense line and the intraperiod line. Unlike oligodendrocytes, which can myelinate multiple axons, each Schwann cell myelinates only one segment of one axon.",
+        "whyCorrect": "Schwann cells myelinate axons in the PNS. As each cell wraps an axon, its cytoplasm is squeezed out, forming the major dense line and the intraperiod line. Unlike oligodendrocytes, which can myelinate multiple axons, each Schwann cell myelinates only one segment of one axon.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-191_pa38_f38.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-192",
+      "topicId": "histology-of-muscle-and-nervous-tissue",
+      "topicName": "Histology of Muscle and Nervous Tissue",
+      "stem": "Identify the structure shown in this H&E section: a wavy, pink bundle of fibers wrapped in a thin connective tissue covering.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral nerve"
+        },
+        {
+          "label": "B",
+          "text": "Dense regular tendon"
+        },
+        {
+          "label": "C",
+          "text": "Skeletal muscle"
+        },
+        {
+          "label": "D",
+          "text": "Smooth muscle"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "On light microscopy, peripheral nerve is a wavy, pink-textured bundle surrounded by perineurium. Axons appear as dark-pink lines with bubbly-looking myelin around them, and you can see the oval nuclei of Schwann cells and the flatter nuclei of fibroblasts.",
+        "whyCorrect": "On light microscopy, peripheral nerve is a wavy, pink-textured bundle surrounded by perineurium. Axons appear as dark-pink lines with bubbly-looking myelin around them, and you can see the oval nuclei of Schwann cells and the flatter nuclei of fibroblasts.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-192_pa38_f39.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-157",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "The left panel shows a skin section with lobules of cells whose cytoplasm is clear and finely vacuolated. Which gland is shown in the left panel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eccrine sweat gland"
+        },
+        {
+          "label": "B",
+          "text": "Parotid gland"
+        },
+        {
+          "label": "C",
+          "text": "Sebaceous gland"
+        },
+        {
+          "label": "D",
+          "text": "Submandibular gland"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The left panel is a sebaceous gland of the skin: its cells have a clear, vacuolated cytoplasm. The right panel is a submandibular gland, a mixture of serous cells (dark purple with cytoplasmic granules) and mucous cells (clear cytoplasm). Both are examples of glands formed by epithelial tissue.",
+        "whyCorrect": "The left panel is a sebaceous gland of the skin: its cells have a clear, vacuolated cytoplasm. The right panel is a submandibular gland, a mixture of serous cells (dark purple with cytoplasmic granules) and mucous cells (clear cytoplasm). Both are examples of glands formed by epithelial tissue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-157_pa37_f01.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-158",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "These H&E sections are from different regions of the brain. The arrowed cells (A, C) have elongated processes and a single nucleus with a prominent nucleolus. What cell type are they?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neurons"
+        },
+        {
+          "label": "B",
+          "text": "Fibroblasts"
+        },
+        {
+          "label": "C",
+          "text": "Glial cells"
+        },
+        {
+          "label": "D",
+          "text": "Plasma cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Typical neurons have elongated processes (dendrites and axons) and a cell body with a single nucleus and a prominent nucleolus. Their appearance varies somewhat by brain location. Nervous tissue is made of two cell types: neurons and glial cells.",
+        "whyCorrect": "Typical neurons have elongated processes (dendrites and axons) and a cell body with a single nucleus and a prominent nucleolus. Their appearance varies somewhat by brain location. Nervous tissue is made of two cell types: neurons and glial cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-158_pa37_f05.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-159",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "This is a longitudinal section of a normal peripheral nerve. The individual fibers have a wavy appearance. Which cells do the dark, elongated nuclei most likely belong to?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Schwann cells"
+        },
+        {
+          "label": "B",
+          "text": "Fibroblasts"
+        },
+        {
+          "label": "C",
+          "text": "Pericytes"
+        },
+        {
+          "label": "D",
+          "text": "Oligodendrocytes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In a longitudinal section of normal peripheral nerve, the nerve fibers look wavy, and the dark nuclei belong to Schwann cells. Oligodendrocytes do the equivalent myelinating job only in the CNS.",
+        "whyCorrect": "In a longitudinal section of normal peripheral nerve, the nerve fibers look wavy, and the dark nuclei belong to Schwann cells. Oligodendrocytes do the equivalent myelinating job only in the CNS.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-159_pa37_f06.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-160",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "This diagram shows the steps a surgical tissue specimen goes through before it can be sectioned for routine microscopy. What does this workflow typically produce, which is then thinly cut and stained with H&E?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Frozen-section cryostat block"
+        },
+        {
+          "label": "B",
+          "text": "Air-dried cytology smear"
+        },
+        {
+          "label": "C",
+          "text": "Formalin-fixed paraffin-embedded block"
+        },
+        {
+          "label": "D",
+          "text": "Unfixed fresh touch preparation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tissue specimens are typically processed into formalin-fixed paraffin-embedded (FFPE) blocks. Tissue from the FFPE block is then thinly cut and stained, usually with hematoxylin and eosin, so a pathologist can examine it under the microscope.",
+        "whyCorrect": "Tissue specimens are typically processed into formalin-fixed paraffin-embedded (FFPE) blocks. Tissue from the FFPE block is then thinly cut and stained, usually with hematoxylin and eosin, so a pathologist can examine it under the microscope.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-160_pa37_f07.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-161",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "In this routinely stained tumor section, the nuclei are blue-purple and the cytoplasm is pink. Why do the nuclei take up the blue-purple dye?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They contain iron deposits"
+        },
+        {
+          "label": "B",
+          "text": "They are basic (eosinophilic) structures"
+        },
+        {
+          "label": "C",
+          "text": "They are acidic (basophilic) structures"
+        },
+        {
+          "label": "D",
+          "text": "They are rich in carbohydrate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is an H&E stain, the most commonly used histologic stain. Hematoxylin stains acidic (basophilic) structures such as nuclei and ribosomes blue-purple. Eosin stains basic (eosinophilic) structures such as cytoplasm and many extracellular proteins pink-red.",
+        "whyCorrect": "This is an H&E stain, the most commonly used histologic stain. Hematoxylin stains acidic (basophilic) structures such as nuclei and ribosomes blue-purple. Eosin stains basic (eosinophilic) structures such as cytoplasm and many extracellular proteins pink-red.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-161_pa37_f08.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-162",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "This sequential staining technique separates bacteria into purple and red populations. Which bacterial structure does the stain target to make this distinction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flagella"
+        },
+        {
+          "label": "B",
+          "text": "Capsule"
+        },
+        {
+          "label": "C",
+          "text": "Ribosomes"
+        },
+        {
+          "label": "D",
+          "text": "Cell wall"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The Gram stain is a sequential technique for telling bacterial species apart. It works by staining the cell wall, which makes it useful for identifying the organism behind a bacterial infection.",
+        "whyCorrect": "The Gram stain is a sequential technique for telling bacterial species apart. It works by staining the cell wall, which makes it useful for identifying the organism behind a bacterial infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-162_pa37_f09.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-163",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "This peripheral blood preparation shows flagellated parasites. Which stain is most popular for identifying blood parasites like these?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Giemsa stain"
+        },
+        {
+          "label": "B",
+          "text": "Gram stain"
+        },
+        {
+          "label": "C",
+          "text": "Congo red"
+        },
+        {
+          "label": "D",
+          "text": "Prussian blue"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Giemsa stain is widely used in hematology because it stains bone marrow, plasma cells and mast cells especially well. It is also very popular for identifying blood parasites.",
+        "whyCorrect": "Giemsa stain is widely used in hematology because it stains bone marrow, plasma cells and mast cells especially well. It is also very popular for identifying blood parasites.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-163_pa37_f10.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-164",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "This section was stained with a special technique that turns mucus-rich cells a bright magenta. What class of molecules does this stain detect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carbohydrates"
+        },
+        {
+          "label": "B",
+          "text": "Iron deposits"
+        },
+        {
+          "label": "C",
+          "text": "Neutral lipids"
+        },
+        {
+          "label": "D",
+          "text": "Amyloid proteins"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The periodic acid-Schiff (PAS) reaction highlights structures with large amounts of carbohydrate, such as mucus, the intestinal brush border, renal tubular cells, and the reticular fibers of connective tissue.",
+        "whyCorrect": "The periodic acid-Schiff (PAS) reaction highlights structures with large amounts of carbohydrate, such as mucus, the intestinal brush border, renal tubular cells, and the reticular fibers of connective tissue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-164_pa37_f11.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-165",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "In this specially stained section of skin and the tissues beneath it, muscle and cytoplasm appear red. What is the blue-staining extracellular material?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elastic fibers"
+        },
+        {
+          "label": "B",
+          "text": "Ground substance"
+        },
+        {
+          "label": "C",
+          "text": "Reticulin fibers"
+        },
+        {
+          "label": "D",
+          "text": "Collagen fibers"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Masson's trichrome gives a multicolor result. Even though it uses red counterstains (muscle stains red here), it is best known for staining collagen fibers blue.",
+        "whyCorrect": "Masson's trichrome gives a multicolor result. Even though it uses red counterstains (muscle stains red here), it is best known for staining collagen fibers blue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-165_pa37_f12.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-166",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "This skin biopsy was stained with a dye that colors the dermal deposits salmon-pink to orange-red. What finding would characteristically appear if the same slide were viewed under polarized light?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Maltese-cross birefringence"
+        },
+        {
+          "label": "B",
+          "text": "Apple-green birefringence"
+        },
+        {
+          "label": "C",
+          "text": "Bright blue granular pigment"
+        },
+        {
+          "label": "D",
+          "text": "Negatively birefringent needles"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Congo red is a water-soluble diazo dye that stains amyloid deposits salmon-pink to orange-red. Under polarized light, the deposits show a characteristic apple-green birefringence, which is a hallmark of amyloidosis.",
+        "whyCorrect": "Congo red is a water-soluble diazo dye that stains amyloid deposits salmon-pink to orange-red. Under polarized light, the deposits show a characteristic apple-green birefringence, which is a hallmark of amyloidosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-166_pa37_f13.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-167",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "After a special stain, a cell in this smear contains bright blue cytoplasmic pigment among pale red blood cells. What does the blue pigment indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glycogen stores"
+        },
+        {
+          "label": "B",
+          "text": "Collagen fibers"
+        },
+        {
+          "label": "C",
+          "text": "Iron deposits"
+        },
+        {
+          "label": "D",
+          "text": "Amyloid deposits"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Prussian blue highlights iron deposits as a bright blue pigment, so it is the stain of choice for finding iron in a tissue or smear.",
+        "whyCorrect": "Prussian blue highlights iron deposits as a bright blue pigment, so it is the stain of choice for finding iron in a tissue or smear.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-167_pa37_f14.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-168",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "This H&E section shows large, round, empty-looking cells, each with a thin rim and a flattened nucleus at the periphery. What cell type are they?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pericytes"
+        },
+        {
+          "label": "B",
+          "text": "Mast cells"
+        },
+        {
+          "label": "C",
+          "text": "Adipocytes"
+        },
+        {
+          "label": "D",
+          "text": "Fibroblasts"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Adipocytes are resident connective tissue cells that store, make and release fat. In H&E preparations the fat washes out, leaving only a round white space with a nucleus pushed to the edge. This is mature adipose tissue.",
+        "whyCorrect": "Adipocytes are resident connective tissue cells that store, make and release fat. In H&E preparations the fat washes out, leaving only a round white space with a nucleus pushed to the edge. This is mature adipose tissue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-168_pa37_f15.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-169",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "This high-magnification view shows a resident connective tissue cell lying among extracellular fibers, with an oval nucleus (N) and pale cytoplasm (C). Which cell is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adipocyte"
+        },
+        {
+          "label": "B",
+          "text": "Pericyte"
+        },
+        {
+          "label": "C",
+          "text": "Mast cell"
+        },
+        {
+          "label": "D",
+          "text": "Fibroblast"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fibroblasts make collagen and elastic fibers and much of the ground substance. Resting fibroblasts have an oval nucleus; active ones become fusiform, with abundant RER and Golgi. They normally do not divide by mitosis except during wound healing.",
+        "whyCorrect": "Fibroblasts make collagen and elastic fibers and much of the ground substance. Resting fibroblasts have an oval nucleus; active ones become fusiform, with abundant RER and Golgi. They normally do not divide by mitosis except during wound healing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-169_pa37_f16.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-170",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "This diagram shows the molecular basis of the stretch and recoil of an extracellular fiber protein. Which unique amino acids form the cross-links shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cysteine and methionine"
+        },
+        {
+          "label": "B",
+          "text": "Glycine and proline"
+        },
+        {
+          "label": "C",
+          "text": "Hydroxyproline and hydroxylysine"
+        },
+        {
+          "label": "D",
+          "text": "Desmosine and isodesmosine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Elastin forms the inner core of elastic fibers. It is made of short peptide chains cross-linked by desmosine and isodesmosine, which lets the fiber stretch to about 150% of its resting length and then recoil.",
+        "whyCorrect": "Elastin forms the inner core of elastic fibers. It is made of short peptide chains cross-linked by desmosine and isodesmosine, which lets the fiber stretch to about 150% of its resting length and then recoil.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-170_pa37_f17.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-171",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "In this H&E-stained section of a large artery wall, what are the wavy, dark pink lines?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type IV collagen"
+        },
+        {
+          "label": "B",
+          "text": "Reticulin fibers"
+        },
+        {
+          "label": "C",
+          "text": "Type I collagen fibers"
+        },
+        {
+          "label": "D",
+          "text": "Elastic fibers"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Elastic fibers occur wherever tissue must stretch and return to its shape, such as artery walls, bronchi, the dermis and vertebral ligaments. In this large artery, the wavy dark pink lines are elastic fibers.",
+        "whyCorrect": "Elastic fibers occur wherever tissue must stretch and return to its shape, such as artery walls, bronchi, the dermis and vertebral ligaments. In this large artery, the wavy dark pink lines are elastic fibers.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-171_pa37_f18.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-172",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "The fine black fibers in this silver-stained section form a web-like supporting network around the cells. Which collagen type makes up these fibers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type IV collagen"
+        },
+        {
+          "label": "B",
+          "text": "Type II collagen"
+        },
+        {
+          "label": "C",
+          "text": "Type I collagen"
+        },
+        {
+          "label": "D",
+          "text": "Type III collagen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Reticulin (reticular) fibers are made of type III collagen. These extremely fine fibers form web-like stromal networks in hematopoietic organs (bone marrow, spleen, lymph nodes), around smooth muscle, and around the cells of parenchymal organs. They cannot be seen on H&E but show up well with silver stains.",
+        "whyCorrect": "Reticulin (reticular) fibers are made of type III collagen. These extremely fine fibers form web-like stromal networks in hematopoietic organs (bone marrow, spleen, lymph nodes), around smooth muscle, and around the cells of parenchymal organs. They cannot be seen on H&E but show up well with silver stains.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-172_pa37_f19.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-173",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "This H&E section shows tightly packed, thick collagen bundles (brackets) all running in the same direction, with scattered flattened nuclei (arrow) and very little ground substance. Which type of connective tissue proper is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reticular connective tissue"
+        },
+        {
+          "label": "B",
+          "text": "Dense irregular connective tissue"
+        },
+        {
+          "label": "C",
+          "text": "Loose (areolar) connective tissue"
+        },
+        {
+          "label": "D",
+          "text": "Dense regular connective tissue"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dense regular connective tissue is made of thick, tightly packed, parallel bundles of type I collagen with scattered fibroblasts and little ground substance. It resists tension from one direction, which suits tendons and ligaments.",
+        "whyCorrect": "Dense regular connective tissue is made of thick, tightly packed, parallel bundles of type I collagen with scattered fibroblasts and little ground substance. It resists tension from one direction, which suits tendons and ligaments.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-173_pa37_f20.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-174",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "This H&E section shows fine fibers (unlabeled arrows), many different cells including the one marked P, and a large amount of optically clear background. Which type of connective tissue proper is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dense irregular connective tissue"
+        },
+        {
+          "label": "B",
+          "text": "Reticular connective tissue"
+        },
+        {
+          "label": "C",
+          "text": "Loose (areolar) connective tissue"
+        },
+        {
+          "label": "D",
+          "text": "Dense regular connective tissue"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Loose (areolar) connective tissue has abundant clear ground substance, numerous cells (fibroblasts, plasma cells [P], macrophages), and fine collagen and elastic fibers. It forms the lamina propria under the epithelium of the GI and respiratory tracts; this field is from the colon.",
+        "whyCorrect": "Loose (areolar) connective tissue has abundant clear ground substance, numerous cells (fibroblasts, plasma cells [P], macrophages), and fine collagen and elastic fibers. It forms the lamina propria under the epithelium of the GI and respiratory tracts; this field is from the colon.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-174_pa37_f21.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-175",
+      "topicId": "introduction-to-histology-and-histology-of-connective-tissue",
+      "topicName": "Introduction to Histology and Histology of Connective Tissue",
+      "stem": "This lymph node section shows a network of fine, dark fibers (arrow) among small pink-staining lymphocytes. These fibers cannot be seen on routine sections. Which staining method was most likely used to show them?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congo red"
+        },
+        {
+          "label": "B",
+          "text": "Silver stain"
+        },
+        {
+          "label": "C",
+          "text": "Hematoxylin and eosin"
+        },
+        {
+          "label": "D",
+          "text": "Prussian blue"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Reticular connective tissue is made of type III collagen (reticulin) fibers in a net-like pattern that supports hematopoietic and lymphoid cells in the bone marrow, lymph nodes and spleen. Reticulin fibers are invisible on H&E but easy to see with silver stains.",
+        "whyCorrect": "Reticular connective tissue is made of type III collagen (reticulin) fibers in a net-like pattern that supports hematopoietic and lymphoid cells in the bone marrow, lymph nodes and spleen. Reticulin fibers are invisible on H&E but easy to see with silver stains.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-175_pa37_f22.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-193",
+      "topicId": "histology-of-epithelial-tissue-1-of-2",
+      "topicName": "Histology of Epithelial Tissue (1 of 2)",
+      "stem": "This schematic shows renal tubular epithelial cells moving molecules from the tubular lumen toward the interstitium. Based on the arrangement shown, how do these epithelial cells normally obtain oxygen and nutrients?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct uptake from the tubular lumen as the only source"
+        },
+        {
+          "label": "B",
+          "text": "Capillaries that run between adjacent epithelial cells"
+        },
+        {
+          "label": "C",
+          "text": "Diffusion from connective tissue vessels across the basement membrane"
+        },
+        {
+          "label": "D",
+          "text": "Lymphatic channels running within the basal lamina"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Epithelial tissues are avascular. Blood vessels sit in the underlying connective tissue (here the renal interstitium), and oxygen, nutrients and signaling molecules diffuse through that connective tissue and across the basement membrane to reach the epithelial cells. The figure shows no vessels within the epithelial layer itself.",
+        "whyCorrect": "Epithelial tissues are avascular. Blood vessels sit in the underlying connective tissue (here the renal interstitium), and oxygen, nutrients and signaling molecules diffuse through that connective tissue and across the basement membrane to reach the epithelial cells. The figure shows no vessels within the epithelial layer itself.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-193_pa39_f40.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-194",
+      "topicId": "histology-of-epithelial-tissue-1-of-2",
+      "topicName": "Histology of Epithelial Tissue (1 of 2)",
+      "stem": "The epithelium drawn in the top-right panel of this schematic is characteristically found lining which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Esophagus and vagina"
+        },
+        {
+          "label": "B",
+          "text": "Trachea and bronchi"
+        },
+        {
+          "label": "C",
+          "text": "Sweat gland ducts"
+        },
+        {
+          "label": "D",
+          "text": "Renal pelvis and bladder"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The top-right panel is pseudostratified columnar epithelium: a single layer of columnar cells, all resting on the basal lamina, whose nuclei sit at different heights so the layer looks stratified. It is the respiratory epithelium of the trachea, bronchi and nasal cavity. The esophagus and vagina are lined by stratified squamous epithelium, the renal pelvis and bladder by transitional epithelium, sweat gland ducts by stratified cuboidal epithelium, and the pleura and peritoneum by simple squamous epithelium.",
+        "whyCorrect": "The top-right panel is pseudostratified columnar epithelium: a single layer of columnar cells, all resting on the basal lamina, whose nuclei sit at different heights so the layer looks stratified. It is the respiratory epithelium of the trachea, bronchi and nasal cavity. The esophagus and vagina are lined by stratified squamous epithelium, the renal pelvis and bladder by transitional epithelium, sweat gland ducts by stratified cuboidal epithelium, and the pleura and peritoneum by simple squamous epithelium.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-194_pa39_f41.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-195",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
+      "stem": "In this section of colonic mucosa, what are the pale, rounded cells marked by the red arrows?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Goblet cells"
+        },
+        {
+          "label": "B",
+          "text": "Adipocytes"
+        },
+        {
+          "label": "C",
+          "text": "Serous cells"
+        },
+        {
+          "label": "D",
+          "text": "Paneth cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "These are goblet cells, which are unicellular exocrine glands named for their wine-glass shape. They are scattered among the columnar cells lining the intestinal and respiratory tracts and release their product (mucus) by exocytosis. Their mucin-filled cytoplasm looks pale on H&E.",
+        "whyCorrect": "These are goblet cells, which are unicellular exocrine glands named for their wine-glass shape. They are scattered among the columnar cells lining the intestinal and respiratory tracts and release their product (mucus) by exocytosis. Their mucin-filled cytoplasm looks pale on H&E.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-195_pa40_f42.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-196",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
+      "stem": "In this gland section, the cells on the left have pale, cleared cytoplasm, while the cells on the right stain purple-blue. What best explains the purple staining of the cells on the right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Numerous lipid droplets that take up hematoxylin"
+        },
+        {
+          "label": "B",
+          "text": "Dense cytokeratin filaments binding eosin dye"
+        },
+        {
+          "label": "C",
+          "text": "Abundant mucin retained after tissue processing"
+        },
+        {
+          "label": "D",
+          "text": "Abundant rough ER whose rRNA binds hematoxylin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The right side shows serous cells. Their cytoplasm is basophilic because it is packed with rough endoplasmic reticulum, and the ribosomal RNA on that RER is negatively charged and binds the basic dye hematoxylin. The left side shows mucous cells. Their mucin is washed out during processing, so their cytoplasm looks clear and their nuclei are flattened toward the edge of the cell.",
+        "whyCorrect": "The right side shows serous cells. Their cytoplasm is basophilic because it is packed with rough endoplasmic reticulum, and the ribosomal RNA on that RER is negatively charged and binds the basic dye hematoxylin. The left side shows mucous cells. Their mucin is washed out during processing, so their cytoplasm looks clear and their nuclei are flattened toward the edge of the cell.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-196_pa40_f43.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-197",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
+      "stem": "Which of the following glands releases its product by the secretory mode illustrated in the right-hand panel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sebaceous gland"
+        },
+        {
+          "label": "B",
+          "text": "Mammary gland"
+        },
+        {
+          "label": "C",
+          "text": "Eccrine sweat gland"
+        },
+        {
+          "label": "D",
+          "text": "Parotid gland"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The right-hand panel shows holocrine secretion. The cell accumulates its product, then dies and becomes part of the secretion ('whole-ocrine'). Sebaceous glands of the skin work this way. Mammary glands are apocrine, and salivary glands (such as the parotid) and eccrine sweat glands are eccrine (merocrine). The lacrimal gland is a serous gland and is not holocrine.",
+        "whyCorrect": "The right-hand panel shows holocrine secretion. The cell accumulates its product, then dies and becomes part of the secretion ('whole-ocrine'). Sebaceous glands of the skin work this way. Mammary glands are apocrine, and salivary glands (such as the parotid) and eccrine sweat glands are eccrine (merocrine). The lacrimal gland is a serous gland and is not holocrine.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-197_pa40_f44.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-198",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
+      "stem": "The glands labeled S drain through ducts (D) into the hair follicle (H). By which mode do these glands release their product?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apocrine secretion"
+        },
+        {
+          "label": "B",
+          "text": "Merocrine secretion"
+        },
+        {
+          "label": "C",
+          "text": "Endocrine secretion"
+        },
+        {
+          "label": "D",
+          "text": "Holocrine secretion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "S marks sebaceous glands, which sit beside hair follicles and are the classic holocrine glands. Their cells accumulate lipid-rich sebum until the whole cell breaks apart and becomes the secretion. This is also why a sebaceous cyst comes back after simple drainage: the glandular lining stays behind.",
+        "whyCorrect": "S marks sebaceous glands, which sit beside hair follicles and are the classic holocrine glands. Their cells accumulate lipid-rich sebum until the whole cell breaks apart and becomes the secretion. This is also why a sebaceous cyst comes back after simple drainage: the glandular lining stays behind.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-198_pa40_f45.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-199",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
+      "stem": "Autoantibodies against a component of the junction shown in the bottom inset of this diagram cause which blistering disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pemphigus vulgaris"
+        },
+        {
+          "label": "B",
+          "text": "Kartagener syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Bullous pemphigoid"
+        },
+        {
+          "label": "D",
+          "text": "Acne vulgaris"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The bottom inset is a hemidesmosome. Its integrins anchor the basal epithelial cell to laminin in the basement membrane. In bullous pemphigoid, autoantibodies against a hemidesmosome component separate the epidermis from the basal lamina and cause blisters, with antibodies seen at the dermal-epidermal junction on immunofluorescence. Pemphigus vulgaris instead targets desmoglein in spot desmosomes.",
+        "whyCorrect": "The bottom inset is a hemidesmosome. Its integrins anchor the basal epithelial cell to laminin in the basement membrane. In bullous pemphigoid, autoantibodies against a hemidesmosome component separate the epidermis from the basal lamina and cause blisters, with antibodies seen at the dermal-epidermal junction on immunofluorescence. Pemphigus vulgaris instead targets desmoglein in spot desmosomes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-199_pa40_f46.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-200",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
+      "stem": "What is the primary function of the intercellular junction shown in this diagram?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Linking the actin cytoskeletons of neighboring cells"
+        },
+        {
+          "label": "B",
+          "text": "Anchoring the basal cell surface to the basement membrane"
+        },
+        {
+          "label": "C",
+          "text": "Sealing the intercellular space against paracellular leakage"
+        },
+        {
+          "label": "D",
+          "text": "Direct passage of small ions and molecules between cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is a gap junction. Connexins assemble into a cylindrical connexon that can open or close, which lets small ions and molecules pass directly from one cell to the next. That allows epithelial cells, and cardiac muscle cells, to act as a coordinated unit. The distractors describe the other junctions: tight junctions seal the space, hemidesmosomes anchor to the basement membrane, belt desmosomes link actin, and spot desmosomes link intermediate filaments.",
+        "whyCorrect": "This is a gap junction. Connexins assemble into a cylindrical connexon that can open or close, which lets small ions and molecules pass directly from one cell to the next. That allows epithelial cells, and cardiac muscle cells, to act as a coordinated unit. The distractors describe the other junctions: tight junctions seal the space, hemidesmosomes anchor to the basement membrane, belt desmosomes link actin, and spot desmosomes link intermediate filaments.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-200_pa40_f47.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-201",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
+      "stem": "The outermost layer of the skin in this diagram is composed of which tissue type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dense irregular collagenous connective tissue"
+        },
+        {
+          "label": "B",
+          "text": "Pseudostratified ciliated columnar epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Keratinized stratified squamous epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Nonkeratinized stratified squamous epithelium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The epidermis is keratinized stratified squamous epithelium. Keratin left behind as superficial cells die keeps the skin dry and waterproof. The dermis below it is dense irregular connective tissue, and the hypodermis contains adipose tissue.",
+        "whyCorrect": "The epidermis is keratinized stratified squamous epithelium. Keratin left behind as superficial cells die keeps the skin dry and waterproof. The dermis below it is dense irregular connective tissue, and the hypodermis contains adipose tissue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-201_pa40_f48.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-202",
+      "topicId": "histology-of-epithelial-tissue-2-of-2",
+      "topicName": "Histology of Epithelial Tissue (2 of 2)",
+      "stem": "In this section of skin, structure 4 runs obliquely from the dermis to attach to the hair follicle (6). What type of tissue is structure 4?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adipose tissue"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac muscle"
+        },
+        {
+          "label": "C",
+          "text": "Skeletal muscle"
+        },
+        {
+          "label": "D",
+          "text": "Smooth muscle"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Structure 4 is the arrector pili muscle, a bundle of smooth muscle attached to the hair follicle that makes the hair stand up. The other numbered structures are the epidermis (1), dermis (2), sebaceous gland (3), adipose tissue of the hypodermis (5) and hair follicle (6).",
+        "whyCorrect": "Structure 4 is the arrector pili muscle, a bundle of smooth muscle attached to the hair follicle that makes the hair stand up. The other numbered structures are the epidermis (1), dermis (2), sebaceous gland (3), adipose tissue of the hypodermis (5) and hair follicle (6).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-202_pa40_f49.jpg",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

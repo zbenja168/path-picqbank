@@ -3,6 +3,671 @@
   "categoryName": "Session 2",
   "questions": [
     {
+      "id": "papic-203",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "Gross lung (A) and a microscopic section (B) from a patient with bronchopneumonia. The yellow nodules (arrows) correspond to a central collection of degenerating neutrophils and debris walled off by congested vessels and early fibrosis. Which lesion is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abscess"
+        },
+        {
+          "label": "B",
+          "text": "Gumma"
+        },
+        {
+          "label": "C",
+          "text": "Infarct"
+        },
+        {
+          "label": "D",
+          "text": "Caseating granuloma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An abscess is a localized collection of purulence (liquefactive necrosis of dead and dying neutrophils and debris) with a surrounding wall of connective tissue that attempts to wall off the infection. It is the classic lesion of suppurative inflammation caused by pyogenic bacteria such as staphylococci.",
+        "whyCorrect": "An abscess is a localized collection of purulence (liquefactive necrosis of dead and dying neutrophils and debris) with a surrounding wall of connective tissue that attempts to wall off the infection. It is the classic lesion of suppurative inflammation caused by pyogenic bacteria such as staphylococci.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-203_pa41_f50.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-204",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "A silver stain of a tissue biopsy highlights the black, corkscrew-shaped organisms shown. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "D",
+          "text": "Treponema pallidum"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The spiral (corkscrew) morphology seen black on silver stain is characteristic of the spirochete Treponema pallidum, the cause of syphilis. Primary and secondary syphilis produce perivascular lymphoplasmacytic inflammation; tertiary syphilis becomes granulomatous (gummas).",
+        "whyCorrect": "The spiral (corkscrew) morphology seen black on silver stain is characteristic of the spirochete Treponema pallidum, the cause of syphilis. Primary and secondary syphilis produce perivascular lymphoplasmacytic inflammation; tertiary syphilis becomes granulomatous (gummas).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-204_pa41_f51.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-205",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "Skin biopsy from a patient with a diffuse rash in the second stage of an untreated sexually transmitted infection. Which inflammatory pattern is shown around the central vessels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Perivascular lymphocytic (mononuclear) inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Foreign body granulomatous reaction"
+        },
+        {
+          "label": "C",
+          "text": "Suppurative inflammation with abscess formation"
+        },
+        {
+          "label": "D",
+          "text": "Caseating granulomatous inflammation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cells with single round purple nuclei and scant cytoplasm (lymphocytes, with plasma cells) cuff the vessels. Primary and secondary syphilis show this perivascular lymphoplasmacytic pattern; granulomas (gummas) appear only in the tertiary stage.",
+        "whyCorrect": "Cells with single round purple nuclei and scant cytoplasm (lymphocytes, with plasma cells) cuff the vessels. Primary and secondary syphilis show this perivascular lymphoplasmacytic pattern; granulomas (gummas) appear only in the tertiary stage.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-205_pa41_f52.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-206",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "A lip biopsy of minor salivary gland is taken from a woman with dry eyes and dry mouth. A dense lymphocytic aggregate surrounds a central vessel among the glandular acini. Autoantibodies against which antigens drive this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Collagen type IV of basement membrane"
+        },
+        {
+          "label": "B",
+          "text": "Double-stranded DNA and Smith"
+        },
+        {
+          "label": "C",
+          "text": "Proteinase 3 (PR3-ANCA)"
+        },
+        {
+          "label": "D",
+          "text": "SS-A (Ro) and SS-B (La)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sjogren disease results from autoimmune attack of SS-A (Ro) and SS-B (La) antigens, destroying lacrimal and salivary glands (dry eyes and mouth). Histology shows dense lymphocytic inflammation, including around vessels - a pattern that overlaps with primary/secondary syphilis, so clinical and lab findings are needed.",
+        "whyCorrect": "Sjogren disease results from autoimmune attack of SS-A (Ro) and SS-B (La) antigens, destroying lacrimal and salivary glands (dry eyes and mouth). Histology shows dense lymphocytic inflammation, including around vessels - a pattern that overlaps with primary/secondary syphilis, so clinical and lab findings are needed.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-206_pa41_f53.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-207",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "Lung and hilar lymph node with friable, cheesy white lesions (arrows); microscopy shows a granuloma with central necrosis (A) and giant cells (B, C). A special stain (D) highlights red rod-shaped organisms. Which property of the organism allows it to retain this stain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thick peptidoglycan cell wall"
+        },
+        {
+          "label": "B",
+          "text": "Polysaccharide capsule"
+        },
+        {
+          "label": "C",
+          "text": "Mycolic acid in a waxy cell wall"
+        },
+        {
+          "label": "D",
+          "text": "Lipopolysaccharide outer membrane"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "These are caseating granulomas of tuberculosis. M. tuberculosis has a waxy cell wall containing mycolic acid, which lets it retain stain after acid-alcohol treatment - hence 'acid-fast'. An AFB stain (panel D) is used to look for mycobacteria in a granuloma.",
+        "whyCorrect": "These are caseating granulomas of tuberculosis. M. tuberculosis has a waxy cell wall containing mycolic acid, which lets it retain stain after acid-alcohol treatment - hence 'acid-fast'. An AFB stain (panel D) is used to look for mycobacteria in a granuloma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-207_pa41_f54.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-208",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "Skin biopsy of a nodule shows a pale, oval, acellular object in the dermis surrounded by a dense inflammatory reaction. Which pattern of inflammation is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Perivascular lymphocytic infiltrate"
+        },
+        {
+          "label": "B",
+          "text": "Foreign body granulomatous reaction"
+        },
+        {
+          "label": "C",
+          "text": "Caseating infectious granuloma"
+        },
+        {
+          "label": "D",
+          "text": "Abscess with liquefactive necrosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Granulomas can form in response to foreign material. Here a splinter, seen in cross-section as a white oval object, is surrounded by a granulomatous reaction of macrophages and giant cells - a foreign body granuloma, not an infectious one.",
+        "whyCorrect": "Granulomas can form in response to foreign material. Here a splinter, seen in cross-section as a white oval object, is surrounded by a granulomatous reaction of macrophages and giant cells - a foreign body granuloma, not an infectious one.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-208_pa41_f55.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-209",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "Lung tissue from a patient who injects crushed pills shows white, jagged material surrounded by epithelioid and multinucleated giant cells (left). Under polarized light the material glows brightly (right). This brightness is due to which property?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemosiderin content"
+        },
+        {
+          "label": "B",
+          "text": "Autofluorescence"
+        },
+        {
+          "label": "C",
+          "text": "Birefringence"
+        },
+        {
+          "label": "D",
+          "text": "Acid-fastness"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Injected or inhaled drugs can introduce talc, which provokes a foreign body granulomatous reaction near blood vessels. Talc is birefringent (has two refractive indices), so it appears bright under polarized light.",
+        "whyCorrect": "Injected or inhaled drugs can introduce talc, which provokes a foreign body granulomatous reaction near blood vessels. Talc is birefringent (has two refractive indices), so it appears bright under polarized light.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-209_pa41_f56.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-210",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "Biopsy of vulvar epithelium. The arrows mark cells showing multinucleation, nuclei molding against each other, and chromatin condensed into a dark peripheral rim. Which agent most likely caused these changes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "B",
+          "text": "Treponema pallidum"
+        },
+        {
+          "label": "C",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "D",
+          "text": "Human papillomavirus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Multinucleation, nuclear molding and nuclear margination are the cytopathic changes of herpes simplex virus infection. Cytopathic-cytoproliferative reactions are caused by viruses replicating inside cells; HPV instead causes proliferation (verrucous warts).",
+        "whyCorrect": "Multinucleation, nuclear molding and nuclear margination are the cytopathic changes of herpes simplex virus infection. Cytopathic-cytoproliferative reactions are caused by viruses replicating inside cells; HPV instead causes proliferation (verrucous warts).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-210_pa41_f57.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-211",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "A young woman with arthritis, oral ulcers and pancytopenia has the facial rash shown, spanning both cheeks and the nasal bridge. Which laboratory finding best supports the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-collagen type IV antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Anti-double-stranded DNA antibodies"
+        },
+        {
+          "label": "C",
+          "text": "Anti-SS-A (Ro)/SS-B (La) antibodies"
+        },
+        {
+          "label": "D",
+          "text": "PR3-ANCA (c-ANCA) positivity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A butterfly-shaped malar rash with arthritis, oral ulcers and pancytopenia indicates systemic lupus erythematosus. ANA plus anti-dsDNA or anti-Smith antibodies are present in SLE. PR3-ANCA = GPA, anti-collagen IV = Goodpasture, SS-A/SS-B = Sjogren, elevated ACE = sarcoidosis.",
+        "whyCorrect": "A butterfly-shaped malar rash with arthritis, oral ulcers and pancytopenia indicates systemic lupus erythematosus. ANA plus anti-dsDNA or anti-Smith antibodies are present in SLE. PR3-ANCA = GPA, anti-collagen IV = Goodpasture, SS-A/SS-B = Sjogren, elevated ACE = sarcoidosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-211_pa41_f58.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-212",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "Skin biopsy from a patient with a multisystem autoimmune disease: H&E (A) shows basal layer degeneration and dermoepidermal junction edema; immunofluorescence for IgG (B) shows a bright band along the dermoepidermal junction. Which mechanism do these deposits reflect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ANCA-mediated neutrophil activation"
+        },
+        {
+          "label": "B",
+          "text": "T cell-driven granuloma formation"
+        },
+        {
+          "label": "C",
+          "text": "IgE-mediated mast cell degranulation"
+        },
+        {
+          "label": "D",
+          "text": "Immune complex deposition with complement activation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is cutaneous SLE. SLE is a type III hypersensitivity: immune complexes deposit (here IgG along the dermoepidermal junction) and activate complement, causing widespread inflammation such as liquefactive degeneration of the basal epidermis.",
+        "whyCorrect": "This is cutaneous SLE. SLE is a type III hypersensitivity: immune complexes deposit (here IgG along the dermoepidermal junction) and activate complement, causing widespread inflammation such as liquefactive degeneration of the basal epidermis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-212_pa41_f59.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-213",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "A 20-year-old man presents with hemoptysis and rapidly worsening renal function. Lung biopsy shows intra-alveolar hemorrhage, and an iron stain colors many alveolar macrophages blue. Circulating autoantibodies in this disease target which antigen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A component of collagen type IV"
+        },
+        {
+          "label": "B",
+          "text": "Double-stranded DNA"
+        },
+        {
+          "label": "C",
+          "text": "Proteinase 3 in neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "SS-A (Ro) and SS-B (La)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Goodpasture (anti-GBM) syndrome: autoantibodies against a component of type IV collagen in basement membranes destroy alveolar walls (hemorrhage, hemoptysis) and glomeruli (rapidly progressive renal failure). Macrophages that phagocytize blood products contain hemosiderin, highlighted by Prussian blue.",
+        "whyCorrect": "Goodpasture (anti-GBM) syndrome: autoantibodies against a component of type IV collagen in basement membranes destroy alveolar walls (hemorrhage, hemoptysis) and glomeruli (rapidly progressive renal failure). Macrophages that phagocytize blood products contain hemosiderin, highlighted by Prussian blue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-213_pa41_f60.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-214",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "A 46-year-old man with chronic sinus congestion, epistaxis, hemoptysis and dark urine has the skin lesions shown on his leg. Which serologic finding is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-SS-A (Ro)/SS-B (La) antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Anti-glomerular basement membrane antibodies"
+        },
+        {
+          "label": "C",
+          "text": "PR3-ANCA (c-ANCA) positivity"
+        },
+        {
+          "label": "D",
+          "text": "Anti-double-stranded DNA antibodies"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Petechial/purpuric skin lesions plus the triad of upper respiratory, lung and kidney involvement in an adult point to granulomatosis with polyangiitis, a small-vessel vasculitis mediated by antibodies to proteinase 3 (PR3-ANCA, formerly c-ANCA). Patient age (adult, not child) helps exclude IgA vasculitis.",
+        "whyCorrect": "Petechial/purpuric skin lesions plus the triad of upper respiratory, lung and kidney involvement in an adult point to granulomatosis with polyangiitis, a small-vessel vasculitis mediated by antibodies to proteinase 3 (PR3-ANCA, formerly c-ANCA). Patient age (adult, not child) helps exclude IgA vasculitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-214_pa41_f61.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-215",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "Biopsy from a patient with upper respiratory, pulmonary and renal disease shows multinucleated giant cells (arrows) with vague granulomatous inflammation (B) and an inflamed, damaged vessel wall around a lumen (asterisk, C). Which histologic pattern is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Necrotizing granulomatous vasculitis"
+        },
+        {
+          "label": "B",
+          "text": "Caseating granulomas with acid-fast bacilli"
+        },
+        {
+          "label": "C",
+          "text": "Perivascular lymphoplasmacytic infiltrate"
+        },
+        {
+          "label": "D",
+          "text": "Non-necrotizing granulomas with asteroid bodies"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Granulomatosis with polyangiitis shows a necrotizing, granulomatous vasculitis of small-to-medium vessels: giant cells and granulomatous inflammation together with vessels injured by inflammation. Granulomatous destruction of blood vessels is the finding that best supports GPA.",
+        "whyCorrect": "Granulomatosis with polyangiitis shows a necrotizing, granulomatous vasculitis of small-to-medium vessels: giant cells and granulomatous inflammation together with vessels injured by inflammation. Granulomatous destruction of blood vessels is the finding that best supports GPA.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-215_pa41_f62.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-216",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "A 5-year-old boy has abdominal pain, joint pains and hematuria along with the rash shown over the backs of his legs. Which mechanism underlies this disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PR3-ANCA activation of neutrophils"
+        },
+        {
+          "label": "B",
+          "text": "Th1 cytokine-driven granuloma formation"
+        },
+        {
+          "label": "C",
+          "text": "IgA-dominant immune complex deposition"
+        },
+        {
+          "label": "D",
+          "text": "Anti-basement membrane antibody binding"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Henoch-Schonlein purpura (IgA vasculitis) is a childhood syndrome (ages 3-8) of purpuric skin lesions on extensor surfaces and buttocks, abdominal pain/GI bleeding, arthralgias and renal abnormalities. Like SLE, it is due to immune complex deposition, usually IgA +/- IgG and C3.",
+        "whyCorrect": "Henoch-Schonlein purpura (IgA vasculitis) is a childhood syndrome (ages 3-8) of purpuric skin lesions on extensor surfaces and buttocks, abdominal pain/GI bleeding, arthralgias and renal abnormalities. Like SLE, it is due to immune complex deposition, usually IgA +/- IgG and C3.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-216_pa41_f63.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-217",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "Kidney biopsy from a 6-year-old with a purpuric leg rash, abdominal pain and hematuria. A Jones silver stain (left) shows an early crescent (arrow) and increased mesangial matrix; immunofluorescence (right) shows diffuse mesangial deposits. Which immunoglobulin dominates these deposits?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgG"
+        },
+        {
+          "label": "B",
+          "text": "IgA"
+        },
+        {
+          "label": "C",
+          "text": "IgE"
+        },
+        {
+          "label": "D",
+          "text": "IgM"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In Henoch-Schonlein purpura (IgA vasculitis), immune complexes are usually IgA (+/- IgG and C3). Renal involvement ranges from hematuria to nephritic or nephrotic syndrome; immunofluorescence shows global, diffuse mesangial and segmental capillary loop IgA deposition.",
+        "whyCorrect": "In Henoch-Schonlein purpura (IgA vasculitis), immune complexes are usually IgA (+/- IgG and C3). Renal involvement ranges from hematuria to nephritic or nephrotic syndrome; immunofluorescence shows global, diffuse mesangial and segmental capillary loop IgA deposition.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-217_pa41_f64.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-218",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "Biopsy from a young adult shows granulomas without central necrosis in a fibrotic background (A, arrows). Panel B shows a star-shaped structure within a cleared space inside a histiocyte (arrow). What is the structure in panel B?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Birefringent talc crystal"
+        },
+        {
+          "label": "B",
+          "text": "Viral inclusion body"
+        },
+        {
+          "label": "C",
+          "text": "Asteroid body"
+        },
+        {
+          "label": "D",
+          "text": "Acid-fast bacillus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Asteroid bodies - a star resembling structure in a cleared circle within histiocytes - may be seen in the non-necrotizing granulomas of sarcoidosis. They are not specific, and sarcoidosis remains a diagnosis of exclusion (infections must be ruled out).",
+        "whyCorrect": "Asteroid bodies - a star resembling structure in a cleared circle within histiocytes - may be seen in the non-necrotizing granulomas of sarcoidosis. They are not specific, and sarcoidosis remains a diagnosis of exclusion (infections must be ruled out).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-218_pa41_f65.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-219",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "A 32-year-old woman has several months of cough and dyspnea. Her chest X-ray (right) is shown beside a normal film (left); arrows mark the abnormality. Infectious causes are excluded. Which laboratory finding would best support the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-glomerular basement membrane antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Anti-double-stranded DNA antibodies"
+        },
+        {
+          "label": "C",
+          "text": "Positive PR3-ANCA (c-ANCA)"
+        },
+        {
+          "label": "D",
+          "text": "Elevated serum ACE level"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bilateral hilar lymphadenopathy in a young adult with cough and dyspnea is the classic presentation of sarcoidosis, a systemic non-necrotizing granulomatous disease. It is a diagnosis of exclusion, and elevated serum angiotensin-converting enzyme (ACE) is a helpful supporting lab finding.",
+        "whyCorrect": "Bilateral hilar lymphadenopathy in a young adult with cough and dyspnea is the classic presentation of sarcoidosis, a systemic non-necrotizing granulomatous disease. It is a diagnosis of exclusion, and elevated serum angiotensin-converting enzyme (ACE) is a helpful supporting lab finding.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-219_pa41_f66.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-220",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "Red, tender nodules on the anterior lower legs, shown in an acute (left) and a resolving (right) phase. What is the name of this skin finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "B",
+          "text": "Palpable purpura"
+        },
+        {
+          "label": "C",
+          "text": "Malar rash"
+        },
+        {
+          "label": "D",
+          "text": "Lupus pernio"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Erythema nodosum refers to red, tender nodules most commonly on the anterior and lateral lower extremities. It is a non-specific finding but is one of the cutaneous manifestations of sarcoidosis.",
+        "whyCorrect": "Erythema nodosum refers to red, tender nodules most commonly on the anterior and lateral lower extremities. It is a non-specific finding but is one of the cutaneous manifestations of sarcoidosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-220_pa41_f67.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-221",
+      "topicId": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+      "topicName": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+      "stem": "A woman has painful, raised lesions on the nose, beneath the eyes and on the cheeks, as shown. This specific skin pattern is a manifestation of which systemic disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgA vasculitis (HSP)"
+        },
+        {
+          "label": "B",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "C",
+          "text": "Systemic lupus erythematosus"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatosis with polyangiitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lupus pernio - painful lesions of the nose, beneath the eyes and cheeks - is a cutaneous manifestation of sarcoidosis (along with erythema nodosum and maculopapular lesions). Despite its name, it is not the malar rash of SLE.",
+        "whyCorrect": "Lupus pernio - painful lesions of the nose, beneath the eyes and cheeks - is a cutaneous manifestation of sarcoidosis (along with erythema nodosum and maculopapular lesions). Despite its name, it is not the malar rash of SLE.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-221_pa41_f68.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
       "id": "papic-009",
       "topicId": "transplantation",
       "topicName": "Transplantation",

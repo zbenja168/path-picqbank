@@ -1,6 +1,39 @@
 {
   "categories": [
     {
+      "id": "w1s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "histology-of-muscle-and-nervous-tissue",
+          "name": "Histology of Muscle and Nervous Tissue",
+          "sourceFile": "brick",
+          "questionCount": 17
+        },
+        {
+          "id": "introduction-to-histology-and-histology-of-connective-tissue",
+          "name": "Introduction to Histology and Histology of Connective Tissue",
+          "sourceFile": "brick",
+          "questionCount": 19
+        },
+        {
+          "id": "histology-of-epithelial-tissue-1-of-2",
+          "name": "Histology of Epithelial Tissue (1 of 2)",
+          "sourceFile": "brick",
+          "questionCount": 2
+        },
+        {
+          "id": "histology-of-epithelial-tissue-2-of-2",
+          "name": "Histology of Epithelial Tissue (2 of 2)",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
       "id": "w1s2",
       "name": "Session 2",
       "topics": [
@@ -73,6 +106,12 @@
       "id": "w2s2",
       "name": "Session 2",
       "topics": [
+        {
+          "id": "pathologic-manifestations-of-infectious-and-immune-related-diseases",
+          "name": "Pathologic Manifestations of Infectious and Immune-related Diseases",
+          "sourceFile": "brick",
+          "questionCount": 19
+        },
         {
           "id": "transplantation",
           "name": "Transplantation",
@@ -164,7 +203,22 @@
       "week": 3,
       "weekName": "Week 3",
       "weekSubtitle": ""
+    },
+    {
+      "id": "w3s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "cancer-growth-metastasis-and-medications-overview",
+          "name": "Cancer Growth, Metastasis, and Medications Overview",
+          "sourceFile": "brick",
+          "questionCount": 9
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     }
   ],
-  "totalQuestions": 96
+  "totalQuestions": 170
 }

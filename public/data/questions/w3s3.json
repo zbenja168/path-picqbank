@@ -1,0 +1,321 @@
+{
+  "categoryId": "w3s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "papic-222",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "stem": "This wheel summarizes the shared changes in cell physiology that unite all cancers. What is this framework called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "TNM staging system"
+        },
+        {
+          "label": "B",
+          "text": "Hallmarks of cancer"
+        },
+        {
+          "label": "C",
+          "text": "Two-hit hypothesis"
+        },
+        {
+          "label": "D",
+          "text": "Tumor grading scheme"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The lecture states that all cancers are united in fundamental changes in cell physiology, the so-called 'hallmarks of cancer' (Figure 1), which include activating invasion and metastasis, the focus of this brick.",
+        "whyCorrect": "The lecture states that all cancers are united in fundamental changes in cell physiology, the so-called 'hallmarks of cancer' (Figure 1), which include activating invasion and metastasis, the focus of this brick.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-222_pa42_f69.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-223",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "stem": "Two breast masses are shown in cut section: a rounded, sharply demarcated nodule (left) and a stellate yellow-white mass (right). Which feature of the right-hand mass most reliably indicates malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thin fibrous capsule around the tumor"
+        },
+        {
+          "label": "B",
+          "text": "Irregular border infiltrating adjacent tissue"
+        },
+        {
+          "label": "C",
+          "text": "Larger overall size than the left mass"
+        },
+        {
+          "label": "D",
+          "text": "Yellow-tan color of the cut surface"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Next to metastasis, invasiveness is the most reliable discriminator between benign and malignant tumors. The left lesion (fibroadenoma) is encapsulated and sharply demarcated; the right (invasive ductal carcinoma) has an irregular border showing infiltration into surrounding tissue.",
+        "whyCorrect": "Next to metastasis, invasiveness is the most reliable discriminator between benign and malignant tumors. The left lesion (fibroadenoma) is encapsulated and sharply demarcated; the right (invasive ductal carcinoma) has an irregular border showing infiltration into surrounding tissue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-223_pa42_f70.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-224",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "stem": "The diagram traces tumor cells from the primary site through the bloodstream to a distant organ. Why do circulating tumor cells tend to lodge in the first capillary bed they reach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are larger than most blood cells"
+        },
+        {
+          "label": "B",
+          "text": "Capillaries lack any basement membrane"
+        },
+        {
+          "label": "C",
+          "text": "Shear stress is highest within capillaries"
+        },
+        {
+          "label": "D",
+          "text": "They secrete proteases that halt blood flow"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The lecture notes that a tumor cell is significantly larger than most blood cells and will therefore likely get stuck at the first capillary bed it crosses; this helps explain why the liver and lungs are the most common sites of hematogenous metastasis.",
+        "whyCorrect": "The lecture notes that a tumor cell is significantly larger than most blood cells and will therefore likely get stuck at the first capillary bed it crosses; this helps explain why the liver and lungs are the most common sites of hematogenous metastasis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-224_pa42_f71.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-225",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "stem": "In the intercellular junction where the blue adhesion molecules link to the bundle of actin filaments, which protein binds E-cadherin and (via alpha-catenin) connects it to the actin cytoskeleton?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-catenin"
+        },
+        {
+          "label": "B",
+          "text": "Desmoplakin"
+        },
+        {
+          "label": "C",
+          "text": "Integrin"
+        },
+        {
+          "label": "D",
+          "text": "Keratin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Beta-catenin binds E-cadherin adhesion receptors and, via alpha-catenin, associates with the actin cytoskeleton to form the zona adherens. Cancers begin invasion by disrupting E-cadherin or catenins.",
+        "whyCorrect": "Beta-catenin binds E-cadherin adhesion receptors and, via alpha-catenin, associates with the actin cytoskeleton to form the zona adherens. Cancers begin invasion by disrupting E-cadherin or catenins.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-225_pa42_f72.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-226",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "stem": "This diagram shows a detached tumor cell degrading the underlying basement membrane with secreted enzymes. Besides the tumor cells themselves, which cells in the surrounding tissue can be induced to supply these enzymes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Macrophages and fibroblasts"
+        },
+        {
+          "label": "B",
+          "text": "Platelets and megakaryocytes"
+        },
+        {
+          "label": "C",
+          "text": "Plasma cells and B cells"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophils and eosinophils"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tumor cells cross the basement membrane and extracellular matrix by cleaving them with proteases, which are secreted by the tumor cells themselves or induced from macrophages or fibroblasts in the surrounding tissue. Protease release also frees growth-promoting agents.",
+        "whyCorrect": "Tumor cells cross the basement membrane and extracellular matrix by cleaving them with proteases, which are secreted by the tumor cells themselves or induced from macrophages or fibroblasts in the surrounding tissue. Protease release also frees growth-promoting agents.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-226_pa42_f73.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-227",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "stem": "A breast biopsy shows tumor cells with loss of architecture infiltrating in single file (circled, left). An immunostain (right) shows no brown staining of the tumor cells, while normal ducts stain. Loss of which protein explains this growth pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Estrogen receptor"
+        },
+        {
+          "label": "B",
+          "text": "E-cadherin"
+        },
+        {
+          "label": "C",
+          "text": "HER2"
+        },
+        {
+          "label": "D",
+          "text": "Laminin receptor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Invasive lobular carcinoma downregulates E-cadherin, so cells separate easily and infiltrate in single file. The immunostain shows lack of E-cadherin (no brown staining) in the tumor cells, while residual normal ducts retain staining.",
+        "whyCorrect": "Invasive lobular carcinoma downregulates E-cadherin, so cells separate easily and infiltrate in single file. The immunostain shows lack of E-cadherin (no brown staining) in the tumor cells, while residual normal ducts retain staining.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-227_pa42_f74.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-228",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "stem": "A lymph node section shows aggregates of epithelial tumor cells within the node and a dilated channel filled with tumor cells (arrows). Which primary tumor most typically spreads by this route?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal cell carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Choriocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Breast carcinoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Carcinomas are associated with lymphatic spread, and breast cancer is the lecture's example (upper outer quadrant tumors drain first to axillary nodes). Renal cell, choriocarcinoma, hepatocellular, and follicular thyroid carcinomas are the four carcinomas known for hematogenous spread.",
+        "whyCorrect": "Carcinomas are associated with lymphatic spread, and breast cancer is the lecture's example (upper outer quadrant tumors drain first to axillary nodes). Renal cell, choriocarcinoma, hepatocellular, and follicular thyroid carcinomas are the four carcinomas known for hematogenous spread.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-228_pa42_f75.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-229",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "stem": "A tumor of mesenchymal origin shows a nest of tumor cells filling a vascular lumen within the surrounding wall. Why is spread through arteries less common than spread through veins?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arterial blood has lower shear stress"
+        },
+        {
+          "label": "B",
+          "text": "Arterial walls lack a basement membrane"
+        },
+        {
+          "label": "C",
+          "text": "Arterial walls are thicker with more elastin"
+        },
+        {
+          "label": "D",
+          "text": "Arteries drain directly into the liver"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sarcomas are associated with hematogenous spread, which can occur through arteries or veins. Arteries are thicker and harder to penetrate because of their elastin content, so arterial spread is less common; venous spread follows normal venous drainage to the first capillary bed.",
+        "whyCorrect": "Sarcomas are associated with hematogenous spread, which can occur through arteries or veins. Arteries are thicker and harder to penetrate because of their elastin content, so arterial spread is less common; venous spread follows normal venous drainage to the first capillary bed.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-229_pa42_f76.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "papic-230",
+      "topicId": "cancer-growth-metastasis-and-medications-overview",
+      "topicName": "Cancer Growth, Metastasis, and Medications Overview",
+      "stem": "This resected omentum is studded with innumerable tumor nodules from a pelvic primary. Which route of tumor spread produced this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Seeding of a body cavity"
+        },
+        {
+          "label": "B",
+          "text": "Lymphatic spread to nodes"
+        },
+        {
+          "label": "C",
+          "text": "Hematogenous venous spread"
+        },
+        {
+          "label": "D",
+          "text": "Hematogenous arterial spread"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Seeding requires an open space such as the peritoneal cavity, pleural cavity, subarachnoid space, or joint cavities. Ovarian carcinoma is the classic example, seeding the peritoneal cavity and omentum.",
+        "whyCorrect": "Seeding requires an open space such as the peritoneal cavity, pleural cavity, subarachnoid space, or joint cavities. Ovarian carcinoma is the classic example, seeding the peritoneal cavity and omentum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "papic-230_pa42_f77.jpg",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
