@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The labeled superior/inferior vena cava, aorta, pulmonary artery and veins, atria, and ventricles identify this as a dissection of the heart, demonstrating the four-chamber cardiac anatomy.",
         "whyCorrect": "The labeled superior/inferior vena cava, aorta, pulmonary artery and veins, atria, and ventricles identify this as a dissection of the heart, demonstrating the four-chamber cardiac anatomy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The spleen is a solid organ without chambers or great vessels; it has a hilum with splenic artery and vein only.",
+          "B": "The lung has lobes, bronchi and pleura but no atria or ventricles.",
+          "C": "The liver is a solid lobed organ with portal vein, hepatic artery and bile ducts, not four chambers.",
+          "E": "The kidney has cortex, medulla and a renal pelvis; it does not connect to vena cavae, aorta and pulmonary vessels as chambers."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-001_pa002_f04.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The autopsy internal exam classically begins with a Y-shaped incision extending from each shoulder to the mid-chest and down the midline, allowing the thoracic and abdominal cavities to be opened as shown.",
         "whyCorrect": "The autopsy internal exam classically begins with a Y-shaped incision extending from each shoulder to the mid-chest and down the midline, allowing the thoracic and abdominal cavities to be opened as shown.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A Kocher incision is a right subcostal surgical approach to the gallbladder, not the autopsy approach.",
+          "B": "A median sternotomy splits the sternum for cardiac surgery and does not open the abdomen.",
+          "C": "A McBurney incision is a small right lower quadrant incision for appendectomy.",
+          "D": "A midline laparotomy opens only the abdomen; the autopsy incision adds limbs from the shoulders to expose the chest."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-052_pa002_f03.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The uniform micro/macronodular architecture with intervening fibrous bands in a liver from a chronic alcohol user is characteristic of cirrhosis, the end-stage of diffuse hepatic fibrosis and regenerative nodule formation.",
         "whyCorrect": "The uniform micro/macronodular architecture with intervening fibrous bands in a liver from a chronic alcohol user is characteristic of cirrhosis, the end-stage of diffuse hepatic fibrosis and regenerative nodule formation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Chronic passive congestion gives a nutmeg pattern of dark centrilobular areas, not diffuse nodules with fibrous bands.",
+          "C": "Hepatocellular carcinoma forms a dominant mass or masses, often arising in cirrhosis, rather than uniform diffuse nodularity.",
+          "D": "Steatosis makes the liver enlarged, yellow, soft and greasy with a smooth surface, not firm and nodular.",
+          "E": "Amyloidosis produces an enlarged, firm, waxy pale liver without regenerative nodules."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-053_pa002_f05.png",

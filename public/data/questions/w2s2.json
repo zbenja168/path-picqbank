@@ -29,7 +29,11 @@
       "explanation": {
         "summary": "An abscess is a localized collection of purulence (liquefactive necrosis of dead and dying neutrophils and debris) with a surrounding wall of connective tissue that attempts to wall off the infection. It is the classic lesion of suppurative inflammation caused by pyogenic bacteria such as staphylococci.",
         "whyCorrect": "An abscess is a localized collection of purulence (liquefactive necrosis of dead and dying neutrophils and debris) with a surrounding wall of connective tissue that attempts to wall off the infection. It is the classic lesion of suppurative inflammation caused by pyogenic bacteria such as staphylococci.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A gumma is the granulomatous lesion of tertiary syphilis with rubbery central necrosis, not a neutrophil-rich collection in bronchopneumonia.",
+          "C": "An infarct is ischemic coagulative necrosis, typically wedge-shaped and hemorrhagic in the lung, without a central pool of neutrophils.",
+          "D": "A caseating granuloma has central cheesy necrosis rimmed by epithelioid macrophages and giant cells, not degenerating neutrophils."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-203_pa41_f50.jpg",
@@ -64,7 +68,11 @@
       "explanation": {
         "summary": "The spiral (corkscrew) morphology seen black on silver stain is characteristic of the spirochete Treponema pallidum, the cause of syphilis. Primary and secondary syphilis produce perivascular lymphoplasmacytic inflammation; tertiary syphilis becomes granulomatous (gummas).",
         "whyCorrect": "The spiral (corkscrew) morphology seen black on silver stain is characteristic of the spirochete Treponema pallidum, the cause of syphilis. Primary and secondary syphilis produce perivascular lymphoplasmacytic inflammation; tertiary syphilis becomes granulomatous (gummas).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mycobacterium tuberculosis is a thin, straight rod seen red on acid-fast stain, not a corkscrew on silver stain.",
+          "B": "Staphylococcus aureus is a gram-positive coccus in grape-like clusters, not a spiral organism.",
+          "C": "Herpes simplex virus is too small to see by light microscopy; it is recognized by multinucleated cells with nuclear molding and margination."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-204_pa41_f51.jpg",
@@ -99,7 +107,11 @@
       "explanation": {
         "summary": "Cells with single round purple nuclei and scant cytoplasm (lymphocytes, with plasma cells) cuff the vessels. Primary and secondary syphilis show this perivascular lymphoplasmacytic pattern; granulomas (gummas) appear only in the tertiary stage.",
         "whyCorrect": "Cells with single round purple nuclei and scant cytoplasm (lymphocytes, with plasma cells) cuff the vessels. Primary and secondary syphilis show this perivascular lymphoplasmacytic pattern; granulomas (gummas) appear only in the tertiary stage.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A foreign body granuloma would show epithelioid macrophages and giant cells around visible foreign material, not a lymphocytic vessel cuff.",
+          "C": "Suppurative inflammation would show neutrophils and pus, whereas the cells around these vessels are small round mononuclear cells.",
+          "D": "Caseating granulomas occur in tuberculosis and the gummas of tertiary syphilis, not in the secondary-stage rash."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-205_pa41_f52.jpg",
@@ -134,7 +146,11 @@
       "explanation": {
         "summary": "Sjogren disease results from autoimmune attack of SS-A (Ro) and SS-B (La) antigens, destroying lacrimal and salivary glands (dry eyes and mouth). Histology shows dense lymphocytic inflammation, including around vessels - a pattern that overlaps with primary/secondary syphilis, so clinical and lab findings are needed.",
         "whyCorrect": "Sjogren disease results from autoimmune attack of SS-A (Ro) and SS-B (La) antigens, destroying lacrimal and salivary glands (dry eyes and mouth). Histology shows dense lymphocytic inflammation, including around vessels - a pattern that overlaps with primary/secondary syphilis, so clinical and lab findings are needed.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Antibodies to type IV collagen cause Goodpasture (anti-GBM) disease, which damages lungs and glomeruli, not salivary glands.",
+          "B": "Anti-dsDNA and anti-Smith antibodies are specific for systemic lupus erythematosus, not for the sicca syndrome described.",
+          "C": "PR3-ANCA marks granulomatosis with polyangiitis, a necrotizing vasculitis of the upper and lower airways and kidney."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-206_pa41_f53.jpg",
@@ -169,7 +185,11 @@
       "explanation": {
         "summary": "These are caseating granulomas of tuberculosis. M. tuberculosis has a waxy cell wall containing mycolic acid, which lets it retain stain after acid-alcohol treatment - hence 'acid-fast'. An AFB stain (panel D) is used to look for mycobacteria in a granuloma.",
         "whyCorrect": "These are caseating granulomas of tuberculosis. M. tuberculosis has a waxy cell wall containing mycolic acid, which lets it retain stain after acid-alcohol treatment - hence 'acid-fast'. An AFB stain (panel D) is used to look for mycobacteria in a granuloma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A thick peptidoglycan wall is what lets gram-positive bacteria retain crystal violet in a Gram stain, not carbol fuchsin after acid-alcohol.",
+          "B": "Capsules are highlighted by India ink or mucicarmine, as in Cryptococcus, and do not explain acid-fastness.",
+          "D": "Lipopolysaccharide outer membranes are a feature of gram-negative bacteria and do not make an organism acid-fast."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-207_pa41_f54.jpg",
@@ -204,7 +224,11 @@
       "explanation": {
         "summary": "Granulomas can form in response to foreign material. Here a splinter, seen in cross-section as a white oval object, is surrounded by a granulomatous reaction of macrophages and giant cells - a foreign body granuloma, not an infectious one.",
         "whyCorrect": "Granulomas can form in response to foreign material. Here a splinter, seen in cross-section as a white oval object, is surrounded by a granulomatous reaction of macrophages and giant cells - a foreign body granuloma, not an infectious one.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A perivascular lymphocytic infiltrate cuffs vessels, as in syphilis or lupus, and would not encircle a pale foreign object.",
+          "C": "Infectious caseating granulomas have central necrotic debris, not an intact acellular foreign object at the center.",
+          "D": "An abscess is a cavity of neutrophils and liquefied debris, not macrophages and giant cells walling off a splinter."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-208_pa41_f55.jpg",
@@ -239,7 +263,11 @@
       "explanation": {
         "summary": "Injected or inhaled drugs can introduce talc, which provokes a foreign body granulomatous reaction near blood vessels. Talc is birefringent (has two refractive indices), so it appears bright under polarized light.",
         "whyCorrect": "Injected or inhaled drugs can introduce talc, which provokes a foreign body granulomatous reaction near blood vessels. Talc is birefringent (has two refractive indices), so it appears bright under polarized light.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hemosiderin is a golden-brown iron pigment seen with Prussian blue staining; it does not glow under polarized light.",
+          "B": "Autofluorescence requires ultraviolet or fluorescence excitation, not polarized brightfield light.",
+          "D": "Acid-fastness is a property of mycobacterial cell walls detected by special staining, unrelated to talc crystals glowing under polarizers."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-209_pa41_f56.jpg",
@@ -274,7 +302,11 @@
       "explanation": {
         "summary": "Multinucleation, nuclear molding and nuclear margination are the cytopathic changes of herpes simplex virus infection. Cytopathic-cytoproliferative reactions are caused by viruses replicating inside cells; HPV instead causes proliferation (verrucous warts).",
         "whyCorrect": "Multinucleation, nuclear molding and nuclear margination are the cytopathic changes of herpes simplex virus infection. Cytopathic-cytoproliferative reactions are caused by viruses replicating inside cells; HPV instead causes proliferation (verrucous warts).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Treponema pallidum causes perivascular plasma-cell-rich inflammation, not multinucleated epithelial cells with nuclear molding.",
+          "C": "Mycobacterium tuberculosis causes caseating granulomas with Langhans giant cells, which do not show molded, marginated nuclei.",
+          "D": "HPV produces koilocytes, with wrinkled nuclei and perinuclear halos, and causes epithelial proliferation rather than multinucleated cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-210_pa41_f57.jpg",
@@ -309,7 +341,11 @@
       "explanation": {
         "summary": "A butterfly-shaped malar rash with arthritis, oral ulcers and pancytopenia indicates systemic lupus erythematosus. ANA plus anti-dsDNA or anti-Smith antibodies are present in SLE. PR3-ANCA = GPA, anti-collagen IV = Goodpasture, SS-A/SS-B = Sjogren, elevated ACE = sarcoidosis.",
         "whyCorrect": "A butterfly-shaped malar rash with arthritis, oral ulcers and pancytopenia indicates systemic lupus erythematosus. ANA plus anti-dsDNA or anti-Smith antibodies are present in SLE. PR3-ANCA = GPA, anti-collagen IV = Goodpasture, SS-A/SS-B = Sjogren, elevated ACE = sarcoidosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Anti-type IV collagen antibodies mark Goodpasture syndrome, presenting with hemoptysis and glomerulonephritis, not a malar rash.",
+          "C": "SS-A and SS-B antibodies are typical of Sjogren disease with dry eyes and mouth; anti-Ro can appear in lupus but is not the most specific marker.",
+          "D": "PR3-ANCA marks granulomatosis with polyangiitis, which affects sinuses, lungs and kidneys rather than causing a butterfly rash."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-211_pa41_f58.jpg",
@@ -344,7 +380,11 @@
       "explanation": {
         "summary": "This is cutaneous SLE. SLE is a type III hypersensitivity: immune complexes deposit (here IgG along the dermoepidermal junction) and activate complement, causing widespread inflammation such as liquefactive degeneration of the basal epidermis.",
         "whyCorrect": "This is cutaneous SLE. SLE is a type III hypersensitivity: immune complexes deposit (here IgG along the dermoepidermal junction) and activate complement, causing widespread inflammation such as liquefactive degeneration of the basal epidermis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "ANCA-mediated vasculitis is pauci-immune, with little or no immunoglobulin seen on immunofluorescence.",
+          "B": "T cell-driven granulomas are type IV hypersensitivity and do not create a linear band of IgG at the dermoepidermal junction.",
+          "C": "IgE-mediated mast cell degranulation is type I hypersensitivity, causing urticaria and anaphylaxis, not IgG deposits."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-212_pa41_f59.jpg",
@@ -379,7 +419,11 @@
       "explanation": {
         "summary": "Goodpasture (anti-GBM) syndrome: autoantibodies against a component of type IV collagen in basement membranes destroy alveolar walls (hemorrhage, hemoptysis) and glomeruli (rapidly progressive renal failure). Macrophages that phagocytize blood products contain hemosiderin, highlighted by Prussian blue.",
         "whyCorrect": "Goodpasture (anti-GBM) syndrome: autoantibodies against a component of type IV collagen in basement membranes destroy alveolar walls (hemorrhage, hemoptysis) and glomeruli (rapidly progressive renal failure). Macrophages that phagocytize blood products contain hemosiderin, highlighted by Prussian blue.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Anti-dsDNA antibodies are characteristic of systemic lupus erythematosus, whose immune complexes give granular rather than linear deposits.",
+          "C": "PR3-ANCA marks granulomatosis with polyangiitis, which can cause pulmonary-renal syndrome but also upper airway disease and granulomas.",
+          "D": "SS-A and SS-B antibodies are associated with Sjogren disease, affecting exocrine glands rather than alveoli and glomeruli."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-213_pa41_f60.jpg",
@@ -414,7 +458,11 @@
       "explanation": {
         "summary": "Petechial/purpuric skin lesions plus the triad of upper respiratory, lung and kidney involvement in an adult point to granulomatosis with polyangiitis, a small-vessel vasculitis mediated by antibodies to proteinase 3 (PR3-ANCA, formerly c-ANCA). Patient age (adult, not child) helps exclude IgA vasculitis.",
         "whyCorrect": "Petechial/purpuric skin lesions plus the triad of upper respiratory, lung and kidney involvement in an adult point to granulomatosis with polyangiitis, a small-vessel vasculitis mediated by antibodies to proteinase 3 (PR3-ANCA, formerly c-ANCA). Patient age (adult, not child) helps exclude IgA vasculitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "SS-A and SS-B antibodies point to Sjogren disease, which causes sicca symptoms, not sinus, lung and kidney vasculitis.",
+          "B": "Anti-GBM antibodies cause lung hemorrhage and glomerulonephritis but not chronic sinus disease or a purpuric leg rash.",
+          "D": "Anti-dsDNA antibodies indicate lupus, which typically affects young women with malar rash and arthritis rather than sinus and airway disease."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-214_pa41_f61.jpg",
@@ -449,7 +497,11 @@
       "explanation": {
         "summary": "Granulomatosis with polyangiitis shows a necrotizing, granulomatous vasculitis of small-to-medium vessels: giant cells and granulomatous inflammation together with vessels injured by inflammation. Granulomatous destruction of blood vessels is the finding that best supports GPA.",
         "whyCorrect": "Granulomatosis with polyangiitis shows a necrotizing, granulomatous vasculitis of small-to-medium vessels: giant cells and granulomatous inflammation together with vessels injured by inflammation. Granulomatous destruction of blood vessels is the finding that best supports GPA.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Caseating granulomas with acid-fast bacilli indicate tuberculosis, which forms necrotic granulomas but does not typically destroy vessel walls.",
+          "C": "A perivascular lymphoplasmacytic cuff without giant cells or vessel-wall destruction suggests syphilis or connective tissue disease.",
+          "D": "Non-necrotizing granulomas with asteroid bodies suggest sarcoidosis, which does not cause necrotizing vasculitis of the airways and kidney."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-215_pa41_f62.jpg",
@@ -484,7 +536,11 @@
       "explanation": {
         "summary": "Henoch-Schonlein purpura (IgA vasculitis) is a childhood syndrome (ages 3-8) of purpuric skin lesions on extensor surfaces and buttocks, abdominal pain/GI bleeding, arthralgias and renal abnormalities. Like SLE, it is due to immune complex deposition, usually IgA +/- IgG and C3.",
         "whyCorrect": "Henoch-Schonlein purpura (IgA vasculitis) is a childhood syndrome (ages 3-8) of purpuric skin lesions on extensor surfaces and buttocks, abdominal pain/GI bleeding, arthralgias and renal abnormalities. Like SLE, it is due to immune complex deposition, usually IgA +/- IgG and C3.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "PR3-ANCA activation drives granulomatosis with polyangiitis in adults with sinus, lung and kidney disease, not a child with purpura and abdominal pain.",
+          "B": "Th1 cytokine-driven granulomas are the mechanism of sarcoidosis and tuberculosis, not of childhood purpura.",
+          "D": "Anti-basement membrane antibodies cause Goodpasture disease with lung hemorrhage and glomerulonephritis, not a leg rash with arthralgia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-216_pa41_f63.jpg",
@@ -519,7 +575,11 @@
       "explanation": {
         "summary": "In Henoch-Schonlein purpura (IgA vasculitis), immune complexes are usually IgA (+/- IgG and C3). Renal involvement ranges from hematuria to nephritic or nephrotic syndrome; immunofluorescence shows global, diffuse mesangial and segmental capillary loop IgA deposition.",
         "whyCorrect": "In Henoch-Schonlein purpura (IgA vasculitis), immune complexes are usually IgA (+/- IgG and C3). Renal involvement ranges from hematuria to nephritic or nephrotic syndrome; immunofluorescence shows global, diffuse mesangial and segmental capillary loop IgA deposition.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "IgG may accompany the deposits in IgA vasculitis, but it is not the dominant immunoglobulin.",
+          "C": "IgE mediates type I hypersensitivity and is not deposited in glomeruli in immune complex disease.",
+          "D": "IgM can be seen nonspecifically in scarred glomeruli but is not the defining deposit of Henoch-Schonlein purpura."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-217_pa41_f64.jpg",
@@ -554,7 +614,11 @@
       "explanation": {
         "summary": "Asteroid bodies - a star resembling structure in a cleared circle within histiocytes - may be seen in the non-necrotizing granulomas of sarcoidosis. They are not specific, and sarcoidosis remains a diagnosis of exclusion (infections must be ruled out).",
         "whyCorrect": "Asteroid bodies - a star resembling structure in a cleared circle within histiocytes - may be seen in the non-necrotizing granulomas of sarcoidosis. They are not specific, and sarcoidosis remains a diagnosis of exclusion (infections must be ruled out).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Talc crystals are jagged, white, birefringent fragments under polarized light, not a star-shaped body inside a cleared space.",
+          "B": "Viral inclusions are nuclear or cytoplasmic smudges, such as the owl-eye of CMV, rather than a radiating stellate structure.",
+          "D": "Acid-fast bacilli are thin red rods seen only with an AFB stain and would sit in necrotizing granulomas, not as a star in a histiocyte."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-218_pa41_f65.jpg",
@@ -589,7 +653,11 @@
       "explanation": {
         "summary": "Bilateral hilar lymphadenopathy in a young adult with cough and dyspnea is the classic presentation of sarcoidosis, a systemic non-necrotizing granulomatous disease. It is a diagnosis of exclusion, and elevated serum angiotensin-converting enzyme (ACE) is a helpful supporting lab finding.",
         "whyCorrect": "Bilateral hilar lymphadenopathy in a young adult with cough and dyspnea is the classic presentation of sarcoidosis, a systemic non-necrotizing granulomatous disease. It is a diagnosis of exclusion, and elevated serum angiotensin-converting enzyme (ACE) is a helpful supporting lab finding.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Anti-GBM antibodies cause Goodpasture syndrome with hemoptysis and renal failure, not bilateral hilar lymphadenopathy.",
+          "B": "Anti-dsDNA antibodies indicate lupus, which may cause pleuritis but not the classic bilateral hilar adenopathy seen here.",
+          "C": "PR3-ANCA marks granulomatosis with polyangiitis, which shows cavitating lung nodules with sinus and kidney disease rather than hilar nodes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-219_pa41_f66.jpg",
@@ -624,7 +692,11 @@
       "explanation": {
         "summary": "Erythema nodosum refers to red, tender nodules most commonly on the anterior and lateral lower extremities. It is a non-specific finding but is one of the cutaneous manifestations of sarcoidosis.",
         "whyCorrect": "Erythema nodosum refers to red, tender nodules most commonly on the anterior and lateral lower extremities. It is a non-specific finding but is one of the cutaneous manifestations of sarcoidosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Palpable purpura is raised, nonblanching red-purple spots from small-vessel vasculitis, not tender subcutaneous nodules.",
+          "C": "A malar rash is a butterfly-shaped erythema across the cheeks and nasal bridge in lupus, not nodules on the shins.",
+          "D": "Lupus pernio is a violaceous, indurated rash on the nose, cheeks and ears in sarcoidosis, not on the anterior legs."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-220_pa41_f67.jpg",
@@ -659,7 +731,11 @@
       "explanation": {
         "summary": "Lupus pernio - painful lesions of the nose, beneath the eyes and cheeks - is a cutaneous manifestation of sarcoidosis (along with erythema nodosum and maculopapular lesions). Despite its name, it is not the malar rash of SLE.",
         "whyCorrect": "Lupus pernio - painful lesions of the nose, beneath the eyes and cheeks - is a cutaneous manifestation of sarcoidosis (along with erythema nodosum and maculopapular lesions). Despite its name, it is not the malar rash of SLE.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "IgA vasculitis causes palpable purpura over the buttocks and extensor legs of children, not facial lesions.",
+          "C": "Lupus causes a flat or slightly raised erythematous malar rash sparing the nasolabial folds; lupus pernio, despite the name, belongs to sarcoidosis.",
+          "D": "Granulomatosis with polyangiitis may cause a saddle-nose deformity and purpura, but not violaceous plaques on the nose and cheeks."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-221_pa41_f68.jpg",
@@ -694,7 +770,11 @@
       "explanation": {
         "summary": "The diagram shows the HLA (MHC) gene complex at 6p21. These genes encode cell-surface MHC molecules that present peptide antigens, allowing the immune system to distinguish self from non-self, which is the basis of transplant matching and rejection.",
         "whyCorrect": "The diagram shows the HLA (MHC) gene complex at 6p21. These genes encode cell-surface MHC molecules that present peptide antigens, allowing the immune system to distinguish self from non-self, which is the basis of transplant matching and rejection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The membrane attack complex is built from complement proteins C5b-C9; although some complement genes sit in class III, MHC molecules present antigen.",
+          "B": "Antibodies are made by plasma cells from immunoglobulin genes on chromosomes 14, 2 and 22, not by the HLA complex.",
+          "D": "Clotting factors are synthesized mainly by the liver from genes scattered across other chromosomes, not encoded by the MHC."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-009_pa013_f01.png",
@@ -729,7 +809,11 @@
       "explanation": {
         "summary": "The pale, yellowed, enlarged appearance is characteristic of hepatic steatosis, in which triglyceride accumulates in hepatocytes. Significant macrovesicular steatosis is a relative or absolute contraindication to using the liver for transplant.",
         "whyCorrect": "The pale, yellowed, enlarged appearance is characteristic of hepatic steatosis, in which triglyceride accumulates in hepatocytes. Significant macrovesicular steatosis is a relative or absolute contraindication to using the liver for transplant.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bile pigment accumulation in cholestasis gives a green-yellow discoloration, not a pale, greasy enlarged liver.",
+          "C": "Amyloid makes the liver firm, waxy and pale gray rather than yellow and greasy.",
+          "D": "Hemosiderin accumulation turns the liver rusty or dark brown, as in hemochromatosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-089_pa013_f02.png",
@@ -764,7 +848,11 @@
       "explanation": {
         "summary": "A single large fat droplet pushing the nucleus to the edge of the hepatocyte defines macrovesicular steatosis. Confirmation of greater than 30 percent macrovesicular steatosis is associated with poor early graft function.",
         "whyCorrect": "A single large fat droplet pushing the nucleus to the edge of the hepatocyte defines macrovesicular steatosis. Confirmation of greater than 30 percent macrovesicular steatosis is associated with poor early graft function.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Microvesicular steatosis fills the cell with many tiny droplets while the nucleus stays central, as in Reye syndrome or fatty liver of pregnancy.",
+          "B": "Glycogenated nuclei are vacuolated nuclei, as in diabetes or Wilson disease, not cytoplasmic vacuoles pushing the nucleus aside.",
+          "D": "Hydropic ballooning makes hepatocytes swollen with pale, wispy cytoplasm and a central nucleus, without a single sharp-edged vacuole."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-090_pa013_f03.png",
@@ -799,7 +887,11 @@
       "explanation": {
         "summary": "The trichrome stain colors collagen blue, revealing bridging fibrosis. Fibrosis is graded by extent of involvement and is an important determinant of donor organ viability.",
         "whyCorrect": "The trichrome stain colors collagen blue, revealing bridging fibrosis. Fibrosis is graded by extent of involvement and is an important determinant of donor organ viability.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Fibrin appears red on trichrome and forms thrombi or exudates, not bridging septa between lobules.",
+          "C": "Iron is shown blue with Prussian blue as granules in hepatocytes and Kupffer cells, not as bands bridging the parenchyma.",
+          "D": "Fat is dissolved during processing and leaves clear vacuoles, not blue-staining bands."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-091_pa013_f05.png",
@@ -834,7 +926,11 @@
       "explanation": {
         "summary": "Loss of nuclear staining with preserved cell outline is coagulative necrosis of hepatocytes. Greater than 10 percent necrosis may disqualify a donor organ from transplantation.",
         "whyCorrect": "Loss of nuclear staining with preserved cell outline is coagulative necrosis of hepatocytes. Greater than 10 percent necrosis may disqualify a donor organ from transplantation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Regenerative hyperplasia shows plump, viable hepatocytes with prominent nuclei and thickened plates, not anucleate eosinophilic cells.",
+          "B": "Steatosis shows clear fat vacuoles within hepatocytes, which keep their nuclei.",
+          "D": "Apoptosis affects scattered single hepatocytes that shrink into round acidophil bodies, rather than groups of cells keeping their outlines."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-092_pa013_f06.png",
@@ -869,7 +965,11 @@
       "explanation": {
         "summary": "Widening of the interstitium by collagen (fibrosis) accompanied by inflammatory cells constitutes interstitial fibrosis and inflammation, a key pathology assessed in donor kidney biopsies.",
         "whyCorrect": "Widening of the interstitium by collagen (fibrosis) accompanied by inflammatory cells constitutes interstitial fibrosis and inflammation, a key pathology assessed in donor kidney biopsies.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Renal vein thrombosis causes congestion and hemorrhagic infarction with a thrombus in the vein, not interstitial scarring with mononuclear cells.",
+          "B": "Crescentic glomerulonephritis is a proliferation of cells in Bowman space, a glomerular lesion rather than a change between tubules.",
+          "D": "Acute tubular necrosis is an acute injury with flattened, sloughed tubular epithelium and casts, not chronic interstitial fibrosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-093_pa013_f07.png",
@@ -904,7 +1004,11 @@
       "explanation": {
         "summary": "Arterial sclerosis in the kidney reflects deposition of collagenous matrix and smooth muscle between the endothelium and internal elastic lamina, thickening the intima and narrowing the lumen.",
         "whyCorrect": "Arterial sclerosis in the kidney reflects deposition of collagenous matrix and smooth muscle between the endothelium and internal elastic lamina, thickening the intima and narrowing the lumen.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The adventitia is the outer connective tissue coat; its thickening would not encroach on the lumen.",
+          "C": "Medial hypertrophy thickens the muscular coat, but in arterial sclerosis the luminal narrowing comes from matrix laid down inside the internal elastic lamina.",
+          "D": "The external elastic lamina separates media from adventitia and is a thin boundary, not a layer that thickens to narrow the lumen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-094_pa013_f08.png",
@@ -939,7 +1043,11 @@
       "explanation": {
         "summary": "Deposition of homogeneous eosinophilic protein material in the arteriolar wall is arteriolar hyalinization (hyaline arteriolosclerosis), commonly associated with hypertension and diabetes in donor kidneys.",
         "whyCorrect": "Deposition of homogeneous eosinophilic protein material in the arteriolar wall is arteriolar hyalinization (hyaline arteriolosclerosis), commonly associated with hypertension and diabetes in donor kidneys.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Fibrinoid necrosis is bright pink smudgy fibrin with inflammation and nuclear debris in malignant hypertension or vasculitis, not quiet glassy hyaline.",
+          "C": "Atherosclerotic plaque is an intimal lesion of large and medium arteries with lipid core and foam cells, not a change of small arterioles.",
+          "D": "Medial calcification (Monckeberg) shows purple-blue calcium deposits in the media of muscular arteries, not homogeneous pink material."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-095_pa013_f09.png",
@@ -974,7 +1082,11 @@
       "explanation": {
         "summary": "Global glomerulosclerosis is scarring and hyalinization affecting more than half of the glomerulus, obliterating the capillary loops with acellular hyaline material. The proportion of sclerosed glomeruli helps determine kidney viability.",
         "whyCorrect": "Global glomerulosclerosis is scarring and hyalinization affecting more than half of the glomerulus, obliterating the capillary loops with acellular hyaline material. The proportion of sclerosed glomeruli helps determine kidney viability.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A neutrophilic infiltrate would make the glomerulus hypercellular, as in acute postinfectious glomerulonephritis, not acellular.",
+          "B": "Cellular crescents fill Bowman space with proliferating cells around a still recognizable tuft, unlike the obliterated scarred glomerulus.",
+          "D": "Fibrin thrombi plug individual capillary loops, as in thrombotic microangiopathy, while the loop architecture is still visible."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-096_pa013_f10.png",
@@ -1013,7 +1125,12 @@
       "explanation": {
         "summary": "Preformed recipient antibodies against ABO or MHC antigens on graft endothelium activate complement within minutes to hours, causing thrombosis, ischemia, and necrosis (a type II hypersensitivity reaction). The glomerular fibrin thrombi shown are the histologic hallmark of hyperacute rejection.",
         "whyCorrect": "Preformed recipient antibodies against ABO or MHC antigens on graft endothelium activate complement within minutes to hours, causing thrombosis, ischemia, and necrosis (a type II hypersensitivity reaction). The glomerular fibrin thrombi shown are the histologic hallmark of hyperacute rejection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Acute cellular rejection is T cell-mediated, occurring weeks to months later with interstitial lymphocytes and tubulitis.",
+          "B": "Acute antibody-mediated rejection involves newly formed donor-specific antibodies days to months later, not preformed antibodies acting within minutes.",
+          "D": "Graft-versus-host disease is attack of the recipient's tissues by donor T cells, typically after bone marrow transplant.",
+          "E": "Chronic rejection develops over months to years with vascular intimal thickening and fibrosis, not acute thrombosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-097_pa014_f01.png",

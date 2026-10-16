@@ -29,7 +29,11 @@
       "explanation": {
         "summary": "The arrows point to mitotic figures (condensed dividing chromosomes staining dark purple). Abundant mitoses are a morphologic marker of rapid cellular proliferation, seen here in a medulloblastoma.",
         "whyCorrect": "The arrows point to mitotic figures (condensed dividing chromosomes staining dark purple). Abundant mitoses are a morphologic marker of rapid cellular proliferation, seen here in a medulloblastoma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hemosiderin appears as golden-brown granular pigment in macrophages after hemorrhage, not as dark purple condensed chromosome figures.",
+          "B": "Apoptotic cells are shrunken, intensely eosinophilic with pyknotic or fragmented nuclei; the arrowed figures are condensed chromosomes of dividing cells.",
+          "C": "Neutrophils have small multilobed nuclei and are scattered inflammatory cells; they do not appear as clumped chromosome figures within tumor cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-013_pa021_f01.png",
@@ -64,7 +68,11 @@
       "explanation": {
         "summary": "Depleted ATP impairs Na+/K+ pumps, causing water influx and cellular swelling with pale, eosinophilic cytoplasm. This is a hallmark of reversible injury and resolves if the stimulus is removed.",
         "whyCorrect": "Depleted ATP impairs Na+/K+ pumps, causing water influx and cellular swelling with pale, eosinophilic cytoplasm. This is a hallmark of reversible injury and resolves if the stimulus is removed.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Fatty change shows discrete clear lipid vacuoles, typically in hepatocytes; the tubular cells here are diffusely swollen with pale cytoplasm from water influx.",
+          "B": "Apoptotic bodies are shrunken, dense eosinophilic fragments of single cells, the opposite of the enlarged swollen cells seen after early injury.",
+          "C": "Coagulative necrosis is irreversible, with loss of nuclei and hypereosinophilic ghost cells; the stem specifies an early, reversible change."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-014_pa021_f03.png",
@@ -99,7 +107,11 @@
       "explanation": {
         "summary": "Karyolysis is the fading of basophilic nuclear staining as chromatin is degraded. It is distinct from pyknosis (shrunken dark nuclei) and karyorrhexis (nuclear fragmentation), accompanying the eosinophilia and swelling of injured cells.",
         "whyCorrect": "Karyolysis is the fading of basophilic nuclear staining as chromatin is degraded. It is distinct from pyknosis (shrunken dark nuclei) and karyorrhexis (nuclear fragmentation), accompanying the eosinophilia and swelling of injured cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Karyorrhexis is fragmentation of a pyknotic nucleus into multiple dark pieces, not a uniform fading of nuclear staining.",
+          "C": "Mitosis shows condensed, sharply dark chromosomes in a dividing cell, the opposite of a faded, washed-out nucleus.",
+          "D": "Russell bodies are eosinophilic immunoglobulin inclusions in plasma cells, unrelated to nuclear changes of dying tubular cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-112_pa021_f08.png",
@@ -134,7 +146,11 @@
       "explanation": {
         "summary": "Bilirubin is a yellow-brown pigment from heme breakdown that accumulates when bile excretion is impaired. It is distinct from hemosiderin, the iron-containing blood breakdown product.",
         "whyCorrect": "Bilirubin is a yellow-brown pigment from heme breakdown that accumulates when bile excretion is impaired. It is distinct from hemosiderin, the iron-containing blood breakdown product.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Melanin is a brown-black pigment made by melanocytes in skin, eye and nevi; it does not accumulate in liver from impaired bile excretion.",
+          "B": "Lipofuscin is a golden-brown wear-and-tear pigment in aging cells (perinuclear), not a consequence of cholestasis.",
+          "C": "Anthracotic carbon is black inhaled pigment found in lungs and hilar nodes, not yellow-brown pigment in hepatocytes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-113_pa021_f16.png",
@@ -169,7 +185,11 @@
       "explanation": {
         "summary": "Dystrophic calcification is calcium deposition in damaged or dying tissue under normal systemic calcium homeostasis, as in this atherosclerotic aortic valve. Metastatic calcification instead occurs in normal tissue with hypercalcemia.",
         "whyCorrect": "Dystrophic calcification is calcium deposition in damaged or dying tissue under normal systemic calcium homeostasis, as in this atherosclerotic aortic valve. Metastatic calcification instead occurs in normal tissue with hypercalcemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Metastatic calcification affects normal tissues (kidney, lung, gastric mucosa) in hypercalcemic states; here calcium is normal and the valve is damaged.",
+          "C": "Hemosiderin is a golden-brown iron pigment from blood breakdown, not hard chalky white mineral deposits.",
+          "D": "Amyloid is a waxy, pale, homogeneous extracellular protein deposit that is soft rather than hard and chalky."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-114_pa021_f17.png",
@@ -204,7 +224,11 @@
       "explanation": {
         "summary": "Excess estrogen drives increased proliferation of endometrial glandular cells (hyperplasia), producing a bulky lining and a cause of abnormal uterine bleeding.",
         "whyCorrect": "Excess estrogen drives increased proliferation of endometrial glandular cells (hyperplasia), producing a bulky lining and a cause of abnormal uterine bleeding.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Atrophy is a decrease in cell size and number producing a thin lining, the opposite of the bulky thickened endometrium shown.",
+          "C": "Metaplasia replaces one differentiated cell type with another (e.g., squamous metaplasia) rather than increasing bulk of the native glands.",
+          "D": "Hypertrophy is enlargement of individual cells, typical of nondividing cells like cardiac muscle; estrogen drives proliferation of endometrial glands instead."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-115_pa021_f20.png",
@@ -239,7 +263,11 @@
       "explanation": {
         "summary": "Mitochondrial damage lowers ATP (impairing energy-dependent functions) and raises ROS production, which together damage lipids, proteins, and nucleic acids. Failure to reverse mitochondrial dysfunction marks irreversible injury.",
         "whyCorrect": "Mitochondrial damage lowers ATP (impairing energy-dependent functions) and raises ROS production, which together damage lipids, proteins, and nucleic acids. Failure to reverse mitochondrial dysfunction marks irreversible injury.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mitochondrial damage reduces energy for protein synthesis and increases, not decreases, reactive oxygen species.",
+          "C": "Damaged mitochondria cause more DNA damage via ROS; glycolysis may rise to compensate, but this pair does not describe the injury mechanism.",
+          "D": "Mitochondrial injury lowers ATP and is accompanied by rising cytosolic calcium, the reverse of this combination."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-152_pa021_f06.png",
@@ -274,7 +302,11 @@
       "explanation": {
         "summary": "The figure summarizes how decreased ATP, increased cytosolic calcium, reactive oxygen species, and membrane/DNA damage act through multiple downstream effects to cause cell injury.",
         "whyCorrect": "The figure summarizes how decreased ATP, increased cytosolic calcium, reactive oxygen species, and membrane/DNA damage act through multiple downstream effects to cause cell injury.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cellular adaptation (hypertrophy, hyperplasia, atrophy, metaplasia) is a response that avoids injury, not the end result of ATP loss, ROS and membrane damage.",
+          "C": "Cell proliferation requires ATP and intact DNA; the depicted pathways impair cell function rather than drive division.",
+          "D": "Normal signaling does not involve ATP depletion, ROS excess or membrane and DNA damage; these are pathologic injury mechanisms."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-153_pa021_f22.png",
@@ -313,7 +345,12 @@
       "explanation": {
         "summary": "Apoptotic cells shrink, become densely eosinophilic, and show condensed nuclei; because apoptosis is controlled and cells are cleared by phagocytes, there is little or no inflammation. Necrosis, by contrast, spills cell contents and provokes a prominent inflammatory response.",
         "whyCorrect": "Apoptotic cells shrink, become densely eosinophilic, and show condensed nuclei; because apoptosis is controlled and cells are cleared by phagocytes, there is little or no inflammation. Necrosis, by contrast, spills cell contents and provokes a prominent inflammatory response.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Swelling of neighboring cells would suggest reversible injury or necrosis; apoptosis affects single cells and causes shrinkage, not swelling.",
+          "C": "Dystrophic calcification occurs in areas of necrosis, so its presence would argue for necrosis rather than apoptosis.",
+          "D": "Loss of architecture across a field reflects widespread necrosis; here the surrounding squamous cells remain intact.",
+          "E": "A neutrophilic exudate signals the inflammation provoked by necrosis; apoptotic cells are cleared quietly without it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-024_pa029_f07.png",
@@ -352,7 +389,12 @@
       "explanation": {
         "summary": "BCL2 keeps the outer mitochondrial membrane impermeable, blocking cytochrome c release and preventing apoptosis. The t(14;18) translocation places BCL2 under an immunoglobulin promoter, causing overexpression that resists apoptosis and produces follicular lymphoma.",
         "whyCorrect": "BCL2 keeps the outer mitochondrial membrane impermeable, blocking cytochrome c release and preventing apoptosis. The t(14;18) translocation places BCL2 under an immunoglobulin promoter, causing overexpression that resists apoptosis and produces follicular lymphoma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Acute promyelocytic leukemia is driven by t(15;17), the PML-RARA fusion, not BCL2 overexpression.",
+          "B": "Chronic myeloid leukemia is caused by t(9;22), the BCR-ABL fusion tyrosine kinase.",
+          "C": "Mantle cell lymphoma has t(11;14), placing cyclin D1 next to the immunoglobulin heavy-chain promoter.",
+          "D": "Burkitt lymphoma has t(8;14), which overexpresses MYC rather than BCL2."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-124_pa029_f03.png",
@@ -391,7 +433,12 @@
       "explanation": {
         "summary": "Coagulative necrosis preserves the tissue architecture (ghost outlines) while cells die, and is the hallmark of ischemic infarction in solid organs other than the brain. The wedge-shaped pale infarct and retained cell outlines are classic.",
         "whyCorrect": "Coagulative necrosis preserves the tissue architecture (ghost outlines) while cells die, and is the hallmark of ischemic infarction in solid organs other than the brain. The wedge-shaped pale infarct and retained cell outlines are classic.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Autoimmune vasculitis produces fibrinoid necrosis of vessel walls, not a pale wedge-shaped infarct with ghost cell outlines.",
+          "B": "Tuberculosis causes caseous necrosis, which is cheesy and amorphous with loss of tissue architecture.",
+          "C": "Pyogenic bacterial infection causes liquefactive necrosis with abscess formation, destroying rather than preserving tissue outlines.",
+          "E": "Pancreatic enzyme release causes fat necrosis with chalky saponification, not a wedge-shaped coagulative infarct."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-125_pa029_f08.png",
@@ -430,7 +477,12 @@
       "explanation": {
         "summary": "Liquefactive necrosis results when hydrolytic enzymes digest dead tissue into a viscous liquid. It is the characteristic pattern of central nervous system infarcts and of abscesses. Protein denaturation instead yields coagulative necrosis.",
         "whyCorrect": "Liquefactive necrosis results when hydrolytic enzymes digest dead tissue into a viscous liquid. It is the characteristic pattern of central nervous system infarcts and of abscesses. Protein denaturation instead yields coagulative necrosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Protein denaturation predominates in coagulative necrosis, which keeps tissue firm and preserves outlines rather than liquefying it.",
+          "B": "Coagulation with preserved outlines describes coagulative necrosis of solid organs, not the cavitated soft brain lesion shown.",
+          "C": "Calcium soaps form in fat necrosis after lipase release, producing chalky white deposits, not liquefied brain tissue.",
+          "E": "Immune-complex and fibrin deposition in vessel walls is fibrinoid necrosis, seen in vasculitis rather than brain infarcts."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-126_pa029_f09.png",
@@ -469,7 +521,12 @@
       "explanation": {
         "summary": "Gangrenous necrosis is a clinical term for necrosis of a limb or digits, typically from loss of blood supply. Dry gangrene is largely coagulative; wet gangrene adds superimposed liquefactive necrosis from bacterial infection.",
         "whyCorrect": "Gangrenous necrosis is a clinical term for necrosis of a limb or digits, typically from loss of blood supply. Dry gangrene is largely coagulative; wet gangrene adds superimposed liquefactive necrosis from bacterial infection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Small-vessel vasculitis produces fibrinoid necrosis and palpable purpura, not blackened, mummified digits.",
+          "B": "Acute pancreatitis produces fat necrosis in peripancreatic fat, not gangrene of the extremities.",
+          "C": "Myocardial infarction produces coagulative necrosis of the heart; gangrene is a term reserved for limbs and digits.",
+          "E": "Tuberculous lymphadenitis causes caseous necrosis in lymph nodes, not dry blackened digits."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-127_pa029_f10.png",
@@ -508,7 +565,12 @@
       "explanation": {
         "summary": "Caseous necrosis has a friable, cheese-like gross appearance and is classically caused by tuberculosis. Microscopically it shows granulomas with fragmented, granular debris, distinguishing it from other necrosis patterns.",
         "whyCorrect": "Caseous necrosis has a friable, cheese-like gross appearance and is classically caused by tuberculosis. Microscopically it shows granulomas with fragmented, granular debris, distinguishing it from other necrosis patterns.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Escherichia coli is a pyogenic organism that causes liquefactive necrosis and abscesses, not cheese-like caseation.",
+          "C": "Clostridium perfringens causes gas gangrene with myonecrosis and gas bubbles, not friable caseous material.",
+          "D": "Staphylococcus aureus forms abscesses with liquefactive necrosis full of neutrophils.",
+          "E": "Streptococcus pyogenes causes spreading cellulitis and necrotizing fasciitis rather than granulomatous caseous necrosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-128_pa029_f11.png",
@@ -547,7 +609,12 @@
       "explanation": {
         "summary": "In fat necrosis, released lipases (e.g., in acute pancreatitis) break down adipose tissue; the liberated free fatty acids combine with calcium in a saponification reaction to form the chalky-white deposits seen here.",
         "whyCorrect": "In fat necrosis, released lipases (e.g., in acute pancreatitis) break down adipose tissue; the liberated free fatty acids combine with calcium in a saponification reaction to form the chalky-white deposits seen here.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Melanin is a pigment made by melanocytes and plays no role in saponification of fat.",
+          "C": "Fibrin deposits in vessel walls in fibrinoid necrosis; it does not bind calcium to form chalky soaps.",
+          "D": "Hemoglobin breakdown yields hemosiderin and bilirubin pigments, not calcium soaps.",
+          "E": "Bacterial exotoxins are not involved; fat necrosis is driven by the body's own lipases releasing fatty acids."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-129_pa029_f12.png",
@@ -586,7 +653,12 @@
       "explanation": {
         "summary": "Fibrinoid necrosis occurs when immune complexes and plasma proteins (fibrin) deposit in vessel walls, producing a bright pink, smudgy appearance with inflammation. It is characteristic of autoimmune small-vessel vasculitides.",
         "whyCorrect": "Fibrinoid necrosis occurs when immune complexes and plasma proteins (fibrin) deposit in vessel walls, producing a bright pink, smudgy appearance with inflammation. It is characteristic of autoimmune small-vessel vasculitides.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Myocardial infarction produces coagulative necrosis of myocytes, not a pink smudgy deposit in a vessel wall.",
+          "C": "Acute pancreatitis causes fat necrosis with chalky saponification in adipose tissue.",
+          "D": "Cerebral infarction causes liquefactive necrosis of brain tissue rather than fibrinoid change in vessel walls.",
+          "E": "Tuberculous lymphadenitis causes caseating granulomas, not fibrinoid necrosis of vessels."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-130_pa029_f13.png",
@@ -625,7 +697,12 @@
       "explanation": {
         "summary": "The diagram shows a continuum: mild, short-lived injury permits adaptation or reversible injury, whereas severe, prolonged injury exceeds the cell's capacity to recover and drives it to death by necrosis or apoptosis. Thus the intensity and duration of the stimulus is the key determinant.",
         "whyCorrect": "The diagram shows a continuum: mild, short-lived injury permits adaptation or reversible injury, whereas severe, prolonged injury exceeds the cell's capacity to recover and drives it to death by necrosis or apoptosis. Thus the intensity and duration of the stimulus is the key determinant.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The same cell type responds similarly wherever it sits; location matters less than how intense and prolonged the stimulus is.",
+          "C": "Germ-layer origin does not dictate whether an injured cell adapts or dies; the nature of the stimulus does.",
+          "D": "Nearly all cells undergoing injury are nucleated, and the presence of a nucleus does not set the threshold between adaptation and death.",
+          "E": "Somatic cells are diploid regardless; ploidy is not what determines recovery versus death after injury."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-155_pa029_f01.png",
@@ -664,7 +741,12 @@
       "explanation": {
         "summary": "ATP is required to run the Na+/K+ ATPase; when ATP falls, the pump fails, sodium and water accumulate intracellularly, and the cell swells. The other mechanisms shown (calcium influx, ROS, membrane damage, DNA damage) act through separate routes.",
         "whyCorrect": "ATP is required to run the Na+/K+ ATPase; when ATP falls, the pump fails, sodium and water accumulate intracellularly, and the cell swells. The other mechanisms shown (calcium influx, ROS, membrane damage, DNA damage) act through separate routes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Spindle formation uses GTP-dependent tubulin and is not the most direct casualty of ATP loss in the injury cascade shown.",
+          "B": "Neurotransmitter vesicle packaging is a specialized neuronal function, not the core process that fails and causes cell swelling.",
+          "C": "Protein synthesis does fall with ATP depletion (ribosome detachment), but the first and most direct effect is failure of the Na+/K+ pump.",
+          "D": "Melanin synthesis is a specialized melanocyte function unrelated to the general mechanisms of cell injury."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-156_pa029_f02.png",
@@ -703,7 +785,12 @@
       "explanation": {
         "summary": "In H&E staining, eosin stains cytoplasmic and extracellular components pink while hematoxylin stains nuclei blue-purple.",
         "whyCorrect": "In H&E staining, eosin stains cytoplasmic and extracellular components pink while hematoxylin stains nuclei blue-purple.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Congo red is a special stain for amyloid that shows apple-green birefringence; it is not part of a routine stain.",
+          "B": "Hematoxylin is the basic dye in H&E that stains nuclei blue-purple, not cytoplasm pink.",
+          "C": "Prussian blue is a special stain that turns iron (hemosiderin) blue.",
+          "E": "Periodic acid-Schiff is a special stain that turns glycogen, mucin and basement membranes magenta."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-025_pa030_f06.png",
@@ -742,7 +829,12 @@
       "explanation": {
         "summary": "A punch biopsy uses a cylindrical blade rotated into the skin to remove a full-thickness core of tissue for histologic evaluation.",
         "whyCorrect": "A punch biopsy uses a cylindrical blade rotated into the skin to remove a full-thickness core of tissue for histologic evaluation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Scraping with a wooden spatula collects surface cells for cytology, as in a Pap smear, not a tissue core.",
+          "B": "Fine-needle aspiration draws loose cells through a thin needle and yields cytology rather than an intact tissue core.",
+          "D": "A shave biopsy uses a horizontal blade to remove a thin superficial slice, not a full-thickness cylinder.",
+          "E": "Excisional biopsy uses a scalpel to cut an ellipse around the whole lesion, not a rotating circular blade."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-045_pa030_f01.png",
@@ -781,7 +873,12 @@
       "explanation": {
         "summary": "An excisional biopsy removes the entire lesion plus a surrounding safety margin of normal-appearing skin, making it both diagnostic and potentially curative.",
         "whyCorrect": "An excisional biopsy removes the entire lesion plus a surrounding safety margin of normal-appearing skin, making it both diagnostic and potentially curative.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A shave biopsy removes only a thin superficial slice and is not planned with a surrounding outline of normal skin.",
+          "B": "Local anesthetic is injected around the lesion but is not marked as a drawn line before excision.",
+          "C": "Skin grafts cover defects after removal; a line drawn around the lesion marks what will be excised, not graft placement.",
+          "D": "Sentinel node mapping uses dye or radiotracer and targets regional lymph nodes, not a line drawn around the lesion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-046_pa030_f02.png",
@@ -820,7 +917,12 @@
       "explanation": {
         "summary": "Surgical specimens are typically processed as formalin-fixed paraffin-embedded (FFPE) blocks; formalin cross-links proteins to preserve tissue morphology for at least 10 years.",
         "whyCorrect": "Surgical specimens are typically processed as formalin-fixed paraffin-embedded (FFPE) blocks; formalin cross-links proteins to preserve tissue morphology for at least 10 years.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Liquid nitrogen snap-freezes tissue for frozen sections or molecular work, not for paraffin embedding and archival storage.",
+          "C": "Glutaraldehyde is used to fix tissue for electron microscopy, not routine paraffin blocks.",
+          "D": "Absolute ethanol can fix cytology smears, but routine surgical specimens are fixed in formalin before paraffin embedding.",
+          "E": "Bouin solution is a specialized picric acid fixative for certain biopsies (e.g., testis), not the standard for surgical blocks."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-047_pa030_f05.png",
@@ -859,7 +961,12 @@
       "explanation": {
         "summary": "The Grocott-Gomori methenamine silver (GMS) stain deposits silver on fungal cell walls, making fungal hyphae and yeast readily visible.",
         "whyCorrect": "The Grocott-Gomori methenamine silver (GMS) stain deposits silver on fungal cell walls, making fungal hyphae and yeast readily visible.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Amyloid is detected with Congo red, which shows apple-green birefringence, not silver-blackened hyphae.",
+          "B": "Iron is detected with Prussian blue, which stains hemosiderin blue.",
+          "C": "Collagen and fibrosis are highlighted with trichrome (blue or green), not silver deposited on organisms.",
+          "D": "Acid-fast bacteria are detected with Ziehl-Neelsen, which stains thin rods red, not hyphae and yeast black."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-048_pa030_f07.png",
@@ -898,7 +1005,12 @@
       "explanation": {
         "summary": "Immunohistochemistry uses antibodies against a specific antigen, and a chromogen produces brown color where the antigen is present. Cytokeratin positivity here helps identify the neoplasm as a carcinoma.",
         "whyCorrect": "Immunohistochemistry uses antibodies against a specific antigen, and a chromogen produces brown color where the antigen is present. Cytokeratin positivity here helps identify the neoplasm as a carcinoma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Necrosis is recognized on H&E by loss of nuclei and eosinophilia; brown chromogen in IHC marks antibody binding to a target antigen.",
+          "C": "Hemosiderin is golden-brown on H&E and blue with Prussian blue; IHC brown signal reflects a specific antibody reaction.",
+          "D": "Melanin can mimic brown chromogen, but the brown color in a properly controlled IHC stain marks the targeted antigen.",
+          "E": "Autofluorescence is seen under a fluorescence microscope, not as brown chromogen on brightfield IHC."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-049_pa030_f08.png",
@@ -937,7 +1049,12 @@
       "explanation": {
         "summary": "A high nuclear-to-cytoplasmic ratio, nuclear enlargement, and irregular nuclear membranes are worrisome cytologic features, contrasting with the abundant cytoplasm of the normal intermediate squamous cell.",
         "whyCorrect": "A high nuclear-to-cytoplasmic ratio, nuclear enlargement, and irregular nuclear membranes are worrisome cytologic features, contrasting with the abundant cytoplasm of the normal intermediate squamous cell.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Red blood cells are small anucleate discs; the small cells here have prominent nuclei.",
+          "C": "Normal mature squamous cells are large with abundant cytoplasm and small nuclei, like the cell at lower right, not the high N:C cells.",
+          "D": "Bacteria appear as tiny specks or coccobacilli coating cells (clue cells), not as cells with enlarged nuclei.",
+          "E": "Degenerated debris lacks the intact, enlarged, hyperchromatic nuclei that characterize dysplastic squamous cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-050_pa030_f10.png",
@@ -976,7 +1093,12 @@
       "explanation": {
         "summary": "Papillary thyroid carcinoma is characterized by nuclear enlargement, nuclear overlap, and optically clear (Orphan Annie eye) nuclei with grooves.",
         "whyCorrect": "Papillary thyroid carcinoma is characterized by nuclear enlargement, nuclear overlap, and optically clear (Orphan Annie eye) nuclei with grooves.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Anaplastic carcinoma shows bizarre pleomorphic and spindle cells with necrosis, not orderly clear grooved nuclei.",
+          "B": "Medullary carcinoma arises from C cells, forming nests of polygonal or spindle cells in amyloid stroma with salt-and-pepper chromatin.",
+          "C": "Follicular carcinoma is diagnosed by capsular or vascular invasion; its nuclei lack the clearing, grooves and overlap of papillary carcinoma.",
+          "D": "Hashimoto thyroiditis is a lymphocytic infiltrate with germinal centers and Hurthle cells, and it is not a malignancy."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-131_pa030_f09.png",

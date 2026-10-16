@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Homer Wright rosettes (radial cells around a fibrillar center) and Flexner-Wintersteiner rosettes (cells around a true lumen) are both characteristic histologic features of retinoblastoma.",
         "whyCorrect": "Homer Wright rosettes (radial cells around a fibrillar center) and Flexner-Wintersteiner rosettes (cells around a true lumen) are both characteristic histologic features of retinoblastoma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hepatocellular carcinoma forms trabeculae and pseudoglands of polygonal hepatocyte-like cells, not neural or retinal rosettes.",
+          "B": "Neurofibromas are benign spindle-cell nerve sheath tumors of wavy cells, without rosettes.",
+          "D": "Colonic adenocarcinoma forms glands of columnar cells with dirty necrosis, an adult tumor without rosettes.",
+          "E": "Osteosarcoma is identified by malignant cells producing osteoid, not rosette formation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-012_pa020_f02.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "KRAS mutations are extremely common in pancreatic ductal adenocarcinoma, one of the highest-prevalence tumor types shown; the graph illustrates the variability of HRAS, KRAS, and NRAS mutation frequencies across cancers.",
         "whyCorrect": "KRAS mutations are extremely common in pancreatic ductal adenocarcinoma, one of the highest-prevalence tumor types shown; the graph illustrates the variability of HRAS, KRAS, and NRAS mutation frequencies across cancers.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Melanoma most often carries BRAF mutations; NRAS mutations occur in a minority, far below the KRAS rate in pancreatic cancer.",
+          "C": "Thyroid cancers have RAS mutations mainly in follicular lesions, at a much lower frequency than pancreatic cancer.",
+          "D": "Breast cancer rarely harbors RAS mutations; its common drivers are HER2 amplification, PIK3CA and BRCA.",
+          "E": "Prostate cancer rarely carries RAS mutations; it is driven by androgen signaling and alterations such as TMPRSS2-ERG fusions."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-105_pa019_f04.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Pancreatic ductal adenocarcinoma forms infiltrative duct-like glandular structures composed of neoplastic cells, commonly harbors KRAS mutations, and carries a very poor prognosis.",
         "whyCorrect": "Pancreatic ductal adenocarcinoma forms infiltrative duct-like glandular structures composed of neoplastic cells, commonly harbors KRAS mutations, and carries a very poor prognosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Serous cystadenoma is a benign microcystic tumor of clear glycogen-rich cells, not an infiltrative malignancy.",
+          "B": "Chronic pancreatitis causes fibrosis and atrophy with benign ducts in lobular arrangement, not malignant infiltrative glands.",
+          "D": "Acinar cell carcinoma forms acini of granular cells producing enzymes and is rare, not the classic KRAS-driven ductal tumor.",
+          "E": "Neuroendocrine tumors form nests of uniform cells with salt-and-pepper chromatin rather than duct-like glands."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-106_pa019_f05.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Cutaneous melanoma arises from transformed melanocytes, which produce brown melanin pigment visible histologically; activating BRAF (V600E) mutations are a common oncogenic driver and therapeutic target.",
         "whyCorrect": "Cutaneous melanoma arises from transformed melanocytes, which produce brown melanin pigment visible histologically; activating BRAF (V600E) mutations are a common oncogenic driver and therapeutic target.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Squamous cell carcinoma comes from keratinocytes, with keratin pearls and intercellular bridges; it is not pigment-producing.",
+          "C": "Seborrheic keratosis is a benign stuck-on proliferation of basaloid keratinocytes with horn cysts, not a malignant melanocytic neoplasm.",
+          "D": "Dermatofibroma is a benign dermal fibrohistiocytic nodule that dimples when pinched; it is not BRAF-driven.",
+          "E": "Basal cell carcinoma has basaloid nests with peripheral palisading; it is driven by hedgehog pathway (PTCH) mutations rather than BRAF."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-107_pa019_f07.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "CML marrow is hypercellular with granulocytic hyperplasia, eosinophilia, and small hypolobated megakaryocytes; it is driven by the BCR::ABL fusion producing constitutive tyrosine kinase activity.",
         "whyCorrect": "CML marrow is hypercellular with granulocytic hyperplasia, eosinophilia, and small hypolobated megakaryocytes; it is driven by the BCR::ABL fusion producing constitutive tyrosine kinase activity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Acute myeloid leukemia shows sheets of blasts (20% or more) replacing the marrow, not maturing granulocytes with eosinophilia.",
+          "C": "Polycythemia vera is JAK2-driven with panmyelosis and large hyperlobated megakaryocytes.",
+          "D": "Primary myelofibrosis shows marrow fibrosis with atypical clustered megakaryocytes and is typically JAK2, CALR or MPL-driven.",
+          "E": "Myelodysplastic syndrome shows ineffective, dysplastic hematopoiesis with cytopenias and lacks BCR-ABL."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-108_pa019_f09.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Colorectal adenomas are non-invasive polypoid growths, whereas adenocarcinoma is defined by invasion of the neoplastic epithelium beyond the basement membrane into the lamina propria and deeper tissue.",
         "whyCorrect": "Colorectal adenomas are non-invasive polypoid growths, whereas adenocarcinoma is defined by invasion of the neoplastic epithelium beyond the basement membrane into the lamina propria and deeper tissue.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Osteoid production is the defining feature of osteosarcoma, not of glandular colon cancer.",
+          "B": "Growth confined above the muscularis mucosae describes a noninvasive adenoma, the benign lesion on the left.",
+          "C": "Restored polarity and absent atypia would suggest benign or reactive epithelium rather than carcinoma.",
+          "E": "True rosettes with central lumina are features of embryonal tumors like retinoblastoma, not colorectal adenocarcinoma."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-109_pa020_f06.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Café-au-lait macules and multiple cutaneous neurofibromas are hallmark manifestations of neurofibromatosis type 1, caused by loss of the NF1 GTPase-activating protein on chromosome 17.",
         "whyCorrect": "Café-au-lait macules and multiple cutaneous neurofibromas are hallmark manifestations of neurofibromatosis type 1, caused by loss of the NF1 GTPase-activating protein on chromosome 17.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Retinoblastoma is an RB1-driven childhood eye tumor presenting with leukocoria, not cafe-au-lait spots and neurofibromas.",
+          "C": "Familial adenomatous polyposis causes hundreds of colonic adenomas from APC mutation, not skin macules and nerve tumors.",
+          "D": "Cowden syndrome (PTEN) causes hamartomas such as trichilemmomas and breast and thyroid cancers, not neurofibromas.",
+          "E": "Li-Fraumeni syndrome (TP53) causes sarcomas, breast cancer, brain tumors and adrenal carcinoma, not cafe-au-lait macules with neurofibromas."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-110_pa020_f08.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The figure depicts the eight fundamental hallmarks of cancer—the capabilities neoplasms acquire to sustain growth, evade suppression and immune destruction, and invade and metastasize.",
         "whyCorrect": "The figure depicts the eight fundamental hallmarks of cancer—the capabilities neoplasms acquire to sustain growth, evade suppression and immune destruction, and invade and metastasize.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Wound healing proceeds through hemostasis, inflammation, proliferation and remodeling, not traits like evading growth suppressors.",
+          "C": "The cell cycle phases are G1, S, G2 and M, not acquired capabilities such as angiogenesis and immune evasion.",
+          "D": "Intrinsic apoptosis is a mitochondrial pathway with cytochrome c release and caspase activation; resisting cell death is only one hallmark.",
+          "E": "The WNT pathway signals through beta-catenin and is a single pathway that can contribute to several hallmarks, not the wheel itself."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-111_pa020_f09.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "This is a de-differentiated chondrosarcoma; despite anaplasia, the retained cartilage-like component identifies chondrocytes as the cell of origin.",
         "whyCorrect": "This is a de-differentiated chondrosarcoma; despite anaplasia, the retained cartilage-like component identifies chondrocytes as the cell of origin.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A tumor of adipocytes is a liposarcoma, showing lipoblasts with scalloped nuclei rather than a cartilage-like component.",
+          "B": "Tumors from bone-forming cells (osteosarcoma) produce osteoid, not the hyaline cartilage pattern being compared here.",
+          "D": "Fibroblast-derived fibrosarcoma forms herringbone fascicles of spindle cells without cartilaginous matrix.",
+          "E": "Smooth muscle tumors (leiomyosarcoma) form fascicles of spindle cells with cigar-shaped nuclei, not chondroid matrix."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-100_pa017_f04.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Chronic acid reflux damages esophageal squamous epithelium, which is replaced by protective columnar epithelium with goblet cells; this glandular metaplasia defines Barrett esophagus and carries a risk of adenocarcinoma.",
         "whyCorrect": "Chronic acid reflux damages esophageal squamous epithelium, which is replaced by protective columnar epithelium with goblet cells; this glandular metaplasia defines Barrett esophagus and carries a risk of adenocarcinoma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Achalasia is a motility disorder from loss of myenteric neurons; it does not replace squamous mucosa with columnar epithelium.",
+          "B": "Esophageal candidiasis shows white plaques with fungal hyphae and yeast on intact squamous mucosa.",
+          "C": "Squamous cell carcinoma is an invasive malignancy of the squamous epithelium, not replacement by columnar glandular cells.",
+          "E": "At the normal GE junction, gastric mucosa lacks goblet cells; intestinal-type columnar epithelium in the esophagus defines Barrett."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-101_pa017_f06.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Metaplasia and the other reversible adaptations shown occur as protective responses to repeated or chronic cellular stress; if the stressor is removed, the cells can revert to their original type.",
         "whyCorrect": "Metaplasia and the other reversible adaptations shown occur as protective responses to repeated or chronic cellular stress; if the stressor is removed, the cells can revert to their original type.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Increased blood supply may support growth but is not the trigger for metaplasia, atrophy and dysplasia.",
+          "C": "Aging alone causes some atrophy, but the spectrum of adaptations shown is driven by persistent stress or injury.",
+          "D": "A brief episode of reversible ischemia causes reversible cell injury like swelling, not a sustained adaptive change in cell type or size.",
+          "E": "A single random mutation is the start of neoplasia, not the trigger for reversible adaptive changes like hyperplasia or metaplasia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-151_pa017_f05.png",

@@ -29,7 +29,11 @@
       "explanation": {
         "summary": "The endomysium surrounds individual muscle cells (perimysium surrounds fascicles, epimysium the whole muscle). Polymyositis is an inflammatory disease that targets the endomysium, causing progressive weakness that starts in the thighs; it may respond to glucocorticoids.",
         "whyCorrect": "The endomysium surrounds individual muscle cells (perimysium surrounds fascicles, epimysium the whole muscle). Polymyositis is an inflammatory disease that targets the endomysium, causing progressive weakness that starts in the thighs; it may respond to glucocorticoids.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Myasthenia gravis is an antibody attack on acetylcholine receptors at the neuromuscular junction, causing fatigable weakness, often ocular, without endomysial inflammation.",
+          "B": "Multiple sclerosis is autoimmune demyelination in the CNS, causing optic neuritis and sensory or motor deficits, not inflammation within muscle connective tissue.",
+          "D": "Duchenne dystrophy is an X-linked dystrophin deficiency causing degeneration of myofibers in boys, not an inflammatory attack on the endomysium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-176_pa38_f23.jpg",
@@ -64,7 +68,11 @@
       "explanation": {
         "summary": "Sarcomeres are repeated in series within each myofibril, producing the striped (striated) look. Because skeletal muscle cells are packed with myofibrils, they appear striated as well. Cardiac muscle is also striated; smooth muscle lacks sarcomeres and is not.",
         "whyCorrect": "Sarcomeres are repeated in series within each myofibril, producing the striped (striated) look. Because skeletal muscle cells are packed with myofibrils, they appear striated as well. Cardiac muscle is also striated; smooth muscle lacks sarcomeres and is not.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A bubbly, vacuolated appearance comes from cells filled with lipid or mucin, such as adipocytes or sebaceous cells, not from repeated sarcomeres.",
+          "B": "A spindle-shaped, twisted appearance describes smooth muscle cells, which lack sarcomeres and are not striated.",
+          "C": "Branched, anastomosing fibers describe cardiac muscle; the branching is a cell-shape feature, whereas sarcomeres themselves produce striations."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-177_pa38_f24.jpg",
@@ -99,7 +107,11 @@
       "explanation": {
         "summary": "The cells are striated (S) with centrally placed nuclei (N) and dark transverse lines (I), the intercalated discs. Intercalated discs are unique to cardiac muscle. Skeletal muscle has many peripheral nuclei and no intercalated discs, and smooth muscle is not striated.",
         "whyCorrect": "The cells are striated (S) with centrally placed nuclei (N) and dark transverse lines (I), the intercalated discs. Intercalated discs are unique to cardiac muscle. Skeletal muscle has many peripheral nuclei and no intercalated discs, and smooth muscle is not striated.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Smooth muscle cells are spindle-shaped with central nuclei but lack striations and intercalated discs.",
+          "B": "Peripheral nerve shows wavy fibers with Schwann cell nuclei and no cross-striations or intercalated discs.",
+          "D": "Skeletal muscle is striated but has many peripheral nuclei per fiber and lacks intercalated discs."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-178_pa38_f25.jpg",
@@ -134,7 +146,11 @@
       "explanation": {
         "summary": "Gap junctions in the intercalated disc form passages between cells, so cardiac myocytes can conduct electrical signals (and some ions) to one another without each cell needing nerve input. Spot desmosomes bind cells firmly with cadherins, and the fascia adherens joins them like a broad belt.",
         "whyCorrect": "Gap junctions in the intercalated disc form passages between cells, so cardiac myocytes can conduct electrical signals (and some ions) to one another without each cell needing nerve input. Spot desmosomes bind cells firmly with cadherins, and the fascia adherens joins them like a broad belt.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Binding myocytes together like a broad belt is the role of the fascia adherens, which anchors actin filaments rather than passing current.",
+          "B": "Watertight seals between cells are formed by tight junctions, which are not the conduits for action potentials in the intercalated disc.",
+          "D": "Anchoring neighbors with cadherins is the role of desmosomes, which resist mechanical stress but do not pass ions."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-179_pa38_f26.jpg",
@@ -169,7 +185,11 @@
       "explanation": {
         "summary": "Smooth muscle has no sarcomeres. Its actin and myosin are anchored to the sarcolemma by dense bodies and oriented obliquely, so the cells twist as they contract.",
         "whyCorrect": "Smooth muscle has no sarcomeres. Its actin and myosin are anchored to the sarcolemma by dense bodies and oriented obliquely, so the cells twist as they contract.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Uniform longitudinal shortening is produced by sarcomeres aligned along the long axis, as in skeletal muscle, not by obliquely oriented filaments.",
+          "B": "The cells do not slide past each other; they are mechanically linked, and oblique filaments cause each cell to twist.",
+          "D": "Rhythmic spontaneous beating is a feature of cardiac pacemaker cells, not a consequence of filaments anchored at dense bodies."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-180_pa38_f27.jpg",
@@ -204,7 +224,11 @@
       "explanation": {
         "summary": "Smooth muscle cells are linked by gap junctions but not by full intercalated discs, which belong only to cardiac muscle. Their gentle contractions put them under less stress, and they must be able to stretch in distensible places such as blood vessels, the gut, and the bladder.",
         "whyCorrect": "Smooth muscle cells are linked by gap junctions but not by full intercalated discs, which belong only to cardiac muscle. Their gentle contractions put them under less stress, and they must be able to stretch in distensible places such as blood vessels, the gut, and the bladder.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Intercalated discs are unique to cardiac muscle and are not formed between vascular smooth muscle cells.",
+          "C": "The fascia adherens is part of the cardiac intercalated disc, not the main junction connecting smooth muscle cells.",
+          "D": "Tight junctions seal epithelial and endothelial layers but are not the main connection between smooth muscle cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-181_pa38_f28.jpg",
@@ -239,7 +263,11 @@
       "explanation": {
         "summary": "The PNS (cranial nerves, spinal nerves, and ganglia) carries impulses to and from the CNS through motor and sensory neurons. Motor neurons carry impulses from the brain to muscles. Sensory neurons carry information toward the brain, and interneurons connect other neurons.",
         "whyCorrect": "The PNS (cranial nerves, spinal nerves, and ganglia) carries impulses to and from the CNS through motor and sensory neurons. Motor neurons carry impulses from the brain to muscles. Sensory neurons carry information toward the brain, and interneurons connect other neurons.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sensory neurons carry impulses from receptors toward the CNS, the opposite direction.",
+          "B": "Interneurons connect neurons within the CNS and do not project out through peripheral nerves to muscles.",
+          "C": "Pyramidal neurons are cortical and hippocampal neurons; even upper motor neurons stay in the CNS and do not reach muscles directly."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-182_pa38_f29.jpg",
@@ -274,7 +302,11 @@
       "explanation": {
         "summary": "Myelin, a mixture of phospholipids and proteins, insulates the axon and increases the speed of nerve impulse conduction. Dendrites receive stimuli, microglia scavenge debris, ependymal cells handle CSF, and endothelial cells with astrocytes form the blood-brain barrier.",
         "whyCorrect": "Myelin, a mixture of phospholipids and proteins, insulates the axon and increases the speed of nerve impulse conduction. Dendrites receive stimuli, microglia scavenge debris, ependymal cells handle CSF, and endothelial cells with astrocytes form the blood-brain barrier.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Removing debris by phagocytosis is the role of microglia in the CNS and macrophages in the PNS, not the myelin sheath.",
+          "C": "CSF is produced by the choroid plexus and moved by ependymal cells, not by myelin.",
+          "D": "Receiving stimuli is the role of dendrites and the cell body, whereas myelin insulates the axon to speed conduction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-183_pa38_f30.jpg",
@@ -309,7 +341,11 @@
       "explanation": {
         "summary": "Pseudounipolar neurons are sensory neurons in the spinal and cranial ganglia. A single process leaves the cell body and splits into two axons, one of which acts as a dendrite. Bipolar neurons are found in the retina, olfactory mucosa, and inner ear. Pyramidal cells are found in the hippocampus, amygdala, and cortex. All motor neurons are multipolar.",
         "whyCorrect": "Pseudounipolar neurons are sensory neurons in the spinal and cranial ganglia. A single process leaves the cell body and splits into two axons, one of which acts as a dendrite. Bipolar neurons are found in the retina, olfactory mucosa, and inner ear. Pyramidal cells are found in the hippocampus, amygdala, and cortex. All motor neurons are multipolar.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Spinal cord motor pools contain multipolar motor neurons with many dendrites, not pseudounipolar sensory neurons.",
+          "C": "The hippocampus and amygdala contain pyramidal and other multipolar neurons.",
+          "D": "The retina and olfactory mucosa contain bipolar neurons, with one dendrite and one axon at opposite poles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-184_pa38_f31.jpg",
@@ -344,7 +380,11 @@
       "explanation": {
         "summary": "The neuron cell body has a single nucleus with a prominent nucleolus. Its cytoplasm contains abundant rough ER that stains deep purple and granular, called Nissl substance. The axon hillock is pale because it lacks Nissl substance.",
         "whyCorrect": "The neuron cell body has a single nucleus with a prominent nucleolus. Its cytoplasm contains abundant rough ER that stains deep purple and granular, called Nissl substance. The axon hillock is pale because it lacks Nissl substance.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "GFAP is an intermediate filament of astrocytes, not neurons, and it does not appear as purple granular material in H&E.",
+          "B": "Smooth ER lacks ribosomes and is not basophilic, so it does not stain deep purple and granular.",
+          "C": "The Golgi apparatus appears as a pale area near the nucleus, not as coarse basophilic granules throughout the cytoplasm."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-185_pa38_f32.jpg",
@@ -379,7 +419,11 @@
       "explanation": {
         "summary": "Astrocytes are star-shaped glia whose structure is maintained by the intermediate filament GFAP. On H&E only their nuclei are visible, but the GFAP in their processes stains well with silver stain.",
         "whyCorrect": "Astrocytes are star-shaped glia whose structure is maintained by the intermediate filament GFAP. On H&E only their nuclei are visible, but the GFAP in their processes stains well with silver stain.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cytokeratins are intermediate filaments of epithelial cells, not astrocytes.",
+          "B": "Desmin is the intermediate filament of muscle cells.",
+          "D": "Vimentin is found in mesenchymal cells such as fibroblasts and endothelium; mature astrocytes are defined by GFAP."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-186_pa38_f33.jpg",
@@ -414,7 +458,11 @@
       "explanation": {
         "summary": "Ependymal cells are columnar or cuboidal epithelial cells that line the brain's ventricles and the central canal of the spinal cord. In some areas they have cilia that help move CSF, and modified ependymal cells help form the choroid plexus, which produces CSF.",
         "whyCorrect": "Ependymal cells are columnar or cuboidal epithelial cells that line the brain's ventricles and the central canal of the spinal cord. In some areas they have cilia that help move CSF, and modified ependymal cells help form the choroid plexus, which produces CSF.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Mucus is moved by cilia in the respiratory tract and other mucosal epithelia, not in the ventricles and central canal.",
+          "C": "Blood plasma circulates in vessels and is not moved by ciliated cells.",
+          "D": "Lymph moves in lymphatic vessels driven by valves and surrounding muscle, not by ependymal cilia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-187_pa38_f34.jpg",
@@ -449,7 +497,11 @@
       "explanation": {
         "summary": "Microglia are small, irregularly shaped cells with condensed chromatin. They are specialized macrophages found only in the CNS that migrate to remove debris, infectious agents, and damaged tissue, and they can present antigen when activated. Oligodendrocytes have round nuclei with a clear halo.",
         "whyCorrect": "Microglia are small, irregularly shaped cells with condensed chromatin. They are specialized macrophages found only in the CNS that migrate to remove debris, infectious agents, and damaged tissue, and they can present antigen when activated. Oligodendrocytes have round nuclei with a clear halo.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Myelinating multiple CNS axons is the function of oligodendrocytes, which have round nuclei with a clear perinuclear halo.",
+          "C": "Lining ventricles and moving CSF is the role of ependymal cells, which form a cuboidal-to-columnar epithelium.",
+          "D": "Supporting neurons with perivascular feet is the role of astrocytes, which have larger, oval, pale nuclei."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-188_pa38_f35.jpg",
@@ -484,7 +536,11 @@
       "explanation": {
         "summary": "From the inside out, the neurovascular unit is made of endothelial cells (whose tight junctions form the blood-brain barrier), pericytes (smooth muscle cells that regulate vessel dilation and constriction), and astrocyte foot processes. Microglia sit nearby to respond to injury.",
         "whyCorrect": "From the inside out, the neurovascular unit is made of endothelial cells (whose tight junctions form the blood-brain barrier), pericytes (smooth muscle cells that regulate vessel dilation and constriction), and astrocyte foot processes. Microglia sit nearby to respond to injury.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Myelin production is performed by oligodendrocytes in the CNS and Schwann cells in the PNS, not pericytes.",
+          "C": "Antigen presentation in the CNS is mainly performed by microglia and perivascular macrophages, not contractile pericytes.",
+          "D": "CSF is produced by the choroid plexus, not by contractile cells around capillaries."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-189_pa38_f36.jpg",
@@ -519,7 +575,11 @@
       "explanation": {
         "summary": "Oligodendrocytes send out processes that myelinate multiple CNS axons. In multiple sclerosis, autoimmune demyelination of CNS axons in the brain, spinal cord, and optic nerves impairs conduction, causing optic neuritis, incoordination, numbness and tingling, and fatigue.",
         "whyCorrect": "Oligodendrocytes send out processes that myelinate multiple CNS axons. In multiple sclerosis, autoimmune demyelination of CNS axons in the brain, spinal cord, and optic nerves impairs conduction, causing optic neuritis, incoordination, numbness and tingling, and fatigue.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Myasthenia gravis is caused by antibodies against acetylcholine receptors at the neuromuscular junction, not damage to CNS myelin.",
+          "B": "Guillain-Barre syndrome is an autoimmune attack on peripheral nerve myelin made by Schwann cells, not oligodendrocytes.",
+          "D": "Polymyositis is an inflammatory attack on skeletal muscle, not myelin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-190_pa38_f37.jpg",
@@ -554,7 +614,11 @@
       "explanation": {
         "summary": "Schwann cells myelinate axons in the PNS. As each cell wraps an axon, its cytoplasm is squeezed out, forming the major dense line and the intraperiod line. Unlike oligodendrocytes, which can myelinate multiple axons, each Schwann cell myelinates only one segment of one axon.",
         "whyCorrect": "Schwann cells myelinate axons in the PNS. As each cell wraps an axon, its cytoplasm is squeezed out, forming the major dense line and the intraperiod line. Unlike oligodendrocytes, which can myelinate multiple axons, each Schwann cell myelinates only one segment of one axon.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A Schwann cell cannot myelinate every axon in a fascicle; each one wraps a single internode of one axon.",
+          "C": "Myelinating segments of many separate axons is the job of oligodendrocytes in the CNS.",
+          "D": "A long axon needs many Schwann cells along its length, each forming one internode separated by nodes of Ranvier."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-191_pa38_f38.jpg",
@@ -589,7 +653,11 @@
       "explanation": {
         "summary": "On light microscopy, peripheral nerve is a wavy, pink-textured bundle surrounded by perineurium. Axons appear as dark-pink lines with bubbly-looking myelin around them, and you can see the oval nuclei of Schwann cells and the flatter nuclei of fibroblasts.",
         "whyCorrect": "On light microscopy, peripheral nerve is a wavy, pink-textured bundle surrounded by perineurium. Axons appear as dark-pink lines with bubbly-looking myelin around them, and you can see the oval nuclei of Schwann cells and the flatter nuclei of fibroblasts.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Dense regular tendon has parallel collagen bundles with rows of flattened fibroblast nuclei, but it lacks the axons and myelin of nerve.",
+          "C": "Skeletal muscle shows large fibers with cross-striations and peripheral nuclei, not wavy thin fibers with bubbly myelin.",
+          "D": "Smooth muscle shows spindle cells with central cigar-shaped nuclei, not wavy fibers with myelin surrounded by perineurium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-192_pa38_f39.jpg",
@@ -624,7 +692,11 @@
       "explanation": {
         "summary": "The left panel is a sebaceous gland of the skin: its cells have a clear, vacuolated cytoplasm. The right panel is a submandibular gland, a mixture of serous cells (dark purple with cytoplasmic granules) and mucous cells (clear cytoplasm). Both are examples of glands formed by epithelial tissue.",
         "whyCorrect": "The left panel is a sebaceous gland of the skin: its cells have a clear, vacuolated cytoplasm. The right panel is a submandibular gland, a mixture of serous cells (dark purple with cytoplasmic granules) and mucous cells (clear cytoplasm). Both are examples of glands formed by epithelial tissue.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Eccrine sweat glands are coiled tubules lined by cuboidal cells with pink cytoplasm, not lobules of clear, vacuolated cells.",
+          "B": "The parotid is a purely serous salivary gland with dark granular acini, not a skin structure with clear vacuolated cells.",
+          "D": "The submandibular gland is the right panel, a mix of serous and mucous acini in a salivary gland, not the skin gland on the left."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-157_pa37_f01.jpg",
@@ -659,7 +731,11 @@
       "explanation": {
         "summary": "Typical neurons have elongated processes (dendrites and axons) and a cell body with a single nucleus and a prominent nucleolus. Their appearance varies somewhat by brain location. Nervous tissue is made of two cell types: neurons and glial cells.",
         "whyCorrect": "Typical neurons have elongated processes (dendrites and axons) and a cell body with a single nucleus and a prominent nucleolus. Their appearance varies somewhat by brain location. Nervous tissue is made of two cell types: neurons and glial cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Fibroblasts have spindle-shaped nuclei with inconspicuous nucleoli and are found mainly in connective tissue, not as large cells in brain parenchyma.",
+          "C": "Glial cells have small nuclei without a prominent nucleolus and lack the large cell body with long processes seen here.",
+          "D": "Plasma cells have eccentric clock-face nuclei and a perinuclear clearing, and they are not normal residents of brain parenchyma."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-158_pa37_f05.jpg",
@@ -694,7 +770,11 @@
       "explanation": {
         "summary": "In a longitudinal section of normal peripheral nerve, the nerve fibers look wavy, and the dark nuclei belong to Schwann cells. Oligodendrocytes do the equivalent myelinating job only in the CNS.",
         "whyCorrect": "In a longitudinal section of normal peripheral nerve, the nerve fibers look wavy, and the dark nuclei belong to Schwann cells. Oligodendrocytes do the equivalent myelinating job only in the CNS.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Fibroblasts are present in the endoneurium and perineurium, but most nuclei in a peripheral nerve fiber belong to Schwann cells.",
+          "C": "Pericytes surround capillaries and are not the predominant nuclei aligned along nerve fibers.",
+          "D": "Oligodendrocytes myelinate axons only in the CNS and are not found in peripheral nerves."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-159_pa37_f06.jpg",
@@ -729,7 +809,11 @@
       "explanation": {
         "summary": "Tissue specimens are typically processed into formalin-fixed paraffin-embedded (FFPE) blocks. Tissue from the FFPE block is then thinly cut and stained, usually with hematoxylin and eosin, so a pathologist can examine it under the microscope.",
         "whyCorrect": "Tissue specimens are typically processed into formalin-fixed paraffin-embedded (FFPE) blocks. Tissue from the FFPE block is then thinly cut and stained, usually with hematoxylin and eosin, so a pathologist can examine it under the microscope.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A frozen-section block is made by rapid freezing in a cryostat for intraoperative diagnosis, without fixation and paraffin processing.",
+          "B": "An air-dried cytology smear spreads cells on a slide without tissue processing or embedding.",
+          "D": "An unfixed fresh touch preparation is made by touching the cut surface to a slide, skipping fixation and embedding."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-160_pa37_f07.jpg",
@@ -764,7 +848,11 @@
       "explanation": {
         "summary": "This is an H&E stain, the most commonly used histologic stain. Hematoxylin stains acidic (basophilic) structures such as nuclei and ribosomes blue-purple. Eosin stains basic (eosinophilic) structures such as cytoplasm and many extracellular proteins pink-red.",
         "whyCorrect": "This is an H&E stain, the most commonly used histologic stain. Hematoxylin stains acidic (basophilic) structures such as nuclei and ribosomes blue-purple. Eosin stains basic (eosinophilic) structures such as cytoplasm and many extracellular proteins pink-red.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Iron deposits stain golden-brown on H&E or blue with Prussian blue, but nuclei are blue-purple because their nucleic acids are acidic.",
+          "B": "Basic (eosinophilic) structures, such as cytoplasmic proteins, take up eosin and stain pink, not blue-purple.",
+          "D": "Carbohydrate-rich material is highlighted with PAS staining (magenta); hematoxylin binds the acidic phosphate groups of nucleic acids."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-161_pa37_f08.jpg",
@@ -799,7 +887,11 @@
       "explanation": {
         "summary": "The Gram stain is a sequential technique for telling bacterial species apart. It works by staining the cell wall, which makes it useful for identifying the organism behind a bacterial infection.",
         "whyCorrect": "The Gram stain is a sequential technique for telling bacterial species apart. It works by staining the cell wall, which makes it useful for identifying the organism behind a bacterial infection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Flagella are too thin to see on Gram stain and need special flagellar stains; they do not determine whether a bacterium stains purple or red.",
+          "B": "Capsules are shown with negative stains such as India ink and do not determine Gram reaction.",
+          "C": "Ribosomes are present in all bacteria and are not what the Gram stain distinguishes; the difference lies in peptidoglycan thickness and the outer membrane."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-162_pa37_f09.jpg",
@@ -834,7 +926,11 @@
       "explanation": {
         "summary": "Giemsa stain is widely used in hematology because it stains bone marrow, plasma cells and mast cells especially well. It is also very popular for identifying blood parasites.",
         "whyCorrect": "Giemsa stain is widely used in hematology because it stains bone marrow, plasma cells and mast cells especially well. It is also very popular for identifying blood parasites.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Gram stain classifies bacteria by cell wall and is not the standard stain for blood parasites such as trypanosomes or Plasmodium.",
+          "C": "Congo red stains amyloid, showing apple-green birefringence under polarized light, not blood parasites.",
+          "D": "Prussian blue detects iron, as in hemosiderin or ringed sideroblasts, not parasites in blood films."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-163_pa37_f10.jpg",
@@ -869,7 +965,11 @@
       "explanation": {
         "summary": "The periodic acid-Schiff (PAS) reaction highlights structures with large amounts of carbohydrate, such as mucus, the intestinal brush border, renal tubular cells, and the reticular fibers of connective tissue.",
         "whyCorrect": "The periodic acid-Schiff (PAS) reaction highlights structures with large amounts of carbohydrate, such as mucus, the intestinal brush border, renal tubular cells, and the reticular fibers of connective tissue.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Iron deposits are detected with Prussian blue, which colors them blue, not magenta.",
+          "C": "Neutral lipids are dissolved by routine processing and require frozen sections with Oil Red O or Sudan stains.",
+          "D": "Amyloid is detected with Congo red, showing apple-green birefringence, not a magenta mucin stain."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-164_pa37_f11.jpg",
@@ -904,7 +1004,11 @@
       "explanation": {
         "summary": "Masson's trichrome gives a multicolor result. Even though it uses red counterstains (muscle stains red here), it is best known for staining collagen fibers blue.",
         "whyCorrect": "Masson's trichrome gives a multicolor result. Even though it uses red counterstains (muscle stains red here), it is best known for staining collagen fibers blue.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Elastic fibers are best shown with elastic stains such as Verhoeff-van Gieson, where they appear black, not blue on trichrome.",
+          "B": "Ground substance is largely washed out or unstained in routine sections and does not appear as the blue fibrous material on trichrome.",
+          "C": "Reticulin fibers are type III collagen fibers best seen black on silver stains; the blue extracellular material on Masson trichrome is collagen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-165_pa37_f12.jpg",
@@ -939,7 +1043,11 @@
       "explanation": {
         "summary": "Congo red is a water-soluble diazo dye that stains amyloid deposits salmon-pink to orange-red. Under polarized light, the deposits show a characteristic apple-green birefringence, which is a hallmark of amyloidosis.",
         "whyCorrect": "Congo red is a water-soluble diazo dye that stains amyloid deposits salmon-pink to orange-red. Under polarized light, the deposits show a characteristic apple-green birefringence, which is a hallmark of amyloidosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Maltese-cross birefringence is seen with lipid droplets, such as in lipiduria, and some starch particles, not with Congo red-stained amyloid.",
+          "C": "Bright blue granular pigment on a special stain indicates iron on Prussian blue, not amyloid under polarized light.",
+          "D": "Negatively birefringent needles are monosodium urate crystals in gout, not Congo red-stained amyloid."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-166_pa37_f13.jpg",
@@ -974,7 +1082,11 @@
       "explanation": {
         "summary": "Prussian blue highlights iron deposits as a bright blue pigment, so it is the stain of choice for finding iron in a tissue or smear.",
         "whyCorrect": "Prussian blue highlights iron deposits as a bright blue pigment, so it is the stain of choice for finding iron in a tissue or smear.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Glycogen is detected with PAS staining, which colors it magenta and is removed by diastase, not bright blue.",
+          "B": "Collagen fibers stain blue on Masson trichrome, but they are extracellular fibers, not cytoplasmic pigment in a cell on a smear.",
+          "D": "Amyloid is detected with Congo red, which stains it salmon-pink and shows apple-green birefringence."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-167_pa37_f14.jpg",
@@ -1009,7 +1121,11 @@
       "explanation": {
         "summary": "Adipocytes are resident connective tissue cells that store, make and release fat. In H&E preparations the fat washes out, leaving only a round white space with a nucleus pushed to the edge. This is mature adipose tissue.",
         "whyCorrect": "Adipocytes are resident connective tissue cells that store, make and release fat. In H&E preparations the fat washes out, leaving only a round white space with a nucleus pushed to the edge. This is mature adipose tissue.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pericytes are small contractile cells wrapped around capillaries, not large round cells with a single empty vacuole.",
+          "B": "Mast cells are oval cells packed with basophilic granules, not empty-looking cells with peripheral nuclei.",
+          "D": "Fibroblasts are spindle-shaped cells with elongated nuclei between collagen fibers, not large round empty cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-168_pa37_f15.jpg",
@@ -1044,7 +1160,11 @@
       "explanation": {
         "summary": "Fibroblasts make collagen and elastic fibers and much of the ground substance. Resting fibroblasts have an oval nucleus; active ones become fusiform, with abundant RER and Golgi. They normally do not divide by mitosis except during wound healing.",
         "whyCorrect": "Fibroblasts make collagen and elastic fibers and much of the ground substance. Resting fibroblasts have an oval nucleus; active ones become fusiform, with abundant RER and Golgi. They normally do not divide by mitosis except during wound healing.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Adipocytes are large round cells with a single empty fat vacuole and a nucleus pushed to the edge.",
+          "B": "Pericytes wrap around capillaries in the basal lamina, rather than lying among extracellular fibers.",
+          "C": "Mast cells have cytoplasm packed with coarse basophilic granules, not pale cytoplasm."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-169_pa37_f16.jpg",
@@ -1079,7 +1199,11 @@
       "explanation": {
         "summary": "Elastin forms the inner core of elastic fibers. It is made of short peptide chains cross-linked by desmosine and isodesmosine, which lets the fiber stretch to about 150% of its resting length and then recoil.",
         "whyCorrect": "Elastin forms the inner core of elastic fibers. It is made of short peptide chains cross-linked by desmosine and isodesmosine, which lets the fiber stretch to about 150% of its resting length and then recoil.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cysteine forms disulfide bonds in many proteins and methionine is a start amino acid, but neither forms the elastin cross-links shown.",
+          "B": "Glycine and proline are abundant in both elastin and collagen, but they are not the cross-linking residues that give elastin recoil.",
+          "C": "Hydroxyproline and hydroxylysine are characteristic of collagen, where they stabilize the triple helix and cross-links."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-170_pa37_f17.jpg",
@@ -1114,7 +1238,11 @@
       "explanation": {
         "summary": "Elastic fibers occur wherever tissue must stretch and return to its shape, such as artery walls, bronchi, the dermis and vertebral ligaments. In this large artery, the wavy dark pink lines are elastic fibers.",
         "whyCorrect": "Elastic fibers occur wherever tissue must stretch and return to its shape, such as artery walls, bronchi, the dermis and vertebral ligaments. In this large artery, the wavy dark pink lines are elastic fibers.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Type IV collagen forms basement membranes and does not appear as wavy dark pink lines in the arterial media.",
+          "B": "Reticulin fibers are invisible on H&E and need silver stains; they do not form wavy lamellae in a large artery.",
+          "C": "Type I collagen forms thick pink bundles in the adventitia but is less refractile and wavy than the elastic lamellae that dominate a large artery's media."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-171_pa37_f18.jpg",
@@ -1149,7 +1277,11 @@
       "explanation": {
         "summary": "Reticulin (reticular) fibers are made of type III collagen. These extremely fine fibers form web-like stromal networks in hematopoietic organs (bone marrow, spleen, lymph nodes), around smooth muscle, and around the cells of parenchymal organs. They cannot be seen on H&E but show up well with silver stains.",
         "whyCorrect": "Reticulin (reticular) fibers are made of type III collagen. These extremely fine fibers form web-like stromal networks in hematopoietic organs (bone marrow, spleen, lymph nodes), around smooth muscle, and around the cells of parenchymal organs. They cannot be seen on H&E but show up well with silver stains.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Type IV collagen forms sheet-like networks in basement membranes, not the fine argyrophilic fibers forming stromal webs.",
+          "B": "Type II collagen is found in hyaline cartilage and the vitreous, not in reticular stroma around cells.",
+          "C": "Type I collagen forms thick bundles in bone, tendon, and dermis that stain pink on H&E, not fine silver-stained webs."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-172_pa37_f19.jpg",
@@ -1184,7 +1316,11 @@
       "explanation": {
         "summary": "Dense regular connective tissue is made of thick, tightly packed, parallel bundles of type I collagen with scattered fibroblasts and little ground substance. It resists tension from one direction, which suits tendons and ligaments.",
         "whyCorrect": "Dense regular connective tissue is made of thick, tightly packed, parallel bundles of type I collagen with scattered fibroblasts and little ground substance. It resists tension from one direction, which suits tendons and ligaments.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Reticular connective tissue has fine type III collagen fibers forming a web, visible only with silver stains, around hematopoietic cells.",
+          "B": "Dense irregular connective tissue has thick collagen bundles running in many directions, as in the dermis, not parallel bundles.",
+          "C": "Loose connective tissue has abundant ground substance, many cells, and thin fibers, not tightly packed parallel bundles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-173_pa37_f20.jpg",
@@ -1219,7 +1355,11 @@
       "explanation": {
         "summary": "Loose (areolar) connective tissue has abundant clear ground substance, numerous cells (fibroblasts, plasma cells [P], macrophages), and fine collagen and elastic fibers. It forms the lamina propria under the epithelium of the GI and respiratory tracts; this field is from the colon.",
         "whyCorrect": "Loose (areolar) connective tissue has abundant clear ground substance, numerous cells (fibroblasts, plasma cells [P], macrophages), and fine collagen and elastic fibers. It forms the lamina propria under the epithelium of the GI and respiratory tracts; this field is from the colon.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Dense irregular connective tissue has thick, randomly oriented collagen bundles with little ground substance, not abundant clear space.",
+          "B": "Reticular connective tissue is a fine web of type III collagen supporting lymphoid or hematopoietic cells, best seen on silver stain.",
+          "D": "Dense regular connective tissue has tightly packed parallel collagen bundles with few cells, as in tendons."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-174_pa37_f21.jpg",
@@ -1254,7 +1394,11 @@
       "explanation": {
         "summary": "Reticular connective tissue is made of type III collagen (reticulin) fibers in a net-like pattern that supports hematopoietic and lymphoid cells in the bone marrow, lymph nodes and spleen. Reticulin fibers are invisible on H&E but easy to see with silver stains.",
         "whyCorrect": "Reticular connective tissue is made of type III collagen (reticulin) fibers in a net-like pattern that supports hematopoietic and lymphoid cells in the bone marrow, lymph nodes and spleen. Reticulin fibers are invisible on H&E but easy to see with silver stains.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Congo red stains amyloid deposits salmon-pink, not fine reticulin fibers.",
+          "C": "H&E is the routine stain in which reticulin fibers are invisible, so it cannot be the method used here.",
+          "D": "Prussian blue detects iron deposits, not reticular fibers."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-175_pa37_f22.jpg",
@@ -1289,7 +1433,11 @@
       "explanation": {
         "summary": "Epithelial tissues are avascular. Blood vessels sit in the underlying connective tissue (here the renal interstitium), and oxygen, nutrients and signaling molecules diffuse through that connective tissue and across the basement membrane to reach the epithelial cells. The figure shows no vessels within the epithelial layer itself.",
         "whyCorrect": "Epithelial tissues are avascular. Blood vessels sit in the underlying connective tissue (here the renal interstitium), and oxygen, nutrients and signaling molecules diffuse through that connective tissue and across the basement membrane to reach the epithelial cells. The figure shows no vessels within the epithelial layer itself.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The tubular lumen contains filtrate and is not the only source of oxygen and nutrients; epithelia depend on diffusion from underlying vessels.",
+          "B": "Epithelia are avascular, so no capillaries run between adjacent epithelial cells.",
+          "D": "Lymphatics drain interstitial fluid from connective tissue and do not run within the basal lamina to supply epithelial cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-193_pa39_f40.jpg",
@@ -1324,7 +1472,11 @@
       "explanation": {
         "summary": "The top-right panel is pseudostratified columnar epithelium: a single layer of columnar cells, all resting on the basal lamina, whose nuclei sit at different heights so the layer looks stratified. It is the respiratory epithelium of the trachea, bronchi and nasal cavity. The esophagus and vagina are lined by stratified squamous epithelium, the renal pelvis and bladder by transitional epithelium, sweat gland ducts by stratified cuboidal epithelium, and the pleura and peritoneum by simple squamous epithelium.",
         "whyCorrect": "The top-right panel is pseudostratified columnar epithelium: a single layer of columnar cells, all resting on the basal lamina, whose nuclei sit at different heights so the layer looks stratified. It is the respiratory epithelium of the trachea, bronchi and nasal cavity. The esophagus and vagina are lined by stratified squamous epithelium, the renal pelvis and bladder by transitional epithelium, sweat gland ducts by stratified cuboidal epithelium, and the pleura and peritoneum by simple squamous epithelium.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The esophagus and vagina are lined by nonkeratinized stratified squamous epithelium, which has multiple layers with flattened surface cells.",
+          "C": "Sweat gland ducts are lined by stratified cuboidal epithelium, typically two layers of cuboidal cells.",
+          "D": "The renal pelvis and bladder are lined by transitional epithelium (urothelium), with dome-shaped umbrella cells on the surface."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-194_pa39_f41.jpg",
@@ -1359,7 +1511,11 @@
       "explanation": {
         "summary": "These are goblet cells, which are unicellular exocrine glands named for their wine-glass shape. They are scattered among the columnar cells lining the intestinal and respiratory tracts and release their product (mucus) by exocytosis. Their mucin-filled cytoplasm looks pale on H&E.",
         "whyCorrect": "These are goblet cells, which are unicellular exocrine glands named for their wine-glass shape. They are scattered among the columnar cells lining the intestinal and respiratory tracts and release their product (mucus) by exocytosis. Their mucin-filled cytoplasm looks pale on H&E.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Adipocytes lie in connective tissue, not among columnar epithelial cells in the colonic mucosa, and they are larger with a single fat vacuole.",
+          "C": "Serous cells have basophilic, granular cytoplasm from abundant RER and zymogen granules, not pale mucin-filled cytoplasm.",
+          "D": "Paneth cells sit at the base of small-intestinal crypts and have bright red eosinophilic granules, not pale cytoplasm."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-195_pa40_f42.jpg",
@@ -1394,7 +1550,11 @@
       "explanation": {
         "summary": "The right side shows serous cells. Their cytoplasm is basophilic because it is packed with rough endoplasmic reticulum, and the ribosomal RNA on that RER is negatively charged and binds the basic dye hematoxylin. The left side shows mucous cells. Their mucin is washed out during processing, so their cytoplasm looks clear and their nuclei are flattened toward the edge of the cell.",
         "whyCorrect": "The right side shows serous cells. Their cytoplasm is basophilic because it is packed with rough endoplasmic reticulum, and the ribosomal RNA on that RER is negatively charged and binds the basic dye hematoxylin. The left side shows mucous cells. Their mucin is washed out during processing, so their cytoplasm looks clear and their nuclei are flattened toward the edge of the cell.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lipid droplets are dissolved during processing and leave clear spaces rather than basophilic staining.",
+          "B": "Cytokeratin filaments are proteins that bind eosin and make cytoplasm pink, not purple-blue.",
+          "C": "Mucin is the reason the cells on the left look pale; it is largely washed out and does not cause purple staining."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-196_pa40_f43.jpg",
@@ -1429,7 +1589,11 @@
       "explanation": {
         "summary": "The right-hand panel shows holocrine secretion. The cell accumulates its product, then dies and becomes part of the secretion ('whole-ocrine'). Sebaceous glands of the skin work this way. Mammary glands are apocrine, and salivary glands (such as the parotid) and eccrine sweat glands are eccrine (merocrine). The lacrimal gland is a serous gland and is not holocrine.",
         "whyCorrect": "The right-hand panel shows holocrine secretion. The cell accumulates its product, then dies and becomes part of the secretion ('whole-ocrine'). Sebaceous glands of the skin work this way. Mammary glands are apocrine, and salivary glands (such as the parotid) and eccrine sweat glands are eccrine (merocrine). The lacrimal gland is a serous gland and is not holocrine.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Mammary glands secrete their lipid component by apocrine secretion, pinching off part of the apical cytoplasm without the cell dying.",
+          "C": "Eccrine sweat glands release their watery product by merocrine exocytosis without loss of cytoplasm.",
+          "D": "The parotid releases serous enzymes by merocrine exocytosis of secretory granules, leaving the cell intact."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-197_pa40_f44.jpg",
@@ -1464,7 +1628,11 @@
       "explanation": {
         "summary": "S marks sebaceous glands, which sit beside hair follicles and are the classic holocrine glands. Their cells accumulate lipid-rich sebum until the whole cell breaks apart and becomes the secretion. This is also why a sebaceous cyst comes back after simple drainage: the glandular lining stays behind.",
         "whyCorrect": "S marks sebaceous glands, which sit beside hair follicles and are the classic holocrine glands. Their cells accumulate lipid-rich sebum until the whole cell breaks apart and becomes the secretion. This is also why a sebaceous cyst comes back after simple drainage: the glandular lining stays behind.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Apocrine secretion pinches off part of the apical cytoplasm, as in mammary and apocrine sweat glands, without destroying the whole cell.",
+          "B": "Merocrine secretion releases product by exocytosis with the cell intact, as in eccrine sweat and salivary glands.",
+          "C": "Endocrine secretion releases hormones into the blood without ducts, whereas these glands drain through ducts into hair follicles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-198_pa40_f45.jpg",
@@ -1499,7 +1667,11 @@
       "explanation": {
         "summary": "The bottom inset is a hemidesmosome. Its integrins anchor the basal epithelial cell to laminin in the basement membrane. In bullous pemphigoid, autoantibodies against a hemidesmosome component separate the epidermis from the basal lamina and cause blisters, with antibodies seen at the dermal-epidermal junction on immunofluorescence. Pemphigus vulgaris instead targets desmoglein in spot desmosomes.",
         "whyCorrect": "The bottom inset is a hemidesmosome. Its integrins anchor the basal epithelial cell to laminin in the basement membrane. In bullous pemphigoid, autoantibodies against a hemidesmosome component separate the epidermis from the basal lamina and cause blisters, with antibodies seen at the dermal-epidermal junction on immunofluorescence. Pemphigus vulgaris instead targets desmoglein in spot desmosomes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pemphigus vulgaris is caused by antibodies against desmoglein in desmosomes between keratinocytes, producing intraepidermal blisters, not against hemidesmosomes.",
+          "B": "Kartagener syndrome is a dynein defect causing primary ciliary dyskinesia, not an autoimmune blistering disease.",
+          "D": "Acne vulgaris is a disorder of pilosebaceous units involving sebum, Cutibacterium acnes, and inflammation, not an antibody attack on cell junctions."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-199_pa40_f46.jpg",
@@ -1534,7 +1706,11 @@
       "explanation": {
         "summary": "This is a gap junction. Connexins assemble into a cylindrical connexon that can open or close, which lets small ions and molecules pass directly from one cell to the next. That allows epithelial cells, and cardiac muscle cells, to act as a coordinated unit. The distractors describe the other junctions: tight junctions seal the space, hemidesmosomes anchor to the basement membrane, belt desmosomes link actin, and spot desmosomes link intermediate filaments.",
         "whyCorrect": "This is a gap junction. Connexins assemble into a cylindrical connexon that can open or close, which lets small ions and molecules pass directly from one cell to the next. That allows epithelial cells, and cardiac muscle cells, to act as a coordinated unit. The distractors describe the other junctions: tight junctions seal the space, hemidesmosomes anchor to the basement membrane, belt desmosomes link actin, and spot desmosomes link intermediate filaments.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Linking actin cytoskeletons is the role of the zonula adherens (belt desmosome), which uses cadherins rather than connexins.",
+          "B": "Anchoring the basal surface to the basement membrane is done by hemidesmosomes, which use integrins.",
+          "C": "Sealing the paracellular space is the function of tight junctions, built from claudins and occludin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-200_pa40_f47.jpg",
@@ -1569,7 +1745,11 @@
       "explanation": {
         "summary": "The epidermis is keratinized stratified squamous epithelium. Keratin left behind as superficial cells die keeps the skin dry and waterproof. The dermis below it is dense irregular connective tissue, and the hypodermis contains adipose tissue.",
         "whyCorrect": "The epidermis is keratinized stratified squamous epithelium. Keratin left behind as superficial cells die keeps the skin dry and waterproof. The dermis below it is dense irregular connective tissue, and the hypodermis contains adipose tissue.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Dense irregular collagenous connective tissue makes up the dermis beneath the epidermis, not the outermost surface layer.",
+          "B": "Pseudostratified ciliated columnar epithelium lines the airways such as the trachea and bronchi; it is never found on the skin surface.",
+          "D": "Nonkeratinized stratified squamous epithelium lines moist surfaces like the oral cavity, esophagus and vagina; skin must be keratinized to stay dry and waterproof."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-201_pa40_f48.jpg",
@@ -1604,7 +1784,11 @@
       "explanation": {
         "summary": "Structure 4 is the arrector pili muscle, a bundle of smooth muscle attached to the hair follicle that makes the hair stand up. The other numbered structures are the epidermis (1), dermis (2), sebaceous gland (3), adipose tissue of the hypodermis (5) and hair follicle (6).",
         "whyCorrect": "Structure 4 is the arrector pili muscle, a bundle of smooth muscle attached to the hair follicle that makes the hair stand up. The other numbered structures are the epidermis (1), dermis (2), sebaceous gland (3), adipose tissue of the hypodermis (5) and hair follicle (6).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Adipose tissue is the fat of the hypodermis (structure 5); it is not a contractile bundle running obliquely to the follicle.",
+          "B": "Cardiac muscle is found only in the heart wall and great-vessel roots, never in the dermis.",
+          "C": "Skeletal muscle is voluntary and lies deep to the skin (except facial muscles of expression); the arrector pili is involuntary, sympathetically controlled smooth muscle."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-202_pa40_f49.jpg",

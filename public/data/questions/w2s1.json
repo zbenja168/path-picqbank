@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Neutrophils arrive first and peak around 24 hours; macrophages become the predominant cell type roughly 48-72 hours after injury or infection.",
         "whyCorrect": "Neutrophils arrive first and peak around 24 hours; macrophages become the predominant cell type roughly 48-72 hours after injury or infection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "At 6-12 hours neutrophils are arriving and rising toward their 24-hour peak; macrophages have not yet taken over.",
+          "C": "In the first minutes, vascular changes such as vasodilation and increased permeability dominate before significant leukocyte emigration.",
+          "D": "By 2-3 weeks inflammation has generally shifted to repair with granulation tissue and scar, well after macrophages predominate.",
+          "E": "At the moment of injury no leukocytes have emigrated yet; macrophages take 2-3 days to predominate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-026_pa031_f02.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The opaque areas correspond to alveolar spaces filled with purulent exudate, a pattern consistent with bacterial pneumonia.",
         "whyCorrect": "The opaque areas correspond to alveolar spaces filled with purulent exudate, a pattern consistent with bacterial pneumonia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A large pleural effusion causes dependent opacity that blunts the costophrenic angle with a meniscus, not patchy airspace opacities.",
+          "B": "Diffuse fibrosis gives reticular, honeycomb lines and reduced lung volumes rather than consolidated regions.",
+          "D": "Cardiomegaly enlarges the cardiac silhouette; it does not produce focal opacities within the lung fields.",
+          "E": "Pneumothorax produces lucency without lung markings and a visible pleural line, the opposite of increased opacity."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-051_pa031_f03.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "A blister formed by accumulation of protein-poor, cell-poor (transudate-like) fluid separating the epidermis represents serous inflammation.",
         "whyCorrect": "A blister formed by accumulation of protein-poor, cell-poor (transudate-like) fluid separating the epidermis represents serous inflammation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Ulcerative inflammation is loss of the epithelial surface; here the epidermis is intact but lifted off.",
+          "C": "Suppurative inflammation forms pus rich in neutrophils, not clear, cell-poor watery fluid.",
+          "D": "Fibrinous inflammation deposits eosinophilic fibrin meshwork on serosal surfaces, not watery fluid in a blister.",
+          "E": "Granulomatous inflammation is a collection of epithelioid macrophages and giant cells, not a fluid-filled space."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-132_pa031_f04.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Increased vascular permeability allows fibrinogen to leak and deposit as fibrin on the pericardial surface, producing a fibrinous exudate (fibrinous pericarditis).",
         "whyCorrect": "Increased vascular permeability allows fibrinogen to leak and deposit as fibrin on the pericardial surface, producing a fibrinous exudate (fibrinous pericarditis).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A hemorrhagic exudate is dominated by red cells and appears blood-red, not as a shaggy pink fibrin meshwork.",
+          "B": "Purulent exudate is creamy pus full of neutrophils rather than a strand-like fibrin coating.",
+          "D": "Serous exudate is thin, clear fluid with little protein, which cannot produce a shaggy bread-and-butter surface.",
+          "E": "Caseous material is cheesy necrotic debris of granulomas, as in tuberculosis, not a fibrin layer on the pericardium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-133_pa031_f05.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "An ulcer is a local defect of an epithelial surface produced by sloughing of inflamed necrotic tissue, here a chronic duodenal ulcer.",
         "whyCorrect": "An ulcer is a local defect of an epithelial surface produced by sloughing of inflamed necrotic tissue, here a chronic duodenal ulcer.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Fibrinous inflammation coats an intact serosal surface with fibrin rather than creating a crater through the mucosa.",
+          "C": "Serous inflammation is accumulation of thin watery fluid, as in a blister, without a tissue defect.",
+          "D": "Suppurative inflammation forms collections of pus such as abscesses, not a punched-out mucosal crater.",
+          "E": "Pseudomembranous inflammation forms adherent plaques of fibrin, mucus and debris on the surface (e.g., C. difficile colitis), not a deep crater."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-134_pa031_f06.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "A small cell dominated by a round nucleus with scant cytoplasm is a lymphocyte. Neutrophils have multilobed nuclei, eosinophils have bilobed nuclei with red granules, monocytes are larger with reniform nuclei, and basophils contain dark blue granules.",
         "whyCorrect": "A small cell dominated by a round nucleus with scant cytoplasm is a lymphocyte. Neutrophils have multilobed nuclei, eosinophils have bilobed nuclei with red granules, monocytes are larger with reniform nuclei, and basophils contain dark blue granules.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Monocytes are the largest leukocytes, with abundant gray-blue cytoplasm and a kidney-shaped or folded nucleus.",
+          "B": "Basophils are packed with large dark purple-blue granules that obscure the nucleus.",
+          "C": "Eosinophils have a bilobed nucleus and bright orange-red cytoplasmic granules.",
+          "E": "Neutrophils have a segmented nucleus of 3-5 lobes and pale pink granular cytoplasm."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-027_pa032_f02.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Caseating (necrotizing) granulomas in the lung are the hallmark of Mycobacterium tuberculosis infection. The listed pyogenic bacteria produce acute suppurative inflammation with abscesses rather than organized granulomas with central caseous necrosis.",
         "whyCorrect": "Caseating (necrotizing) granulomas in the lung are the hallmark of Mycobacterium tuberculosis infection. The listed pyogenic bacteria produce acute suppurative inflammation with abscesses rather than organized granulomas with central caseous necrosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Streptococcus pneumoniae causes lobar pneumonia with neutrophil-filled alveoli, not caseating granulomas.",
+          "B": "Escherichia coli is a pyogenic organism producing neutrophilic infiltrates and abscesses.",
+          "C": "Pseudomonas aeruginosa causes necrotizing neutrophilic pneumonia, often with vasculitis, but not caseating granulomas.",
+          "E": "Staphylococcus aureus causes abscess-forming suppurative pneumonia rather than granulomas."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-135_pa032_f04.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Compact, non-caseating granulomas that lack central necrosis are classic for sarcoidosis. Tuberculosis and histoplasmosis usually caseate, cat-scratch disease shows suppurative granulomas, and while Crohn's granulomas are non-caseating they occur in the gut, not the lung.",
         "whyCorrect": "Compact, non-caseating granulomas that lack central necrosis are classic for sarcoidosis. Tuberculosis and histoplasmosis usually caseate, cat-scratch disease shows suppurative granulomas, and while Crohn's granulomas are non-caseating they occur in the gut, not the lung.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Tuberculosis classically forms caseating granulomas with central necrosis.",
+          "C": "Crohn disease does form non-caseating granulomas, but in the bowel wall rather than as the classic lung lesion.",
+          "D": "Cat-scratch disease produces stellate suppurative (necrotizing) granulomas in lymph nodes.",
+          "E": "Histoplasmosis typically causes caseating granulomas in the lung that resemble tuberculosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-136_pa032_f06.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Sarcoid granulomas are non-caseating, so they lack the central caseous necrosis typical of tuberculosis. They still contain multinucleated giant cells, epithelioid macrophages, lymphocytes, and a surrounding fibrous rim, so those are present rather than absent.",
         "whyCorrect": "Sarcoid granulomas are non-caseating, so they lack the central caseous necrosis typical of tuberculosis. They still contain multinucleated giant cells, epithelioid macrophages, lymphocytes, and a surrounding fibrous rim, so those are present rather than absent.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lymphocytes cuff sarcoid granulomas just as they do tuberculous ones, so they are present, not absent.",
+          "B": "Epithelioid macrophages are the core component of every granuloma, including sarcoid.",
+          "C": "Sarcoid granulomas often have a fibrous rim and can become hyalinized, so this is not what they lack.",
+          "D": "Multinucleated giant cells are common in sarcoid granulomas, sometimes containing asteroid or Schaumann bodies."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-137_pa032_f07.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "The layer shown between epithelium and interstitium is the basement membrane, a specialized extracellular matrix rich in type IV collagen and laminin that provides an anchoring, supporting surface for the growth of epithelial, endothelial, and smooth muscle cells.",
         "whyCorrect": "The layer shown between epithelium and interstitium is the basement membrane, a specialized extracellular matrix rich in type IV collagen and laminin that provides an anchoring, supporting surface for the growth of epithelial, endothelial, and smooth muscle cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tensile strength in tendons comes from interstitial type I collagen, and elastic recoil from elastin; the basement membrane is a thin sheet.",
+          "B": "Action potentials pass between cells through gap junctions, not through the acellular basement membrane.",
+          "C": "Oxygen storage is the role of myoglobin and hemoglobin, not an extracellular matrix layer.",
+          "D": "Wound contraction is generated by myofibroblasts, not by the static basement membrane."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-028_pa033_f01.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Healing by secondary intention occurs with extensive tissue loss: the large defect fills with granulation tissue, and myofibroblasts form a contractile network that pulls the wound together, reducing the defect over weeks.",
         "whyCorrect": "Healing by secondary intention occurs with extensive tissue loss: the large defect fills with granulation tissue, and myofibroblasts form a contractile network that pulls the wound together, reducing the defect over weeks.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Scarless regeneration occurs only with small superficial injuries; a large gaping wound cannot be restored without granulation tissue and scar.",
+          "B": "Surgical apposition with minimal scar is healing by primary intention, used for clean incisions with closely approximated edges.",
+          "D": "Cardiac muscle is permanent tissue that cannot regenerate, and it plays no role in closing a skin wound.",
+          "E": "All wound healing begins with an inflammatory phase that clears debris before proliferation and remodeling."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-138_pa033_f03.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "A keloid is exuberant scarring that extends beyond the boundaries of the original wound and shows thick, brightly eosinophilic collagen arranged haphazardly; unlike hypertrophic scars, which stay within the original wound and may regress, keloids do not regress on their own.",
         "whyCorrect": "A keloid is exuberant scarring that extends beyond the boundaries of the original wound and shows thick, brightly eosinophilic collagen arranged haphazardly; unlike hypertrophic scars, which stay within the original wound and may regress, keloids do not regress on their own.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Dehiscence is separation of a closed wound, typically from mechanical stress or poor healing, the opposite of raised excess scar.",
+          "B": "A hypertrophic scar is raised but stays within the original wound boundaries and often regresses; this lesion extends beyond them.",
+          "D": "A contracture is excessive shrinkage of a scar that deforms tissue and limits motion, not a raised overgrowth beyond the wound.",
+          "E": "Granulation tissue is pink, granular, highly vascular early repair tissue with new capillaries and fibroblasts, not thick haphazard collagen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-139_pa033_f04.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "An ulcer is a wound lacking an intact epithelial surface; histologically it correlates with loss of the overlying epithelium plus surface necrotic debris, inflammation, and underlying granulation tissue, as seen in these venous, arterial, diabetic, and pressure-related chronic wounds.",
         "whyCorrect": "An ulcer is a wound lacking an intact epithelial surface; histologically it correlates with loss of the overlying epithelium plus surface necrotic debris, inflammation, and underlying granulation tissue, as seen in these venous, arterial, diabetic, and pressure-related chronic wounds.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Neoplastic squamous proliferation defines squamous cell carcinoma, which can ulcerate but is not what makes a wound an ulcer.",
+          "B": "An encapsulated pus collection under intact epithelium is an abscess, whereas an ulcer by definition lacks the surface epithelium.",
+          "C": "Full-thickness regeneration with an intact surface describes a healed wound, the opposite of an ulcer.",
+          "E": "Keratinocyte hyperplasia forming a raised nodule describes a proliferative lesion with intact epithelium, not a surface defect."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-140_pa033_f05.png",

@@ -29,7 +29,11 @@
       "explanation": {
         "summary": "The lecture states that all cancers are united in fundamental changes in cell physiology, the so-called 'hallmarks of cancer' (Figure 1), which include activating invasion and metastasis, the focus of this brick.",
         "whyCorrect": "The lecture states that all cancers are united in fundamental changes in cell physiology, the so-called 'hallmarks of cancer' (Figure 1), which include activating invasion and metastasis, the focus of this brick.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "TNM staging records tumor size, nodal spread and metastasis for prognosis; it is not a list of shared cell-physiology changes.",
+          "C": "The two-hit hypothesis explains inactivation of both alleles of a tumor suppressor such as RB1, not the full set of cancer traits.",
+          "D": "Tumor grading scores differentiation and mitotic activity under the microscope, not the capabilities all cancers acquire."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-222_pa42_f69.jpg",
@@ -64,7 +68,11 @@
       "explanation": {
         "summary": "Next to metastasis, invasiveness is the most reliable discriminator between benign and malignant tumors. The left lesion (fibroadenoma) is encapsulated and sharply demarcated; the right (invasive ductal carcinoma) has an irregular border showing infiltration into surrounding tissue.",
         "whyCorrect": "Next to metastasis, invasiveness is the most reliable discriminator between benign and malignant tumors. The left lesion (fibroadenoma) is encapsulated and sharply demarcated; the right (invasive ductal carcinoma) has an irregular border showing infiltration into surrounding tissue.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A thin fibrous capsule suggests a benign, expansile growth, like the fibroadenoma on the left.",
+          "C": "Size alone does not separate benign from malignant; benign tumors can grow large and carcinomas can be small.",
+          "D": "Cut-surface color reflects tissue composition such as fat or necrosis and is not a reliable indicator of malignancy."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-223_pa42_f70.jpg",
@@ -99,7 +107,11 @@
       "explanation": {
         "summary": "The lecture notes that a tumor cell is significantly larger than most blood cells and will therefore likely get stuck at the first capillary bed it crosses; this helps explain why the liver and lungs are the most common sites of hematogenous metastasis.",
         "whyCorrect": "The lecture notes that a tumor cell is significantly larger than most blood cells and will therefore likely get stuck at the first capillary bed it crosses; this helps explain why the liver and lungs are the most common sites of hematogenous metastasis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Capillaries do have a basement membrane, and tumor cells must breach it to extravasate, so this does not explain trapping.",
+          "C": "Hemodynamic shear stress tends to damage circulating tumor cells rather than trap them; lodging is a mechanical size mismatch with the narrow capillary.",
+          "D": "Tumor proteases degrade matrix to allow invasion; they do not stop blood flow to trap cells mechanically."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-224_pa42_f71.jpg",
@@ -134,7 +146,11 @@
       "explanation": {
         "summary": "Beta-catenin binds E-cadherin adhesion receptors and, via alpha-catenin, associates with the actin cytoskeleton to form the zona adherens. Cancers begin invasion by disrupting E-cadherin or catenins.",
         "whyCorrect": "Beta-catenin binds E-cadherin adhesion receptors and, via alpha-catenin, associates with the actin cytoskeleton to form the zona adherens. Cancers begin invasion by disrupting E-cadherin or catenins.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Desmoplakin anchors desmosomal cadherins (desmogleins and desmocollins) to keratin intermediate filaments, not E-cadherin to actin.",
+          "C": "Integrins link cells to the extracellular matrix, such as laminin and fibronectin, at focal adhesions and hemidesmosomes, not cell to cell via E-cadherin.",
+          "D": "Keratin is an intermediate filament anchored at desmosomes and hemidesmosomes; it is not an adaptor binding E-cadherin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-225_pa42_f72.jpg",
@@ -169,7 +185,11 @@
       "explanation": {
         "summary": "Tumor cells cross the basement membrane and extracellular matrix by cleaving them with proteases, which are secreted by the tumor cells themselves or induced from macrophages or fibroblasts in the surrounding tissue. Protease release also frees growth-promoting agents.",
         "whyCorrect": "Tumor cells cross the basement membrane and extracellular matrix by cleaving them with proteases, which are secreted by the tumor cells themselves or induced from macrophages or fibroblasts in the surrounding tissue. Protease release also frees growth-promoting agents.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Platelets and megakaryocytes mainly supply growth factors and help shield tumor cells in the bloodstream, not the matrix-degrading proteases of local invasion.",
+          "C": "Plasma cells and B cells produce antibodies and are not the stromal cells recruited to secrete proteases for invasion.",
+          "D": "Neutrophils and eosinophils do carry proteases, but tumor cells characteristically induce macrophages and fibroblasts in the stroma to supply them."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-226_pa42_f73.jpg",
@@ -204,7 +224,11 @@
       "explanation": {
         "summary": "Invasive lobular carcinoma downregulates E-cadherin, so cells separate easily and infiltrate in single file. The immunostain shows lack of E-cadherin (no brown staining) in the tumor cells, while residual normal ducts retain staining.",
         "whyCorrect": "Invasive lobular carcinoma downregulates E-cadherin, so cells separate easily and infiltrate in single file. The immunostain shows lack of E-cadherin (no brown staining) in the tumor cells, while residual normal ducts retain staining.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Estrogen receptor is a nuclear hormone receptor, and invasive lobular carcinoma is usually ER-positive; ER loss does not cause single-file discohesion.",
+          "C": "HER2 is a membrane growth-factor receptor that is overexpressed, not lost, in some breast cancers, and it does not govern cell-cell adhesion.",
+          "D": "Laminin receptors are increased, not lost, in invasive tumor cells, helping them attach to basement membrane during invasion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-227_pa42_f74.jpg",
@@ -239,7 +263,11 @@
       "explanation": {
         "summary": "Carcinomas are associated with lymphatic spread, and breast cancer is the lecture's example (upper outer quadrant tumors drain first to axillary nodes). Renal cell, choriocarcinoma, hepatocellular, and follicular thyroid carcinomas are the four carcinomas known for hematogenous spread.",
         "whyCorrect": "Carcinomas are associated with lymphatic spread, and breast cancer is the lecture's example (upper outer quadrant tumors drain first to axillary nodes). Renal cell, choriocarcinoma, hepatocellular, and follicular thyroid carcinomas are the four carcinomas known for hematogenous spread.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Renal cell carcinoma classically spreads hematogenously, often invading the renal vein, rather than via lymphatics.",
+          "B": "Choriocarcinoma invades blood vessels early and spreads hematogenously to the lungs.",
+          "C": "Hepatocellular carcinoma tends to invade the portal and hepatic veins and spreads hematogenously."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-228_pa42_f75.jpg",
@@ -274,7 +302,11 @@
       "explanation": {
         "summary": "Sarcomas are associated with hematogenous spread, which can occur through arteries or veins. Arteries are thicker and harder to penetrate because of their elastin content, so arterial spread is less common; venous spread follows normal venous drainage to the first capillary bed.",
         "whyCorrect": "Sarcomas are associated with hematogenous spread, which can occur through arteries or veins. Arteries are thicker and harder to penetrate because of their elastin content, so arterial spread is less common; venous spread follows normal venous drainage to the first capillary bed.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Arterial blood flow does not have lower shear stress, and shear stress is not why arterial invasion is uncommon.",
+          "B": "Arteries do have a basement membrane beneath the endothelium; lacking one would make them easier, not harder, to penetrate.",
+          "D": "Veins of the gut, not arteries, drain into the liver through the portal system, and this does not explain resistance to arterial invasion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-229_pa42_f76.jpg",
@@ -309,7 +341,11 @@
       "explanation": {
         "summary": "Seeding requires an open space such as the peritoneal cavity, pleural cavity, subarachnoid space, or joint cavities. Ovarian carcinoma is the classic example, seeding the peritoneal cavity and omentum.",
         "whyCorrect": "Seeding requires an open space such as the peritoneal cavity, pleural cavity, subarachnoid space, or joint cavities. Ovarian carcinoma is the classic example, seeding the peritoneal cavity and omentum.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Lymphatic spread produces tumor deposits within regional lymph nodes, not innumerable nodules studding the omental surface.",
+          "C": "Hematogenous venous spread seeds organs at the first capillary bed, such as liver and lung, producing parenchymal nodules rather than serosal studding.",
+          "D": "Arterial hematogenous spread is uncommon and deposits tumor within distant organs, not across the peritoneal surfaces."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-230_pa42_f77.jpg",

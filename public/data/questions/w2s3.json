@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The instruments pictured are automated blood-bank analyzers used for ABO/Rh typing, antibody screening, and crossmatching to support safe blood transfusion.",
         "whyCorrect": "The instruments pictured are automated blood-bank analyzers used for ABO/Rh typing, antibody screening, and crossmatching to support safe blood transfusion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Microbiology uses culture plates, incubators and organism-identification systems, not ABO/Rh typing analyzers.",
+          "C": "Urinalysis uses dipstick readers and urine microscopy, not immunohematology instruments.",
+          "D": "Clinical chemistry analyzers measure electrolytes and metabolites; they do not type blood or crossmatch.",
+          "E": "Coagulation analyzers measure clotting times such as PT and aPTT, not red cell antigens and antibodies."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-029_pa005_f02.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "This is a clinical chemistry laboratory, which uses large automated chemistry analyzers to measure electrolytes, glucose, liver and kidney panels, and other biochemical analytes at high volume.",
         "whyCorrect": "This is a clinical chemistry laboratory, which uses large automated chemistry analyzers to measure electrolytes, glucose, liver and kidney panels, and other biochemical analytes at high volume.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hematology uses cell counters and smear stainers for CBCs; the rows of large chemistry modules shown measure analytes.",
+          "B": "Blood bank instruments perform ABO/Rh typing and crossmatching, not high-volume biochemical panels.",
+          "C": "Microbiology relies on culture plates and incubators rather than banks of chemistry analyzers.",
+          "D": "Anatomic pathology processes tissue with processors, microtomes and stainers, not chemistry analyzers."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-030_pa005_f03.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "This is the microbiology laboratory, which cultures specimens on media plates to isolate and identify micro-organisms and guide antimicrobial therapy.",
         "whyCorrect": "This is the microbiology laboratory, which cultures specimens on media plates to isolate and identify micro-organisms and guide antimicrobial therapy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hematology runs blood counts and examines smears; it does not work with stacks of agar culture plates.",
+          "B": "Clinical chemistry relies on automated analyzers measuring chemical analytes, not culture plates.",
+          "D": "The blood bank types and crossmatches blood; it does not grow organisms on agar plates.",
+          "E": "Urinalysis examines urine with dipsticks and microscopy; urine cultures are performed by microbiology."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-031_pa005_f05.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "This is a disk-diffusion (Kirby-Bauer) susceptibility test. A zone of inhibited growth around a disk means the antibiotic diffusing from it suppresses the organism, indicating susceptibility; absence of a zone indicates resistance.",
         "whyCorrect": "This is a disk-diffusion (Kirby-Bauer) susceptibility test. A zone of inhibited growth around a disk means the antibiotic diffusing from it suppresses the organism, indicating susceptibility; absence of a zone indicates resistance.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Contamination would appear as stray colonies of a different morphology, not uniform clear circles centered on each disk.",
+          "B": "If the disk supplied a nutrient, growth would increase around it rather than leaving a clear zone.",
+          "C": "Resistance is shown by growth right up to the disk with little or no clear zone.",
+          "D": "Fungal overgrowth would appear as fuzzy or creamy colonies, not a clear zone where nothing grows."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-032_pa005_f06.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "This is a urine dipstick being read against a color chart, part of the urinalysis chemical exam that assesses pH, protein, glucose, ketones, bilirubin, leukocyte esterase, nitrites, and blood.",
         "whyCorrect": "This is a urine dipstick being read against a color chart, part of the urinalysis chemical exam that assesses pH, protein, glucose, ketones, bilirubin, leukocyte esterase, nitrites, and blood.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "ABO typing mixes red cells with anti-A and anti-B reagents and looks for agglutination, not color changes on a strip.",
+          "C": "Reading a bacterial culture means inspecting colonies on agar plates, not comparing a strip to a color chart.",
+          "D": "Prothrombin time is measured on citrated plasma in a coagulation analyzer, not by dipstick.",
+          "E": "Glucose meters read a drop of capillary blood electronically, not urine strips against a color block."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-033_pa005_f07.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Hepatitis C rarely causes symptomatic acute infection but frequently becomes chronic, marked by portal lymphocytic/lymphoplasmacytic inflammation that can progress to cirrhosis.",
         "whyCorrect": "Hepatitis C rarely causes symptomatic acute infection but frequently becomes chronic, marked by portal lymphocytic/lymphoplasmacytic inflammation that can progress to cirrhosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hepatitis E is enterically spread and usually causes self-limited acute hepatitis, with chronicity only in immunosuppressed patients.",
+          "B": "Hepatitis D is a defective virus that requires hepatitis B coinfection and is not the most common cause of chronic hepatitis.",
+          "C": "Hepatitis A causes only acute, self-limited hepatitis and never becomes chronic.",
+          "D": "Hepatitis B can become chronic, but most adult infections clear; hepatitis C becomes chronic in most infected people."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-010_pa016_f06.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The trichrome stain colors collagen blue, highlighting the delicate bridging fibrosis that develops later in the course of chronic hepatitis C.",
         "whyCorrect": "The trichrome stain colors collagen blue, highlighting the delicate bridging fibrosis that develops later in the course of chronic hepatitis C.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hemosiderin is shown blue by Prussian blue as granules in cells, not as linear bridging septa.",
+          "B": "Amyloid is highlighted by Congo red with apple-green birefringence, not blue on trichrome.",
+          "C": "Fibrin stains red on trichrome and forms thrombi or exudates, not bridging septa.",
+          "E": "Necrotic hepatocytes appear eosinophilic and anucleate on H&E; they are not stained blue as septa."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-011_pa016_f07.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Multifocal strictures with intervening dilation ('beading') of the intra- and extrahepatic ducts on MRCP/ERCP is the gold-standard imaging finding of primary sclerosing cholangitis.",
         "whyCorrect": "Multifocal strictures with intervening dilation ('beading') of the intra- and extrahepatic ducts on MRCP/ERCP is the gold-standard imaging finding of primary sclerosing cholangitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Primary biliary cholangitis destroys small intrahepatic ducts that are not visible on cholangiography, so imaging is usually normal.",
+          "C": "Choledocholithiasis shows filling defects from stones in the common bile duct with upstream dilation, not multifocal beading.",
+          "D": "Autoimmune hepatitis is a hepatocellular disease with a normal biliary tree on cholangiography.",
+          "E": "Cholangiocarcinoma typically produces a single dominant stricture or mass, although it can complicate primary sclerosing cholangitis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-039_pa016_f05.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The florid duct lesion, a granulomatous destruction of interlobular bile ducts with surrounding lymphoplasmacytic infiltrate, is the hallmark histologic finding of primary biliary cholangitis.",
         "whyCorrect": "The florid duct lesion, a granulomatous destruction of interlobular bile ducts with surrounding lymphoplasmacytic infiltrate, is the hallmark histologic finding of primary biliary cholangitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Alcoholic hepatitis shows ballooned hepatocytes, Mallory-Denk bodies and neutrophils, not granulomatous bile duct destruction.",
+          "B": "Chronic hepatitis C shows portal lymphoid aggregates and steatosis; it may injure ducts but does not form florid duct lesions.",
+          "D": "Autoimmune hepatitis shows plasma-cell-rich interface hepatitis attacking hepatocytes rather than bile ducts.",
+          "E": "Primary sclerosing cholangitis shows concentric onion-skin fibrosis around larger ducts, not granulomatous duct destruction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-098_pa016_f03.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Concentric 'onion-skin' periductal fibrosis progressing to obliteration of the bile duct is the characteristic histology of primary sclerosing cholangitis.",
         "whyCorrect": "Concentric 'onion-skin' periductal fibrosis progressing to obliteration of the bile duct is the characteristic histology of primary sclerosing cholangitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Ascending cholangitis shows neutrophils within duct lumens and walls from bacterial infection, not concentric fibrosis.",
+          "C": "Autoimmune hepatitis is plasma-cell-rich interface hepatitis that targets hepatocytes, not bile ducts.",
+          "D": "Primary biliary cholangitis destroys small ducts with lymphocytes and granulomas (florid duct lesion), not onion-skin fibrosis.",
+          "E": "Chronic hepatitis C shows portal lymphoid aggregates and interface activity without concentric periductal fibrosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-099_pa016_f04.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Primary biliary cholangitis presents with fatigue, pruritus, and RUQ pain, with jaundice and splenomegaly in advanced disease; it has a 9:1 female predominance and targets small/medium intrahepatic ducts.",
         "whyCorrect": "Primary biliary cholangitis presents with fatigue, pruritus, and RUQ pain, with jaundice and splenomegaly in advanced disease; it has a 9:1 female predominance and targets small/medium intrahepatic ducts.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hepatitis A causes acute self-limited hepatocellular hepatitis, not chronic autoimmune bile duct destruction.",
+          "B": "Chronic hepatitis C is a viral infection of hepatocytes, not an autoimmune cholestatic disease with marked female predominance.",
+          "D": "Primary sclerosing cholangitis involves larger intra- and extrahepatic ducts, favors men and is associated with ulcerative colitis.",
+          "E": "Autoimmune hepatitis targets hepatocytes with a hepatitic, not cholestatic, pattern, although it also favors women."
+        }
       },
       "difficulty": "medium",
       "imageRef": "papic-150_pa016_f02.png",
